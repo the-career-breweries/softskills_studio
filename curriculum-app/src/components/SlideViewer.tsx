@@ -3,7 +3,26 @@ import { WeekData } from '@/data/curriculum';
 import { X, ChevronLeft, ChevronRight, Loader2, Printer } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
+import mermaid from 'mermaid';
 import PrintTemplates from './PrintTemplates';
+
+mermaid.initialize({ startOnLoad: false, theme: 'default' });
+
+const Mermaid = ({ chart }: { chart: string }) => {
+  const ref = React.useRef<HTMLDivElement>(null);
+  
+  useEffect(() => {
+    if (ref.current) {
+      mermaid.render(`mermaid-${Math.random().toString(36).substring(7)}`, chart).then(({ svg }) => {
+        if (ref.current) {
+          ref.current.innerHTML = svg;
+        }
+      });
+    }
+  }, [chart]);
+
+  return <div ref={ref} className="mermaid-diagram" style={{ display: 'flex', justifyContent: 'center', margin: '2rem 0' }} />;
+};
 
 interface SlideViewerProps {
   weekData: WeekData | null;
@@ -113,7 +132,22 @@ export default function SlideViewer({ weekData, program, stream, semester, onClo
              )}
              <div className="slide-body">
                 {slides.length > 0 && (
-                  <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                  <ReactMarkdown 
+                    remarkPlugins={[remarkGfm]}
+                    components={{
+                      code({ node, inline, className, children, ...props }: any) {
+                        const match = /language-(\w+)/.exec(className || '');
+                        if (!inline && match && match[1] === 'mermaid') {
+                          return <Mermaid chart={String(children).replace(/\n$/, '')} />;
+                        }
+                        return (
+                          <code className={className} {...props}>
+                            {children}
+                          </code>
+                        );
+                      }
+                    }}
+                  >
                     {slides[currentSlide].replace(/<!-- PRINT: (.*?) -->/g, '')}
                   </ReactMarkdown>
                 )}
