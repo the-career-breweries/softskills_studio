@@ -23,7 +23,7 @@
 }
 
 body {
-  font-family: 'Outfit', sans-serif;
+  
   background: var(--bg-gradient);
   color: var(--text-main);
   min-height: 100vh;
@@ -834,6 +834,6 @@ td strong {
 }
 
 /* Mermaid Overrides */
-.mermaid-diagram svg { max-width: 100%; height: auto; font-family: 'Outfit', sans-serif; overflow: visible; }
-.mermaid-diagram .nodeLabel { font-family: 'Outfit', sans-serif; }
+.mermaid-diagram svg { max-width: 100%; height: auto;  overflow: visible; }
+
 
