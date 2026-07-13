@@ -837,3 +837,7 @@ td strong {
 .mermaid-diagram svg { max-width: 100%; height: auto;  overflow: visible; }
 
 
+
+.mermaid-diagram * { font-family: sans-serif !important; }
+.mermaid-diagram .nodeLabel { overflow: visible !important; white-space: nowrap !important; }
+
