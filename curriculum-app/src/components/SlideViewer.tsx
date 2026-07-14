@@ -25,7 +25,7 @@ const Mermaid = ({ chart, theme }: { chart: string, theme: 'light' | 'dark' }) =
             lineColor: theme === 'dark' ? '#818cf8' : '#4f46e5',
             secondaryColor: theme === 'dark' ? '#c084fc' : '#9333ea',
             tertiaryColor: theme === 'dark' ? '#0f172a' : '#e2e8f0',
-            fontSize: '20px'
+            fontSize: '26px'
           },
           fontFamily: '"Outfit", sans-serif',
           flowchart: {
