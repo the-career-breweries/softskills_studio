@@ -23,11 +23,11 @@ If you are pursuing a professional certification, your roadmap is heavily struct
 ### The CA Roadmap
 ```mermaid
 flowchart LR
-    A[B.Com<br/>Foundation] --> B[CA Foundation<br/>Exam]
-    B --> C[CA<br/>Intermediate]
-    C --> D{Articleship<br/>3 Years}
-    D --> E[CA Final<br/>Exam]
-    E --> F((Chartered<br/>Accountant))
+    A[B.Com Foundation] --> B[CA Foundation Exam]
+    B --> C[CA Intermediate]
+    C --> D{Articleship 3 Years}
+    D --> E[CA Final Exam]
+    E --> F((Chartered Accountant))
     
     style A fill:#dcebea,stroke:#01696f,stroke-width:2px
     style F fill:#437a22,stroke:#2b4d16,stroke-width:2px,color:#fff
