@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { curriculumData, WeekData } from '@/data/curriculum';
 import { Search, Loader2, Sparkles, Presentation } from 'lucide-react';
 import SlideViewer from '@/components/SlideViewer';
@@ -23,6 +23,29 @@ export default function CurriculumApp() {
 
   // Presentation State
   const [presentingWeek, setPresentingWeek] = useState<WeekData | null>(null);
+
+  // Fullscreen Keybinding (f/F)
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      // Ignore if user is typing in an input field
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement || e.target instanceof HTMLSelectElement) return;
+
+      if (e.key === 'f' || e.key === 'F') {
+        if (!document.fullscreenElement) {
+          document.documentElement.requestFullscreen().catch(err => {
+            console.warn(`Could not enable fullscreen: ${err.message}`);
+          });
+        } else {
+          if (document.exitFullscreen) {
+            document.exitFullscreen();
+          }
+        }
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, []);
 
   // Handle program change
   const handleProgramChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
