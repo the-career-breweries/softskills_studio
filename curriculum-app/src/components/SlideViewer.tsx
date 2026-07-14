@@ -19,12 +19,12 @@ const Mermaid = ({ chart, theme }: { chart: string, theme: 'light' | 'dark' }) =
           theme: 'base',
           themeVariables: {
             fontFamily: '"Outfit", sans-serif',
-            primaryColor: theme === 'dark' ? 'rgba(255, 255, 255, 0.05)' : 'rgba(255, 255, 255, 0.7)',
-            primaryTextColor: theme === 'dark' ? '#f8fafc' : '#0f172a',
-            primaryBorderColor: theme === 'dark' ? '#818cf8' : '#4f46e5',
-            lineColor: theme === 'dark' ? '#818cf8' : '#4f46e5',
-            secondaryColor: theme === 'dark' ? '#c084fc' : '#9333ea',
-            tertiaryColor: theme === 'dark' ? '#0f172a' : '#e2e8f0',
+            primaryColor: theme === 'dark' ? 'rgba(255, 255, 255, 0.12)' : 'rgba(255, 255, 255, 0.7)',
+            primaryTextColor: theme === 'dark' ? '#ffffff' : '#0f172a',
+            primaryBorderColor: theme === 'dark' ? '#a5b4fc' : '#4f46e5',
+            lineColor: theme === 'dark' ? '#a5b4fc' : '#4f46e5',
+            secondaryColor: theme === 'dark' ? '#d8b4fe' : '#9333ea',
+            tertiaryColor: theme === 'dark' ? '#1e293b' : '#e2e8f0',
             fontSize: '26px'
           },
           fontFamily: '"Outfit", sans-serif',
@@ -162,7 +162,16 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
                       code({ node, inline, className, children, ...props }: any) {
                         const match = /language-(\w+)/.exec(className || '');
                         if (!inline && match && match[1] === 'mermaid') {
-                          return <Mermaid chart={String(children).replace(/\n$/, '')} theme={theme} />;
+                          return (
+                            <>
+                              <div className="mermaid-screen">
+                                <Mermaid chart={String(children).replace(/\n$/, '')} theme={theme} />
+                              </div>
+                              <div className="mermaid-print">
+                                <Mermaid chart={String(children).replace(/\n$/, '')} theme="light" />
+                              </div>
+                            </>
+                          );
                         }
                         return (
                           <code className={className} {...props}>
