@@ -859,7 +859,19 @@ td strong {
 }
 
 /* Mermaid Overrides */
-.mermaid-diagram svg { width: 100% !important; max-width: 1200px !important; height: auto !important; overflow: visible !important; }
+.mermaid-diagram {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.mermaid-diagram svg { 
+  max-width: 100% !important; 
+  max-height: 70vh !important; 
+  width: auto !important; 
+  height: auto !important; 
+  overflow: visible !important; 
+}
 
 .mermaid-diagram * { font-family: "Outfit", sans-serif !important; }
 
