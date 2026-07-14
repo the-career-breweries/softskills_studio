@@ -335,8 +335,8 @@ tr:hover {
 
 
 td strong {
-  color: #fff;
-  font-size: 1.8rem;
+  color: var(--text-main);
+  font-size: inherit;
 }
 
 /* --- Presentation Slide Modal Styles --- */
@@ -439,7 +439,7 @@ td strong {
 }
 
 .markdown-slide h2 {
-  font-size: 3.5rem;
+  font-size: 2.5rem;
   color: var(--text-main);
   margin-bottom: 2rem;
   font-weight: 600;
@@ -448,7 +448,7 @@ td strong {
 }
 
 .markdown-slide h3 {
-  font-size: 3rem;
+  font-size: 2.2rem;
   color: var(--accent-secondary);
   margin-bottom: 1.5rem;
   font-weight: 600;
@@ -456,7 +456,7 @@ td strong {
 }
 
 .markdown-slide p {
-  font-size: 2.4rem;
+  font-size: 1.8rem;
   color: var(--text-muted);
   line-height: 1.6;
   font-weight: 300;
@@ -464,7 +464,7 @@ td strong {
 }
 
 .markdown-slide ul, .markdown-slide ol {
-  font-size: 2.4rem;
+  font-size: 1.8rem;
   color: var(--text-muted);
   line-height: 1.6;
   font-weight: 300;
