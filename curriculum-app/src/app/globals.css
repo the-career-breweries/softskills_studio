@@ -350,9 +350,9 @@ td strong {
 }
 
 .slide-container {
-  width: 90vw;
-  height: 80vh;
-  max-width: 1400px;
+  width: 98vw;
+  height: 96vh;
+  max-width: none;
   background: var(--bg-gradient);
   border-radius: var(--radius-lg);
   border: 1px solid var(--accent-primary);
