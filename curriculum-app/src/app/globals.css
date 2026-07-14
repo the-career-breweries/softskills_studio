@@ -23,7 +23,7 @@
 }
 
 body {
-  font-size: 20px;
+  font-size: 24px;
   
   background: var(--bg-gradient);
   color: var(--text-main);
@@ -33,7 +33,7 @@ body {
 
 /* App Container */
 .app-container {
-  max-width: 1600px;
+  max-width: 96%;
   margin: 0 auto;
   padding: 2rem;
 }
@@ -507,9 +507,9 @@ td strong {
 }
 
 .slide-body {
-  font-size: 20px;
+  font-size: 24px;
   width: 100%;
-  max-width: 1600px;
+  max-width: 96%;
   margin: 0 auto;
 }
 
@@ -754,7 +754,7 @@ td strong {
   }
 
   .johari-body {
-  font-size: 20px;
+  font-size: 24px;
     display: flex;
     width: 100%;
   }
@@ -847,5 +847,6 @@ td strong {
 
 
 .mermaid-diagram .nodeLabel { overflow: visible !important; white-space: nowrap !important; }
+
 
 
