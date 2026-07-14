@@ -22,7 +22,7 @@
   padding: 0;
 }
 
-body {
+html, body {
   font-size: 24px;
   
   background: var(--bg-gradient);
@@ -191,8 +191,8 @@ select option {
 }
 
 .present-btn {
-  padding: 0.5rem 1rem;
-  font-size: 0.9rem;
+  padding: 1.2rem 2.5rem;
+  font-size: 1.5rem;
   box-shadow: 0 4px 10px rgba(129, 140, 248, 0.2);
 }
 
@@ -283,14 +283,15 @@ th {
   font-weight: 600;
   color: var(--text-muted);
   text-transform: uppercase;
-  font-size: 0.85rem;
+  font-size: 1.4rem;
   letter-spacing: 1px;
 }
 
 td {
-  padding: 1.5rem;
+  padding: 2.5rem;
   border-bottom: 1px solid var(--surface-glass-border);
   vertical-align: top;
+  font-size: 1.6rem;
 }
 
 tr:last-child td {
@@ -314,7 +315,7 @@ tr:hover {
 
 td strong {
   color: #fff;
-  font-size: 1.1rem;
+  font-size: 1.8rem;
 }
 
 /* --- Presentation Slide Modal Styles --- */
@@ -847,6 +848,7 @@ td strong {
 
 
 .mermaid-diagram .nodeLabel { overflow: visible !important; white-space: nowrap !important; }
+
 
 
 
