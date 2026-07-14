@@ -10,7 +10,7 @@ Do not walk a CEO through the 40 tabs of your Excel model. Start with the bottom
 
 ### The Financial Pyramid Structure
 `mermaid
-flowchart TD
+flowchart LR
     A[Core Financial Recommendation] --> B[Impact on Revenue]
     A --> C[Impact on Costs/Margins]
     A --> D[Risk Factors]

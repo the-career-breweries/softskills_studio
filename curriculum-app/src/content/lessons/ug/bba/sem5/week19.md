@@ -10,7 +10,7 @@ Unlike an employee, a consultant or freelancer is a "business of one." You are n
 
 ### The Client Acquisition Funnel
 ```mermaid
-flowchart TD
+flowchart LR
     A[Define Niche Service] --> B[Outbound Prospecting / Inbound Content]
     B --> C[Discovery Call]
     C --> D[Proposal & Pricing]

@@ -12,7 +12,7 @@ These are standardized tests designed to measure your cognitive abilities and be
 
 ### The Standard Testing Structure
 ```mermaid
-flowchart TD
+flowchart LR
     A[Online Application] --> B[Aptitude Test / Psychometric]
     B -- Fails cutoff --> C[Automated Rejection]
     B -- Passes cutoff --> D[Resume Screening]

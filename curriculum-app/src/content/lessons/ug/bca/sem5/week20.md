@@ -17,7 +17,7 @@ Your GitHub profile is your real resume for technical recruiters.
 
 ### The Project Lifecycle
 ```mermaid
-flowchart TD
+flowchart LR
     A[Identify Problem to Solve] --> B[System Architecture & Tech Stack]
     B --> C[Iterative Coding & Commits]
     C --> D[Documentation & Deployment]

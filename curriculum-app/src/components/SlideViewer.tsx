@@ -59,6 +59,8 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [printTemplateId, setPrintTemplateId] = useState<string | null>(null);
+  const [isPrintingSlide, setIsPrintingSlide] = useState(false);
+  const hasMermaid = slides.length > 0 && slides[currentSlide]?.includes('```mermaid');
 
   // Check for print tag on slide change
   useEffect(() => {
@@ -125,7 +127,7 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
   if (!weekData) return null;
 
   return (
-    <div className="slide-modal-overlay">
+    <div className={`slide-modal-overlay ${isPrintingSlide ? 'is-printing-slide' : ''}`}>
       <div className="slide-container">
         <button className="close-btn" onClick={onClose} aria-label="Close Presentation">
           <X size={40} />
@@ -193,11 +195,21 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
             </div>
 
             <div style={{ display: 'flex', gap: '1rem' }}>
-              {printTemplateId && (
+              {(printTemplateId || hasMermaid) && (
                 <button 
-                  onClick={() => window.print()}
+                  onClick={() => {
+                    if (hasMermaid && !printTemplateId) {
+                      setIsPrintingSlide(true);
+                      setTimeout(() => {
+                        window.print();
+                        setIsPrintingSlide(false);
+                      }, 100);
+                    } else {
+                      window.print();
+                    }
+                  }}
                   className="nav-btn print-btn-trigger"
-                  title="Print Worksheet"
+                  title="Print Roadmap or Worksheet"
                 >
                   <Printer size={32} />
                 </button>

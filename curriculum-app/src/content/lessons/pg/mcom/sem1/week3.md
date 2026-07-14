@@ -13,7 +13,7 @@ During audit season, you cannot simply "work harder." You must work smarter.
 
 ### The Accountability Loop
 `mermaid
-flowchart TD
+flowchart LR
     A[Define Reporting Deadlines] --> B[Execute Daily Reconciliation]
     B --> C[Audit & Verify]
     C --> D[Reflect on Bottlenecks]

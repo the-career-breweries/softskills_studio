@@ -12,7 +12,7 @@ Companies use DSA to test your problem-solving skills and your understanding of 
 
 ### The Interview Progression
 ```mermaid
-flowchart TD
+flowchart LR
     A[Online Assessment OA] --> B[Technical Phone Screen]
     B --> C[Onsite Whiteboard Coding]
     C --> D[System Design / HR Round]

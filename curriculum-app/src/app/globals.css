@@ -687,6 +687,19 @@ td strong {
     color: black !important;
   }
 
+  /* Roadmap Printing Overrides */
+  .is-printing-slide .slide-content {
+    display: block !important;
+  }
+  
+  .is-printing-slide .print-only {
+    display: none !important;
+  }
+
+  .is-printing-slide .mermaid-diagram {
+    page-break-inside: avoid;
+  }
+
   /* Print Template Styling */
   .print-header {
     text-align: center;

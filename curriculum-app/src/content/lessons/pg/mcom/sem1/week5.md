@@ -13,7 +13,7 @@ If you look nervous while presenting a risk assessment, the board will panic. Yo
 
 ### The Financial Communication Pyramid
 `mermaid
-flowchart TD
+flowchart LR
     A[The Bottom Line / Recommendation] --> B[Key Financial Drivers]
     B --> C[Risk Assessment]
     C --> D[Supporting Data / Appendices]

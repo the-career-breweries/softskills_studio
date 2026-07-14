@@ -12,7 +12,7 @@ A business case study presents a real-world scenario involving a company facing 
 
 ### The Case Analysis Framework
 ```mermaid
-flowchart TD
+flowchart LR
     A[Read & Understand Context] --> B[Identify Core Problem]
     B --> C[Analyze Data & Constraints]
     C --> D[Propose 2-3 Alternatives]

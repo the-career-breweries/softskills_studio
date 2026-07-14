@@ -15,7 +15,7 @@ Structure every answer using the STAR method:
 
 ### The STAR Flow in Finance
 `mermaid
-flowchart TD
+flowchart LR
     A[The Financial Problem] --> B[Your Specific Responsibility]
     B --> C[Your Analytical Action]
     C --> D[The Quantifiable Business Impact]

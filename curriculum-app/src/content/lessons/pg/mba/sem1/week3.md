@@ -13,7 +13,7 @@ Time management is about scheduling your 24 hours. Energy management is about op
 
 ### The Accountability Loop
 `mermaid
-flowchart TD
+flowchart LR
     A[Set Clear Goals] --> B[Execute Daily Systems]
     B --> C[Measure Outcomes]
     C --> D[Reflect and Adjust]

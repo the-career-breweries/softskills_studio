@@ -17,7 +17,7 @@ Frontend engineers focus on the user interface and experience. They build what t
 
 ### The Frontend Roadmap
 ```mermaid
-flowchart TD
+flowchart LR
     A[HTML/CSS/JS Basics] --> B[React.js / State Management]
     B --> C[API Integration & Web Performance]
     C --> D[Frontend Engineer]
@@ -36,7 +36,7 @@ Backend engineers build the invisible architecture that powers the app: database
 
 ### The Backend Roadmap
 ```mermaid
-flowchart TD
+flowchart LR
     A[Programming Language Mastery] --> B[Database Design & SQL]
     B --> C[API Development & Security]
     C --> D[Backend Engineer]

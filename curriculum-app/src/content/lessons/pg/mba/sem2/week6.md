@@ -11,7 +11,7 @@ Instead of building up to a conclusion (like a mystery novel), you start with th
 
 ### The Pyramid Structure
 `mermaid
-flowchart TD
+flowchart LR
     A[Core Recommendation / Conclusion] --> B[Supporting Argument 1]
     A --> C[Supporting Argument 2]
     A --> D[Supporting Argument 3]

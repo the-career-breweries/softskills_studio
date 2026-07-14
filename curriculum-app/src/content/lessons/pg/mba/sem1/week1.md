@@ -14,7 +14,7 @@ The transition from a student to an executive requires a shift in how you approa
 
 ### The MBA Transformation
 ```mermaid
-flowchart TD
+flowchart LR
     A[Individual Contributor Mindset] --> B[Cross-Functional Understanding]
     B --> C[Strategic Decision Making]
     C --> D[Executive Leadership Identity]

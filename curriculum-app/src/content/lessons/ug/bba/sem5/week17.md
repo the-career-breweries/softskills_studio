@@ -20,7 +20,7 @@ The HR route is highly structured and starts with administrative or recruitment 
 
 ### The HR Roadmap
 ```mermaid
-flowchart TD
+flowchart LR
     A[BBA Degree] --> B[HR Executive / Recruiter]
     B --> C[Talent Acquisition]
     C --> D[HR Generalist]
@@ -60,7 +60,7 @@ Operations roles are the backbone of e-commerce, manufacturing, and IT services.
 
 ### The Operations Roadmap
 ```mermaid
-flowchart TD
+flowchart LR
     A[BBA Degree] --> B[Operations Analyst]
     B --> C[Logistics Coordinator]
     C --> D[Process Manager]

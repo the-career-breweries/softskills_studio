@@ -10,7 +10,7 @@ If you are proposing an acquisition, the board wants the valuation, the risks, a
 
 ### The Anatomy of a Financial Proposal
 `mermaid
-flowchart TD
+flowchart LR
     A[BLUF: The Deal & Price] --> B[Strategic Rationale]
     B --> C[Valuation Metrics & Synergies]
     C --> D[Key Risks & Mitigation]

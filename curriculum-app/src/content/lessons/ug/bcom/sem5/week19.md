@@ -24,7 +24,7 @@ How do you actually get paid? Unlike a traditional job, freelancing requires you
 
 ### The Freelance Funnel
 ```mermaid
-flowchart TD
+flowchart LR
     A[Identify a Niche] --> B[Create a Portfolio/Profile]
     B --> C{Cold Outreach / Bidding}
     C -- Client Rejects --> D[Iterate Pitch]

@@ -13,7 +13,7 @@ The biggest mistake finance professionals make is assuming everyone else underst
 
 ### The M.Com Transformation
 `mermaid
-flowchart TD
+flowchart LR
     A[Technical Accounting Skill] --> B[Business Acumen & Context]
     B --> C[Strategic Financial Communication]
     C --> D[Finance Leadership Identity]

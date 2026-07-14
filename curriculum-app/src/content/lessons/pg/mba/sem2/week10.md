@@ -15,7 +15,7 @@ You must structure every answer using the STAR method:
 
 ### The STAR Flow
 `mermaid
-flowchart TD
+flowchart LR
     A[Situation 10%] --> B[Task 10%]
     B --> C[Action 60%]
     C --> D[Result 20%]

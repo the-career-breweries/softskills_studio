@@ -36,7 +36,7 @@ The era of making financial decisions purely on gut feeling is over. Today, ever
 
 ### The Data Analytics Process
 ```mermaid
-flowchart TD
+flowchart LR
     A[Raw Financial Data] --> B(Data Cleaning/Excel)
     B --> C(Data Visualization/PowerBI)
     C --> D(Trend Identification)

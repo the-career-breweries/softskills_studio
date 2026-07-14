@@ -10,7 +10,7 @@ The Executive Summary is the most important part of any business document. It mu
 
 ### The Anatomy of a Business Memo
 `mermaid
-flowchart TD
+flowchart LR
     A[BLUF: Bottom Line Up Front] --> B[Background / Context]
     B --> C[Analysis & Alternatives]
     C --> D[Recommendation & Next Steps]

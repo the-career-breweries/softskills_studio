@@ -12,7 +12,7 @@ Many students confuse the two.
 
 ### The Data Science Workflow
 ```mermaid
-flowchart TD
+flowchart LR
     A[Data Collection & Cleaning] --> B[Exploratory Data Analysis]
     B --> C[Model Training & Evaluation]
     C --> D[Deployment & Monitoring]

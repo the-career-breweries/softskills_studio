@@ -20,7 +20,7 @@ Product managers (PMs) are often called the "CEOs of the product." They don't ne
 
 ### The Product Roadmap
 ```mermaid
-flowchart TD
+flowchart LR
     A[BBA Degree] --> B[Assoc Product Manager]
     B --> C[Product Manager]
     C --> D[Senior Product Manager]
@@ -60,7 +60,7 @@ Companies have more data than ever, but they need people who understand business
 
 ### The Analytics Workflow
 ```mermaid
-flowchart TD
+flowchart LR
     A[Define Problem] --> B[Data Collection]
     B --> C[Data Dashboards]
     C --> D[Actionable Strategy]

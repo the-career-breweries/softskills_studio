@@ -15,7 +15,7 @@ If you listed a technology on your resume, it is fair game.
 
 ### The Behavioral Intersection
 ```mermaid
-flowchart TD
+flowchart LR
     A[Technical Question] --> B{Do you know the answer?}
     B -- Yes --> C[Explain clearly and concisely]
     B -- No --> D[Admit you don't know, but explain how you would figure it out]
