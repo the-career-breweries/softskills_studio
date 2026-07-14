@@ -182,7 +182,7 @@ select option {
 }
 
 .card-header h3 {
-  font-size: 1.4rem;
+  font-size: 2.2rem;
   font-weight: 600;
   display: flex;
   align-items: center;
@@ -193,10 +193,11 @@ select option {
   background: var(--accent-gradient);
   color: white;
   border: none;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 99px;
   font-family: inherit;
   font-weight: 600;
+  font-size: 1.4rem;
   
   cursor: pointer;
   display: flex;
@@ -207,8 +208,8 @@ select option {
 }
 
 .present-btn {
-  padding: 1.2rem 2.5rem;
-  font-size: 1.5rem;
+  padding: 1.5rem 3rem;
+  font-size: 2rem;
   box-shadow: 0 4px 10px rgba(129, 140, 248, 0.2);
 }
 
@@ -232,6 +233,7 @@ select option {
 
 .hint-text {
   color: var(--text-muted);
+  font-size: 1.4rem;
   
 }
 
