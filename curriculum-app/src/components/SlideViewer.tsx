@@ -28,7 +28,7 @@ const Mermaid = ({ chart, theme }: { chart: string, theme: 'light' | 'dark' }) =
           },
           fontFamily: '"Outfit", sans-serif',
           flowchart: {
-            htmlLabels: true
+            htmlLabels: false
           }
         });
         mermaid.render(`mermaid-${Math.random().toString(36).substring(7)}`, chart).then(({ svg }) => {
