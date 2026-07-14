@@ -40,7 +40,7 @@ const Mermaid = ({ chart, theme }: { chart: string, theme: 'light' | 'dark' }) =
     }
   }, [chart]);
 
-  return <div ref={ref} className="mermaid-diagram" style={{ display: 'flex', justifyContent: 'center', margin: '2rem 0' }} />;
+  return <div ref={ref} className="mermaid-diagram" style={{ display: 'flex', justifyContent: 'center', margin: '2rem 0', width: '100%' }} />;
 };
 
 interface SlideViewerProps {
