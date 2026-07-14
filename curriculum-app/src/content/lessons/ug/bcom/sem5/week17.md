@@ -22,9 +22,21 @@ If you are pursuing a professional certification, your roadmap is heavily struct
 
 ### The CA Roadmap
 ```mermaid
-flowchart LR
-    A[B.Com<br/>Foundation] --> B[CA Foundation<br/>Exam] --> C[CA<br/>Intermediate] --> D{Articleship<br/>3 Years} --> E[CA Final<br/>Exam] --> F((Chartered<br/>Accountant))
+flowchart TB
+    subgraph Row1 [" "]
+        direction LR
+        A[B.Com<br/>Foundation] --> B[CA Foundation<br/>Exam] --> C[CA<br/>Intermediate<br/><br/>↙️]
+    end
     
+    subgraph Row2 [" "]
+        direction LR
+        D{Articleship<br/>3 Years} --> E[CA Final<br/>Exam] --> F((Chartered<br/>Accountant))
+    end
+    
+    Row1 ~~~ Row2
+    
+    style Row1 fill:none,stroke:none,color:none
+    style Row2 fill:none,stroke:none,color:none
     style A fill:#dcebea,stroke:#01696f,stroke-width:2px,color:#0f172a
     style F fill:#437a22,stroke:#2b4d16,stroke-width:2px,color:#fff
 ```
@@ -65,9 +77,21 @@ This route requires clearing highly competitive standardized tests.
 
 ### The Banking Roadmap
 ```mermaid
-flowchart LR
-    A[Graduation] --> B(Prepare for<br/>IBPS/SBI PO) --> C[Prelims] --> D[Mains] --> E[Personal<br/>Interview] --> F((Bank<br/>Probationary Officer))
+flowchart TB
+    subgraph Row1 [" "]
+        direction LR
+        A[Graduation] --> B(Prepare for<br/>IBPS/SBI PO) --> C[Prelims<br/><br/>↙️]
+    end
     
+    subgraph Row2 [" "]
+        direction LR
+        D[Mains] --> E[Personal<br/>Interview] --> F((Bank<br/>Probationary Officer))
+    end
+    
+    Row1 ~~~ Row2
+    
+    style Row1 fill:none,stroke:none,color:none
+    style Row2 fill:none,stroke:none,color:none
     style A fill:#dcebea,stroke:#01696f,stroke-width:2px,color:#0f172a
     style F fill:#437a22,stroke:#2b4d16,stroke-width:2px,color:#fff
 ```
