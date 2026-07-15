@@ -18,11 +18,20 @@ Getting the job is only step one. How you perform in your first 90 days dictates
 
 ---
 
-## Corporate: Navigating Politics
+## Corporate: The "How-To" Execution
 
-1. **Map the Power Dynamics:** The org chart rarely tells the full story. Who really holds the influence?
-2. **Build Cross-Functional Allies:** Don't just network in your department. Know the people in Finance, IT, and Legal.
-3. **Secure an Early Win:** Identify one high-visibility, low-risk project and crush it within your first month.
+1. **How to Map Power Dynamics:** Do not look at titles. Look at calendar invites. Who is consistently included in the high-stakes meetings? Who does the CEO turn to for quick data? Build rapport with *them*.
+2. **How to Build Allies:** Schedule 15-minute "coffee chats" with mid-level managers in IT, Legal, and Finance during your first 3 weeks. Ask them: *"What is the biggest bottleneck you face from my department?"*
+3. **How to Secure an Early Win:** Find a broken, annoying, but non-critical internal process (e.g., how expense reports are logged) and automate or streamline it. It proves competence without threatening anyone's turf.
+
+---
+
+## Corporate: The Way Forward
+
+Your immediate trajectory requires a strict checklist:
+*   **Month 1 (Observation):** Listen aggressively. Do not propose sweeping changes. Learn the culture.
+*   **Month 2 (Integration):** Secure your early win. Become reliable.
+*   **Month 3 (Proactive Value):** Pitch your first strategic initiative to your direct manager.
 
 ---
 
@@ -35,11 +44,20 @@ A great idea without a Go-To-Market (GTM) strategy is a hobby.
 
 ---
 
-## Entrepreneurial: Validation & Pitching
+## Entrepreneurial: The "How-To" Execution
 
-1. **Customer Acquisition Cost (CAC):** Do you know exactly how much it costs to acquire a single paying user?
-2. **The "Mom Test":** How to ask potential customers questions that validate your idea without them lying to be polite.
-3. **The 3-Minute Pitch:** You have 3 minutes to convince an angel investor. Focus on the problem, the solution, the market size, and your unique advantage.
+1. **How to run the "Mom Test":** Never ask *"Would you buy this?"* People will lie to spare your feelings. Ask *"How do you currently solve [Problem]? How much does it cost you?"* 
+2. **How to Calculate CAC:** Track every dollar spent on marketing/sales and divide it by the number of paying users acquired. If CAC > Lifetime Value (LTV), you do not have a business.
+3. **How to Pitch:** Use the 10/20/30 Rule. 10 slides, 20 minutes, 30-point font. Focus immediately on the pain point and how your solution creates a localized monopoly.
+
+---
+
+## Entrepreneurial: The Way Forward
+
+Your immediate trajectory requires relentless momentum:
+*   **Phase 1 (Validation):** Get 10 strangers (not friends/family) to prepay or sign a Letter of Intent (LOI) before you write a single line of code.
+*   **Phase 2 (The MVP):** Build the ugliest, cheapest version of the product that still solves the core problem. Launch it immediately.
+*   **Phase 3 (The Feedback Loop):** Iterate based strictly on user data, not your ego.
 
 ---
 
@@ -52,11 +70,20 @@ In consulting, your technical skills are secondary to your ability to manage the
 
 ---
 
-## Consultant: Advanced Scoping
+## Consultant: The "How-To" Execution
 
-1. **The Scope Creep Trap:** How to politely say "no" or "that will cost extra" when clients demand more than what was agreed upon.
-2. **Executive Summaries:** C-Suite executives don't read 50-page reports. Master the art of the 1-page executive summary.
-3. **The "Trusted Advisor" Status:** Transitioning from a vendor who just does the work, to an advisor who shapes the strategy.
+1. **How to Manage Scope Creep:** When a client asks for something outside the contract, do not say "No." Say: *"That is a great idea. I can add that to the scope. It will add 2 weeks to the timeline and $X to the budget. Would you like me to draft the change order?"*
+2. **How to Write the Executive Summary:** Use the BLUF method (Bottom Line Up Front). State the final recommendation in the first sentence. Follow with 3 bullet points of supporting data. 
+3. **How to become a Trusted Advisor:** Stop talking about deliverables and start talking about their P&L (Profit & Loss). Align your work directly to how it increases their revenue or decreases their costs.
+
+---
+
+## Consultant: The Way Forward
+
+Your immediate trajectory is built on authority and acquisition:
+*   **Step 1 (The Niche):** Stop being a generalist. Pick a specific, highly painful problem for a specific industry (e.g., "I help mid-size logistics companies reduce fleet idle time").
+*   **Step 2 (The Authority):** Publish one white-paper or deep-dive case study proving your methodology. 
+*   **Step 3 (The Retainer):** Transition clients from project-based fee structures to monthly advisory retainers.
 
 ---
 
