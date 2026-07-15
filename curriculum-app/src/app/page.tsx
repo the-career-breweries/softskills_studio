@@ -39,6 +39,33 @@ export default function CurriculumApp() {
     document.documentElement.setAttribute('data-theme', newTheme);
   };
 
+  // Keyboard Shortcuts (Fullscreen, Light/Dark mode)
+  useEffect(() => {
+    const handleGlobalKeyDown = (e: KeyboardEvent) => {
+      // Ignore if user is typing in an input
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
+
+      if (e.key === 'f' || e.key === 'F') {
+        if (!document.fullscreenElement) {
+          document.documentElement.requestFullscreen().catch(err => console.error(err));
+        } else {
+          document.exitFullscreen().catch(err => console.error(err));
+        }
+      } else if (e.key === 'l' || e.key === 'L') {
+        setTheme('light');
+        localStorage.setItem('app-theme', 'light');
+        document.documentElement.setAttribute('data-theme', 'light');
+      } else if (e.key === 'd' || e.key === 'D') {
+        setTheme('dark');
+        localStorage.setItem('app-theme', 'dark');
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
+    };
+
+    window.addEventListener('keydown', handleGlobalKeyDown);
+    return () => window.removeEventListener('keydown', handleGlobalKeyDown);
+  }, []);
+
   // Real-time search state
   const [isSearching, setIsSearching] = useState(false);
   const [searchResults, setSearchResults] = useState<{title: string, link: string, snippet: string}[] | null>(null);
