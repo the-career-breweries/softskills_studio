@@ -54,3 +54,14 @@ You will be evaluated this week on:
 *   **Understanding:** Do you grasp the multi-stage nature of modern interviews?
 *   **Preparation:** Did you find relevant, specific information about your target company?
 *   **Confidence:** Is your introductory pitch clear and structured?
+
+
+---
+
+## Interpersonal Skills Focus: Telephone & Virtual Etiquette
+*   **Tone of Voice**: Use an upbeat tone. State your name and number slowly on voicemails.
+*   **Active Participation**: Avoid multitasking during calls. Others can hear when you are typing or distracted.
+*   **Mobile Phones**: Never use your mobile phone during a business meeting or lunch unless it is an absolute emergency. It signals disrespect.
+
+<!-- PRINT_SLIDE -->
+

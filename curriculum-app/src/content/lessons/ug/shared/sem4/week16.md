@@ -54,3 +54,14 @@ You will be evaluated this week on:
 *   **Tone:** Is the email polite, professional, and appropriately formal?
 *   **Format:** Are the subject line, greeting, and sign-off used correctly?
 *   **Correctness:** Is the email free of typos and grammatical errors?
+
+
+---
+
+## Interpersonal Skills Focus: Emotional Regulation
+*   **Cognitive Reappraisal**: Altering the way you think about a stressful situation to lower your emotional reaction.
+*   **Adaptability**: Objectively evaluating sudden changes rather than panicking.
+*   **Self-Compassion**: Maintaining self-worth even in the face of professional failure.
+
+<!-- PRINT_SLIDE -->
+

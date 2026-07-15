@@ -65,3 +65,14 @@ The panel is instructed to ask tough, probing questions about the candidate's re
 The key to surviving an advanced interview is **composure**. Interviewers don't expect you to know everything; they want to see how you handle *not* knowing something.
 
 Next week is Week 24—our final session of the BBA soft skills curriculum. We will put everything together in a **Final Practice & Review**!
+
+
+---
+
+## Interpersonal Skills Focus: Timing & Control in Feedback
+*   **Well-Timed**: Deliver feedback shortly after the event, not six months later at an annual review.
+*   **Controllable**: Only criticize things the employee actually has the power to change. Punishing someone for a train delay builds resentment, not productivity.
+*   **Ensure Understanding**: Have the recipient rephrase the feedback to guarantee the message was received accurately.
+
+<!-- PRINT_SLIDE -->
+

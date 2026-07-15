@@ -50,3 +50,14 @@ Code sitting on your laptop is useless. You must deploy it so others can see it.
 Review your current GitHub profile and plan your next portfolio project.
 
 <!-- PRINT: BCA_PortfolioAudit -->
+
+
+---
+
+## Interpersonal Skills Focus: Netiquette (Online Etiquette)
+*   **Avoid "Reply All"**: Unless absolutely necessary, do not clutter your colleagues' inboxes.
+*   **Emotions under Control**: The instantaneous nature of IMs can lead to regrettable outbursts. Step away before sending an angry message.
+*   **Respect Virtual Space**: Do not assume your colleagues are available 24/7 just because their dot is green.
+
+<!-- PRINT_SLIDE -->
+

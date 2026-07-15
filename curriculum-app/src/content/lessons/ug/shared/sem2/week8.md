@@ -54,3 +54,15 @@ You will be evaluated this week on:
 *   **Structure:** Did your presentation have a clear opening, 3 body points, and a closing?
 *   **Delivery:** Did you maintain eye contact and plant your feet confidently?
 *   **Timing:** Did you stay within the 2-3 minute limit?
+
+
+---
+
+## Interpersonal Skills Focus: Overcoming Listening Barriers
+*Avoid Selective Listening*—where you tune out until you hear something you agree with!
+*   **Physical Barriers**: Noise, poor connection, or visual distractions.
+*   **Psychological Barriers**: Prejudgment, defensiveness, or emotional triggers.
+*   **Mental Wander**: The brain processes information much faster than people speak, leaving "free time" for your mind to drift. Actively summarize what you hear to stay engaged.
+
+<!-- PRINT_SLIDE -->
+

@@ -46,3 +46,15 @@ Your Upwork or Fiverr profile is your digital storefront.
 Draft the headline and bio for your first freelance profile, focusing on a specific niche.
 
 <!-- PRINT: BBAFreelanceProfile -->
+
+
+---
+
+## Interpersonal Skills Focus: Media Richness Theory
+Not all communication channels are created equal. You must choose the right medium for the message.
+*   **Rich Channels** (Video calls, Face-to-face): Best for complex negotiations, emotional discussions, and resolving severe conflicts.
+*   **Lean Channels** (Emails, Memos, Texts): Best for routine, unambiguous data transfer. 
+*   *Rule of Thumb*: Never fire someone or break terrible news over a lean channel!
+
+<!-- PRINT_SLIDE -->
+

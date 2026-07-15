@@ -26,3 +26,15 @@ flowchart LR
 Act as the neutral finance facilitator for a 15-minute departmental budget dispute.
 
 <!-- PRINT: PG_Facilitation -->
+
+
+---
+
+## Executive Interpersonal Skills: Evaluating Feedback Styles
+Effective managers tailor their feedback to the individual:
+*   **High Performers**: Need frequent, subtle prodding to maintain high growth without feeling micromanaged.
+*   **Adequate Performers**: Need minimal feedback; they are reliable and steady.
+*   **Poor Performers**: Need highly frequent, specific, and documented feedback tied directly to performance consequences.
+
+<!-- PRINT_SLIDE -->
+

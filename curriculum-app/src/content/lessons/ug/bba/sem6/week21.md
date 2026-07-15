@@ -67,3 +67,15 @@ Use the worksheet below to track your performance and identify your weak spots.
 Aptitude tests are purely about practice. They test speed and pattern recognition, which can only be built through repetition. 
 
 Next week, we will cover **Workplace Tools**—ensuring that the digital files you submit to employers are formatted to corporate standards.
+
+
+---
+
+## Interpersonal Skills Focus: The Value of Constructive Feedback
+The true test of a leader is their ability to both deliver and receive critical feedback.
+Feedback is not just about correcting mistakes; it is a vital form of recognition that motivates employees.
+*   **Positive Feedback**: Readily accepted, reinforces good behavior.
+*   **Negative Feedback**: Meets high resistance. It must be delivered carefully, preferably supported by hard, objective data.
+
+<!-- PRINT_SLIDE -->
+

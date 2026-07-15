@@ -38,3 +38,14 @@ Before you can lead a company, you must know where you stand today. Your "Profes
 Complete your professional baseline reflection. This will serve as the foundation for your growth over the next two years.
 
 <!-- PRINT: PG_ProfBaseline -->
+
+
+---
+
+## Executive Interpersonal Skills: The Transactional Model
+As a postgraduate, your understanding of communication must transcend basic transmission. 
+You are never just a sender or a receiver. You are a **transceiver**. 
+Based on *Systems Theory*, every element in a communication ecosystem interconnectedly impacts the other. A change in your micro-expression alters your partner's decoding in real-time, which instantly alters their encoding.
+
+<!-- PRINT_SLIDE -->
+

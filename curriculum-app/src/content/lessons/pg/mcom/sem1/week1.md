@@ -36,3 +36,14 @@ Assess your current capabilities. Are you purely technical, or can you lead a co
 Complete your professional baseline reflection, focusing on your financial communication gaps.
 
 <!-- PRINT: PG_ProfBaseline -->
+
+
+---
+
+## Executive Interpersonal Skills: The Transactional Model
+As a postgraduate, your understanding of communication must transcend basic transmission. 
+You are never just a sender or a receiver. You are a **transceiver**. 
+Based on *Systems Theory*, every element in a communication ecosystem interconnectedly impacts the other. A change in your micro-expression alters your partner's decoding in real-time, which instantly alters their encoding.
+
+<!-- PRINT_SLIDE -->
+

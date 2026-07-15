@@ -31,3 +31,13 @@ When sitting in a board meeting, you must listen globally. How is the CEO reacti
 Participate in an exercise where you must deduce the hidden financial agenda of a speaker.
 
 <!-- PRINT: PG_AnalyticalListen -->
+
+
+---
+
+## Executive Interpersonal Skills: Hyperpersonal Relationships
+Paradoxically, online relationships can become *more* intimate than face-to-face ones. 
+This occurs because we selectively present our best selves and idealize our partners due to the absence of distracting physical flaws and the ability to perfectly edit our responses.
+
+<!-- PRINT_SLIDE -->
+

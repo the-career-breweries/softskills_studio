@@ -34,3 +34,15 @@ Shift the focus from "Who is right?" to "What does the data say?" or "Which opti
 Act as the neutral facilitator for a complex, 15-minute business case discussion.
 
 <!-- PRINT: PG_Facilitation -->
+
+
+---
+
+## Executive Interpersonal Skills: Evaluating Feedback Styles
+Effective managers tailor their feedback to the individual:
+*   **High Performers**: Need frequent, subtle prodding to maintain high growth without feeling micromanaged.
+*   **Adequate Performers**: Need minimal feedback; they are reliable and steady.
+*   **Poor Performers**: Need highly frequent, specific, and documented feedback tied directly to performance consequences.
+
+<!-- PRINT_SLIDE -->
+

@@ -33,3 +33,13 @@ If a junior analyst makes a data entry error that makes it into the final board 
 Draft a personal time and energy management plan for high-stress reporting periods.
 
 <!-- PRINT: PG_PerfManagement -->
+
+
+---
+
+## Executive Interpersonal Skills: Social Information Processing
+While early theories (Cues-Filtered-Out) believed electronic communication was too "lean" for relationships, modern research proves otherwise.
+*   **Social Information Processing**: We *can* communicate emotional depth online, it just takes longer without nonverbal cues.
+
+<!-- PRINT_SLIDE -->
+

@@ -35,3 +35,14 @@ Never make an assertion without data to back it up.
 Take a complex financial or operational concept and explain it clearly and logically to a non-expert audience using the Pyramid Principle.
 
 <!-- PRINT: PG_ConceptExplain -->
+
+
+---
+
+## Executive Interpersonal Skills: Overcoming Resistance to Change
+When implementing new systems, resistance is logical. 
+Do not accuse or bulldoze. Use *empathic listening* to bring their resistance into the open ("I understand this transition is difficult...").
+Acknowledge objections fairly to lower defenses and build alliance.
+
+<!-- PRINT_SLIDE -->
+

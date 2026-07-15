@@ -54,3 +54,15 @@ You will be evaluated this week on:
 *   **Format:** Are the documents structured cleanly and professionally?
 *   **Accuracy:** Are they free of spelling and grammar errors?
 *   **Professionalism:** Does the email strike the appropriate professional tone?
+
+
+---
+
+## Interpersonal Skills Focus: Navigating Group Dynamics
+Every team member naturally assumes a role. Which one are you?
+*   **Task-Facilitating Roles**: Initiating, coordinating, procedure setting. (Highly Productive)
+*   **Team-Maintenance Roles**: Encouraging, harmonizing, compromising. (Highly Productive)
+*   **Self-Oriented Roles**: Controlling, withdrawing, attention seeking. (Dysfunctional & Destructive)
+
+<!-- PRINT_SLIDE -->
+

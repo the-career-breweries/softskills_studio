@@ -31,3 +31,13 @@ In finance, imprecise language is a liability.
 Draft a concise, high-impact business memo summarizing the financial viability of a proposed corporate project.
 
 <!-- PRINT: PG_AnalyticalWriting -->
+
+
+---
+
+## Executive Interpersonal Skills: Enterprise Content Management
+To scale productivity, executives must deploy the correct collaboration frameworks:
+*   **Content Management Systems (CMS)**: Tightly controlled workflows for official public-facing data. Ensuring brand consistency and legal compliance.
+
+<!-- PRINT_SLIDE -->
+

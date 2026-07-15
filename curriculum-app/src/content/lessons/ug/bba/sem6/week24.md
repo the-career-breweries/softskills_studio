@@ -59,3 +59,13 @@ Congratulations! You have completed the 24-week BBA Soft Skills curriculum.
 Remember, the skills you learned here—how to listen actively, how to articulate your thoughts clearly, how to write a professional email, and how to defend your ideas—are not just "interview skills." They are **life skills** that will dictate the trajectory of your entire career.
 
 Good luck with your placements!
+
+
+---
+
+## Interpersonal Skills Focus: Receiving Feedback Gracefully
+When you receive constructive criticism (even if it feels destructive), suppress your ego.
+Use *active listening* to understand their perspective. Paraphrase their concerns to ensure you comprehend the root issue, and view it strictly as an opportunity for professional growth. Defensiveness stunts your career.
+
+<!-- PRINT_SLIDE -->
+

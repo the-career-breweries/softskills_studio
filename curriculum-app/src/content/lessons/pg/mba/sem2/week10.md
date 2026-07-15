@@ -36,3 +36,13 @@ You ask: "Tell me about a time you worked on a project for months, and it was su
 Participate in a rapid-fire STAR-style behavioral interview lab, acting as both the interviewer and the candidate.
 
 <!-- PRINT: PG_InterviewDesign -->
+
+
+---
+
+## Executive Interpersonal Skills: Groupware & Virtual Workspaces
+*   **Shared Workspaces**: Virtual offices that break geographical boundaries, allowing simultaneous document editing and social networking within the corporate firewall. 
+As a leader, you must foster an inclusive culture inside these digital walls to prevent remote workers from feeling isolated.
+
+<!-- PRINT_SLIDE -->
+

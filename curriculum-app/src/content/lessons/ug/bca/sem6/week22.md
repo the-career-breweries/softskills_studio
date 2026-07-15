@@ -46,3 +46,15 @@ When asked to design a system (e.g., "Design Twitter"), follow this flow:
 Apply basic system design principles to architecture a simple URL shortener like Bitly.
 
 <!-- PRINT: BCA_SystemDesign -->
+
+
+---
+
+## Interpersonal Skills Focus: Delivering Actionable Criticism
+If you must deliver negative feedback, follow these rules:
+1.  **Focus on Specific Behaviors**: Don't say "You have a bad attitude." Say "You were 30 minutes late to the client meeting."
+2.  **Keep it Impersonal**: Criticize the *job-related action*, not the *person*.
+3.  **Goal-Oriented**: Feedback should help the recipient achieve their goals, not just to let you "vent."
+
+<!-- PRINT_SLIDE -->
+

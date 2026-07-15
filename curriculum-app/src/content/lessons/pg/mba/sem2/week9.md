@@ -35,3 +35,13 @@ As the chair, you are the conductor. You are responsible for the energy and the 
 Chair a 10-minute mock meeting with a disruptive participant and a tight agenda.
 
 <!-- PRINT: PG_MeetingLeadership -->
+
+
+---
+
+## Executive Interpersonal Skills: Enterprise Wikis
+*   **Wikis**: Fluid, community-driven hubs for internal knowledge accumulation. 
+They democratize information but require strict access control and rollback features to prevent vandalism or data loss.
+
+<!-- PRINT_SLIDE -->
+

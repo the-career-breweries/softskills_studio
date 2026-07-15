@@ -49,3 +49,15 @@ DevOps sits between Software Development and IT Operations. It focuses on automa
 Design a basic cloud architecture for a scalable web application.
 
 <!-- PRINT: BCA_CloudArch -->
+
+
+---
+
+## Interpersonal Skills Focus: Media Richness Theory
+Not all communication channels are created equal. You must choose the right medium for the message.
+*   **Rich Channels** (Video calls, Face-to-face): Best for complex negotiations, emotional discussions, and resolving severe conflicts.
+*   **Lean Channels** (Emails, Memos, Texts): Best for routine, unambiguous data transfer. 
+*   *Rule of Thumb*: Never fire someone or break terrible news over a lean channel!
+
+<!-- PRINT_SLIDE -->
+

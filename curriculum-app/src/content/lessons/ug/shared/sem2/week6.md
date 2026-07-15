@@ -56,3 +56,16 @@ You will be evaluated this week on:
 *   **Participation:** Did you speak your required two times?
 *   **Listening:** Did your body language show active listening when others spoke?
 *   **Relevance:** Did your points connect logically to what the previous speaker said?
+
+
+---
+
+## Interpersonal Skills Focus: Proxemics (The Science of Space)
+Physical distance heavily influences comfort and power dynamics:
+*   **Intimate Space** (0 - 1.5 ft): Reserved for close relationships.
+*   **Personal Space** (1.5 - 4 ft): Ideal for one-on-one professional conversations.
+*   **Social Space** (4 - 12 ft): Best for small group interactions.
+*   **Public Space** (12+ ft): Used for presentations and public speaking.
+
+<!-- PRINT_SLIDE -->
+

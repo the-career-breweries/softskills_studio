@@ -54,3 +54,16 @@ You will be evaluated this week on:
 *   **Coherence:** Does the paragraph flow logically?
 *   **Grammar:** Are sentences constructed correctly without major errors?
 *   **Relevance:** Does the writing directly address the prompt?
+
+
+---
+
+## Interpersonal Skills Focus: Characteristics of Effective Teams
+Collaboration is no longer a soft skill; it is a core job responsibility.
+*   **Shared Purpose**: A clear objective aligned with organizational goals.
+*   **Trust & Openness**: Honest communication without fear of retaliation.
+*   **Consensus**: Decisions are made collectively, not forced by a dictator.
+*   **Conflict Resolution**: The team embraces *constructive* conflict to generate creative ideas.
+
+<!-- PRINT_SLIDE -->
+

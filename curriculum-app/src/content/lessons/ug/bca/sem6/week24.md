@@ -47,3 +47,13 @@ The most important skill you learned was *how to learn*.
 Complete the capstone readiness checklist and identify your final gaps before placement season begins.
 
 <!-- PRINT: BCA_FinalAudit -->
+
+
+---
+
+## Interpersonal Skills Focus: Receiving Feedback Gracefully
+When you receive constructive criticism (even if it feels destructive), suppress your ego.
+Use *active listening* to understand their perspective. Paraphrase their concerns to ensure you comprehend the root issue, and view it strictly as an opportunity for professional growth. Defensiveness stunts your career.
+
+<!-- PRINT_SLIDE -->
+

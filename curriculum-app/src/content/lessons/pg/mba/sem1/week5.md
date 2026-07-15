@@ -34,3 +34,13 @@ A monotone voice puts boardrooms to sleep.
 Deliver a 2-minute, highly structured oral brief on a complex business topic to the class, focusing on executive presence.
 
 <!-- PRINT: PG_OralBrief -->
+
+
+---
+
+## Executive Interpersonal Skills: Advanced Conflict Resolution
+Conflict is not inherently bad; *constructive* conflict generates creative problem-solving. *Destructive* conflict polarizes teams.
+*   **The Win-Win Strategy**: Requires absolute belief that cooperation trumps competition, and that status does not entitle one party to impose solutions.
+
+<!-- PRINT_SLIDE -->
+

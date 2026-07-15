@@ -47,3 +47,14 @@ When presenting a case study, structure is everything. Use the **STAR** method (
 Prepare a 3-slide presentation outlining your solution for the coffee chain case study.
 
 <!-- PRINT: BBACaseStudy -->
+
+
+---
+
+## Interpersonal Skills Focus: Netiquette (Online Etiquette)
+*   **Avoid "Reply All"**: Unless absolutely necessary, do not clutter your colleagues' inboxes.
+*   **Emotions under Control**: The instantaneous nature of IMs can lead to regrettable outbursts. Step away before sending an angry message.
+*   **Respect Virtual Space**: Do not assume your colleagues are available 24/7 just because their dot is green.
+
+<!-- PRINT_SLIDE -->
+

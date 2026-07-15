@@ -25,3 +25,13 @@ flowchart LR
 Chair a 10-minute mock quarterly financial review with a department head who has significantly overspent their budget.
 
 <!-- PRINT: PG_MeetingLeadership -->
+
+
+---
+
+## Executive Interpersonal Skills: Enterprise Wikis
+*   **Wikis**: Fluid, community-driven hubs for internal knowledge accumulation. 
+They democratize information but require strict access control and rollback features to prevent vandalism or data loss.
+
+<!-- PRINT_SLIDE -->
+

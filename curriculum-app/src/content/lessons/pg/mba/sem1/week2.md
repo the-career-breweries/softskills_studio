@@ -38,3 +38,14 @@ A "Growth Gap" is the distance between your current competency and the competenc
 Map out your strengths and your critical growth gaps required for your target industry.
 
 <!-- PRINT: PG_CompetencyProfile -->
+
+
+---
+
+## Executive Interpersonal Skills: Communibiological vs. Social Learning
+*   **Communibiological Approach**: Suggests that communication behaviors (like stage fright or charisma) are heavily genetically inherited.
+*   **Social Learning Theory**: Counters this by proving that regardless of genetic disposition, humans can adapt, observe, and learn to modify their behaviors.
+*   *The Executive Takeaway*: You cannot blame "biology" for poor soft skills. Competence is a learned, practiced discipline.
+
+<!-- PRINT_SLIDE -->
+

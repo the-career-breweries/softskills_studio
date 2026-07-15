@@ -54,3 +54,17 @@ You will be evaluated this week on:
 *   **Logical Contribution:** Did your points advance the discussion toward a solution?
 *   **Teamwork:** Did you invite others to speak or synthesize previous points?
 *   **Composure:** Did you handle disagreements with professionalism and respect?
+
+
+---
+
+## Interpersonal Skills Focus: The Active Listening Process
+Listening is a highly complex, active process with five distinct phases:
+1.  **Receiving**: Physically hearing the message.
+2.  **Decoding**: Assigning meaning based on your own values and history.
+3.  **Remembering**: Capturing it in short-term, then long-term memory.
+4.  **Evaluating**: Applying critical thinking to separate fact from opinion.
+5.  **Responding**: Providing verbal or nonverbal feedback.
+
+<!-- PRINT_SLIDE -->
+

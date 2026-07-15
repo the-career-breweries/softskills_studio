@@ -32,3 +32,14 @@ What separates an accountant from a CFO? The growth gap usually involves soft sk
 Map out your strengths and the critical growth gaps required for a leadership role in finance or academia.
 
 <!-- PRINT: PG_CompetencyProfile -->
+
+
+---
+
+## Executive Interpersonal Skills: Communibiological vs. Social Learning
+*   **Communibiological Approach**: Suggests that communication behaviors (like stage fright or charisma) are heavily genetically inherited.
+*   **Social Learning Theory**: Counters this by proving that regardless of genetic disposition, humans can adapt, observe, and learn to modify their behaviors.
+*   *The Executive Takeaway*: You cannot blame "biology" for poor soft skills. Competence is a learned, practiced discipline.
+
+<!-- PRINT_SLIDE -->
+

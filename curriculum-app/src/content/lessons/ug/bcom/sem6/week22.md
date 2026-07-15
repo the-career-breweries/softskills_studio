@@ -60,3 +60,15 @@ Today, you will review a "bad" spreadsheet and a "bad" Word document provided by
 Mastering workplace tools doesn't just make you faster; it makes your work *trustworthy*. When your manager sees a perfectly aligned, dynamically linked spreadsheet, they trust the numbers inside it.
 
 Next week, we tackle the hardest part of the hiring process: **Advanced Interview Defense**!
+
+
+---
+
+## Interpersonal Skills Focus: Delivering Actionable Criticism
+If you must deliver negative feedback, follow these rules:
+1.  **Focus on Specific Behaviors**: Don't say "You have a bad attitude." Say "You were 30 minutes late to the client meeting."
+2.  **Keep it Impersonal**: Criticize the *job-related action*, not the *person*.
+3.  **Goal-Oriented**: Feedback should help the recipient achieve their goals, not just to let you "vent."
+
+<!-- PRINT_SLIDE -->
+

@@ -83,3 +83,16 @@ Fill out the form to explicitly define:
 Your learning plan will be evaluated on:
 * **Practicality:** Is this a routine you can actually stick to, or is it overly ambitious?
 * **Attention to Detail:** Did you clearly identify your distractions and provide a concrete solution for them?
+
+
+---
+
+## Interpersonal Skills Focus: The First 4 C's of Effective Communication
+To be highly effective in the workplace, every message must adhere to these standards:
+1.  **Clarity**: Simple, precise language tailored to the audience.
+2.  **Correctness**: Grammatically flawless and factually accurate.
+3.  **Conciseness**: Brief and crisp. Avoid unnecessary expressions.
+4.  **Courtesy**: Genuine politeness and respect. "Politeness costs nothing and gains everything."
+
+<!-- PRINT_SLIDE -->
+

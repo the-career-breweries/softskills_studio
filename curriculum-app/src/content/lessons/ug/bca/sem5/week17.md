@@ -57,3 +57,14 @@ A full-stack developer is a "jack of all trades" who can build both the frontend
 Analyze your interests and select a primary pathway (Frontend or Backend). Map out the next 3 technologies you need to learn.
 
 <!-- PRINT: BCA_SWEPath -->
+
+
+---
+
+## Interpersonal Skills Focus: Electronically Mediated Communication (EMC)
+We no longer just communicate face-to-face. EMC dominates the modern workplace.
+*   **Synchronous vs. Asynchronous**: Face-to-face is synchronous (instant). Emails and text threads are asynchronous (delayed). The *rate* of response heavily impacts the perceived tone.
+*   **Permanence**: Every text, email, and Slack message leaves a permanent, discoverable trail. Never type what you wouldn't say on a megaphone.
+
+<!-- PRINT_SLIDE -->
+

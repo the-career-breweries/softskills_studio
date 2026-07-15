@@ -55,3 +55,17 @@ You will be evaluated this week on:
 *   **Relevance:** Did your story directly answer the question asked?
 *   **Structure:** Did you clearly hit all four points of the STAR method?
 *   **Confidence:** Did you deliver your answer smoothly without excessive filler words?
+
+
+---
+
+## Interpersonal Skills Focus: Time Management (SMART Goals)
+Time is your most valuable non-renewable resource. Master it using the **SMART** framework:
+*   **S**pecific: Set clear, defined goals.
+*   **M**easurable: Quantify your success.
+*   **A**chievable: Break massive projects into attainable micro-steps.
+*   **R**elevant: Ensure your actions align with organizational objectives.
+*   **T**ime-Bound: Discipline yourself with strict deadlines.
+
+<!-- PRINT_SLIDE -->
+

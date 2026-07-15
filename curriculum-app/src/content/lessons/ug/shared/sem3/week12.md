@@ -54,3 +54,15 @@ You will be evaluated this week on:
 *   **Collaboration:** Did you work effectively with your team?
 *   **Turn-taking:** Did you speak up without dominating, and handle interruptions professionally?
 *   **Clarity:** Were your contributions clear and relevant to the agenda?
+
+
+---
+
+## Interpersonal Skills Focus: Conducting Productive Meetings
+Meetings can consume thousands of dollars of productive time. Follow these rules:
+1.  **Prepare**: Define a strict agenda and invite only essential personnel.
+2.  **Conduct**: Keep discussion on track and follow parliamentary procedures if necessary.
+3.  **Close**: Distribute *minutes* (a written summary of action items and responsibilities) immediately after.
+
+<!-- PRINT_SLIDE -->
+

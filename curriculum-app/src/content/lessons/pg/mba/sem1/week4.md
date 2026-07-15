@@ -34,3 +34,13 @@ Analytical listening requires you to decode the subtext, detect hesitation, and 
 Participate in an analytical listening exercise where you must deduce the hidden agenda of a speaker.
 
 <!-- PRINT: PG_AnalyticalListen -->
+
+
+---
+
+## Executive Interpersonal Skills: Hyperpersonal Relationships
+Paradoxically, online relationships can become *more* intimate than face-to-face ones. 
+This occurs because we selectively present our best selves and idealize our partners due to the absence of distracting physical flaws and the ability to perfectly edit our responses.
+
+<!-- PRINT_SLIDE -->
+

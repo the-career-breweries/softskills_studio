@@ -28,3 +28,13 @@ flowchart LR
 Participate in a rapid-fire STAR-style behavioral interview lab tailored for senior finance and accounting roles.
 
 <!-- PRINT: PG_InterviewDesign -->
+
+
+---
+
+## Executive Interpersonal Skills: Groupware & Virtual Workspaces
+*   **Shared Workspaces**: Virtual offices that break geographical boundaries, allowing simultaneous document editing and social networking within the corporate firewall. 
+As a leader, you must foster an inclusive culture inside these digital walls to prevent remote workers from feeling isolated.
+
+<!-- PRINT_SLIDE -->
+

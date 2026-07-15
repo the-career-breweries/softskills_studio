@@ -32,3 +32,13 @@ When presenting a complex valuation, pause after stating the final number. Let t
 Deliver a 2-minute oral brief on a recent corporate financial event, focusing on executive presence and pacing.
 
 <!-- PRINT: PG_OralBrief -->
+
+
+---
+
+## Executive Interpersonal Skills: Advanced Conflict Resolution
+Conflict is not inherently bad; *constructive* conflict generates creative problem-solving. *Destructive* conflict polarizes teams.
+*   **The Win-Win Strategy**: Requires absolute belief that cooperation trumps competition, and that status does not entitle one party to impose solutions.
+
+<!-- PRINT_SLIDE -->
+

@@ -54,3 +54,15 @@ You will be evaluated this week on:
 *   **Clarity:** Did you enunciate your words clearly?
 *   **Pace:** Did you speak at a steady, understandable speed?
 *   **Accuracy:** Did you minimize filler words during the reading?
+
+
+---
+
+## Interpersonal Skills Focus: The Power of Body Language
+Did you know that up to 65% of any communication is non-verbal? Your body speaks long before your mouth does.
+*   **Eye Contact**: Shows confidence, genuineness, and holds attention.
+*   **Facial Expressions**: The *Navrasas* (happiness, anger, fear, etc.) must be controlled depending on the professional setting.
+*   **Posture**: Sitting with an open chest indicates honesty. Crossing arms or legs is defensive and conveys resistance.
+
+<!-- PRINT_SLIDE -->
+

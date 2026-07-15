@@ -112,3 +112,14 @@ Traditional career paths are "traditional" for a reason—they offer stability, 
 Next week, we will explore **Modern Career Paths**, where we look at how technology, data, and the digital economy are creating entirely new roles for commerce graduates!
 
 
+
+
+---
+
+## Interpersonal Skills Focus: Electronically Mediated Communication (EMC)
+We no longer just communicate face-to-face. EMC dominates the modern workplace.
+*   **Synchronous vs. Asynchronous**: Face-to-face is synchronous (instant). Emails and text threads are asynchronous (delayed). The *rate* of response heavily impacts the perceived tone.
+*   **Permanence**: Every text, email, and Slack message leaves a permanent, discoverable trail. Never type what you wouldn't say on a megaphone.
+
+<!-- PRINT_SLIDE -->
+

@@ -77,3 +77,14 @@ The commerce degree is incredibly versatile. By adding just one or two tech-adja
 Next week, we will explore the Gig Economy and how to start **Freelancing & Consulting**!
 
 
+
+
+---
+
+## Interpersonal Skills Focus: The Pitfalls of Online Deception
+The lack of visual cues makes EMC a breeding ground for misunderstanding and deceit.
+*   **Nonverbal Cues**: In texts, we rely entirely on ALL CAPS, bold text, and emoticons to convey tone.
+*   **Writing Style**: Your grammar and syntax in an email paint a picture of your professionalism. "whaddup? u there?" is not appropriate for work.
+
+<!-- PRINT_SLIDE -->
+

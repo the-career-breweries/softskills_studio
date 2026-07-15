@@ -48,3 +48,14 @@ Senior engineers want to work with someone they can communicate with. A brillian
 Practice defending your technical decisions in a simulated panel interview.
 
 <!-- PRINT: BCA_TechPanel -->
+
+
+---
+
+## Interpersonal Skills Focus: Timing & Control in Feedback
+*   **Well-Timed**: Deliver feedback shortly after the event, not six months later at an annual review.
+*   **Controllable**: Only criticize things the employee actually has the power to change. Punishing someone for a train delay builds resentment, not productivity.
+*   **Ensure Understanding**: Have the recipient rephrase the feedback to guarantee the message was received accurately.
+
+<!-- PRINT_SLIDE -->
+

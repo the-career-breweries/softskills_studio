@@ -51,3 +51,17 @@ This week is about practical application. You will be evaluated on:
 
 * **Awareness:** Your ability to accurately assess your partner's professional presence.
 * **Professionalism:** Taking the mock introduction seriously and demonstrating the 3 pillars of presence.
+
+
+---
+
+## Interpersonal Skills Focus: Communication & Employers
+The P21 Framework identifies Communication as one of the **Four C's** of 21st Century Learning. 
+Employers specifically seek candidates who can:
+*   Identify desired outcomes before speaking.
+*   Craft clear, non-linguistically supported messages.
+*   Model others' minds (accounting for beliefs and emotions).
+*   Employ deep reading and active listening.
+
+<!-- PRINT_SLIDE -->
+
