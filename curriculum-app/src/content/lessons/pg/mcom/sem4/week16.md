@@ -1,6 +1,6 @@
 ## The Technical Interview Defense
 
-![Communication](/assets/communication.jpg)
+
 
 Welcome to Semester 4. This is the final launchpad.
 
@@ -11,7 +11,7 @@ Finance interviews are deliberately designed to be hostile. They want to see if 
 
 ## Anatomy of the "Grilling"
 
-![Operations](/assets/operations.jpg)
+
 
 You will be placed in a room with 2-4 senior professionals. They will rapid-fire technical questions at you. When you answer, they will interrupt you and tell you that you are wrong (even if you are right).
 
@@ -27,7 +27,7 @@ They are testing your *conviction*. If you immediately back down and apologize w
 
 ## The Case Study Defense
 
-![Strategy](/assets/strategy.jpg)
+
 
 You will often be given a 48-hour take-home case study (e.g., modeling a merger or auditing a messy trial balance) and then asked to present it.
 

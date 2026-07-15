@@ -1,6 +1,6 @@
 ## Commit to a Journey
 
-![Technology](/assets/technology.jpg)
+
 
 
 You have spent three semesters analyzing, strategizing, and building the necessary skills. 
@@ -11,7 +11,7 @@ Now, the theoretical phase ends. It is time to commit to a journey and sow your 
 
 ## 1. Defining Your Trajectory
 
-![Leadership](/assets/leadership.jpg)
+
 
 
 The MBA offers broad optionality, which can lead to analysis paralysis. You must narrow your focus.
@@ -27,7 +27,7 @@ The MBA offers broad optionality, which can lead to analysis paralysis. You must
 
 ### The Corporate Ladder
 
-![Career](/assets/career.jpg)
+
 
 **The Objective:** Reaching the C-Suite of a Fortune 500 company.
 
@@ -40,7 +40,7 @@ The MBA offers broad optionality, which can lead to analysis paralysis. You must
 
 ### The Entrepreneurial Venture
 
-![Strategy](/assets/strategy.jpg)
+
 
 **The Objective:** Building a scalable business from the ground up.
 
@@ -53,7 +53,7 @@ The MBA offers broad optionality, which can lead to analysis paralysis. You must
 
 ### The Consultant / Specialist
 
-![Communication](/assets/communication.jpg)
+
 
 **The Objective:** Becoming a highly sought-after domain expert and advisor.
 
@@ -66,7 +66,7 @@ The MBA offers broad optionality, which can lead to analysis paralysis. You must
 
 ## 2. Sowing the First Seed
 
-![Marketing](/assets/marketing.jpg)
+
 
 
 A strategy without execution is a hallucination.
@@ -80,7 +80,7 @@ A strategy without execution is a hallucination.
 
 ## 3. Resume Architecture & The STAR Method
 
-![Strategy](/assets/strategy.jpg)
+
 
 Regardless of your path, every bullet point on your resume must be engineered for impact.
 
@@ -99,7 +99,7 @@ Regardless of your path, every bullet point on your resume must be engineered fo
 
 ### Resume Building & Audit Tools
 
-![Digital Communication](/assets/digital_communication.jpg)
+
 
 Do not build your resume from scratch in a blank Word document. Leverage the best tools available.
 
@@ -117,7 +117,7 @@ Do not build your resume from scratch in a blank Word document. Leverage the bes
 
 ## 4. The Accountability Contract
 
-![Technology](/assets/technology.jpg)
+
 <!-- PRINT: AccountabilityContract -->
 
 Commitment requires stakes. This is your official Accountability Contract.
@@ -133,7 +133,7 @@ Commitment requires stakes. This is your official Accountability Contract.
 
 ## Executive Interpersonal Skills: The Final Commitment
 
-![Leadership](/assets/leadership.jpg)
+
 
 Commitment requires accountability. 
 *   **Networking with Intent:** Sending a cold email to an alumni is an exercise in concise, high-value communication. 

@@ -1,6 +1,6 @@
 # MBA Semester 2: Discussion Facilitation
 
-![Technology](/assets/technology.jpg)
+
 
 
 A leader's job is not always to have the best idea; it is often to extract the best ideas from the room. Discussion facilitation is the art of guiding a group of intelligent (and often opinionated) people toward a consensus or decision.
@@ -27,7 +27,7 @@ flowchart LR
 
 ## 2. Managing Conflict in the Room
 
-![Strategy](/assets/strategy.jpg)
+
 
 
 When two executives strongly disagree, the facilitator must depersonalize the conflict. 
@@ -37,7 +37,7 @@ Shift the focus from "Who is right?" to "What does the data say?" or "Which opti
 
 ## Activity: The Facilitated Group Round
 
-![Strategy](/assets/strategy.jpg)
+
 
 
 Act as the neutral facilitator for a complex, 15-minute business case discussion.

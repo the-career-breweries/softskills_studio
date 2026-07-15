@@ -1,6 +1,6 @@
 # BBA Semester 5: Traditional Career Paths
 
-![Career](/assets/career.jpg)
+
 
 
 Welcome to Semester 5! This semester is about shifting from academic theory to corporate reality. 
@@ -11,7 +11,7 @@ For BBA graduates, the traditional career pathways are generally focused on core
 
 ## The Core BBA Pathways
 
-![Marketing](/assets/marketing.jpg)
+
 
 
 1. **Human Resources (HR):** Recruitment, employee relations, payroll, and training.
@@ -81,7 +81,7 @@ flowchart LR
 
 ## Activity: BBA Career Map
 
-![Career](/assets/career.jpg)
+
 
 
 Identify which of the three traditional pillars aligns best with your strengths.
@@ -98,7 +98,7 @@ Identify which of the three traditional pillars aligns best with your strengths.
 
 ## Interpersonal Skills Focus: Electronically Mediated Communication (EMC)
 
-![Digital Communication](/assets/digital_communication.jpg)
+
 
 We no longer just communicate face-to-face. EMC dominates academia and the modern workplace.
 *   **Synchronous vs. Asynchronous**: A video lecture is synchronous. Emails to professors are asynchronous (delayed). The *rate* of your response to internship emails heavily impacts how recruiters perceive you.

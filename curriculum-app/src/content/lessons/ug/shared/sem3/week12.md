@@ -9,7 +9,7 @@ The modern workplace is collaborative. Knowing how to conduct yourself in meetin
 
 # Speaking in Meetings
 
-![Speaking in Meetings](/images/sem3_w12_speaking.jpg)
+
 
 Meetings can be intimidating, but they are your primary opportunity to demonstrate your value to the team.
 
@@ -21,7 +21,7 @@ Meetings can be intimidating, but they are your primary opportunity to demonstra
 
 # Handling Interruptions
 
-![Interruptions](/images/sem3_w12_interruptions.jpg)
+
 
 Interruptions happen. How you handle them defines your professional presence.
 
@@ -33,7 +33,7 @@ Interruptions happen. How you handle them defines your professional presence.
 
 # Activity: Mock Meeting
 
-![Activity](/images/sem3_w12_activity.jpg)
+
 
 <!-- PRINT: MockMeeting -->
 
@@ -47,7 +47,7 @@ We will simulate a professional team meeting today.
 
 # Evaluation Rubric
 
-![Rubric](/images/sem3_w12_rubric.jpg)
+
 
 You will be evaluated this week on:
 
@@ -63,7 +63,7 @@ You will be evaluated this week on:
 
 ## Interpersonal Skills Focus: Conducting Productive Study Meetings
 
-![Strategy](/assets/strategy.jpg)
+
 
 Group study sessions can easily devolve into wasting time. Follow these rules:
 1.  **Prepare**: Define a strict agenda (e.g., "Today we outline Chapter 3").

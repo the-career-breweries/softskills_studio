@@ -1,6 +1,6 @@
 ## Building the Foundation
 
-![Strategy](/assets/strategy.jpg)
+
 
 
 Whether launching a startup, spinning off a new corporate division, or restructuring a department, you must know how to build from the ground up.
@@ -11,7 +11,7 @@ This session covers the foundational architecture of new ventures.
 
 ## 1. Finding Product-Market Fit (PMF)
 
-![Marketing](/assets/marketing.jpg)
+
 
 
 PMF is the holy grail of business. It means you are in a good market with a product that can satisfy that market.
@@ -27,7 +27,7 @@ PMF is the holy grail of business. It means you are in a good market with a prod
 
 ## 2. Go-To-Market (GTM) Strategy
 
-![Marketing](/assets/marketing.jpg)
+
 
 
 A great product fails without a strategy to put it in the hands of customers.
@@ -42,7 +42,7 @@ A great product fails without a strategy to put it in the hands of customers.
 
 ## 3. Unit Economics & Scaling
 
-![Finance](/assets/finance.jpg)
+
 
 
 Before scaling, you must ensure the foundation is profitable at the unit level.
@@ -59,7 +59,7 @@ Before scaling, you must ensure the foundation is profitable at the unit level.
 
 ## Executive Interpersonal Skills: Influencing Investors
 
-![Finance](/assets/finance.jpg)
+
 
 Whether pitching internally for a budget or externally to VCs:
 *   **The Narrative Arc:** Data alone doesn't persuade; stories do. Frame your PMF and GTM metrics within a compelling narrative.

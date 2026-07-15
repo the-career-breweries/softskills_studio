@@ -1,7 +1,7 @@
 # Welcome to Semester 4: Week 15
 ## Answers and Behavior
 
-![Week 15 Title](/images/sem4_w15_title.jpg)
+
 
 Knowing the theory of an interview is one thing; performing under pressure is another. Today, we focus on how to structure your answers and how to behave in the interview room.
 
@@ -9,7 +9,7 @@ Knowing the theory of an interview is one thing; performing under pressure is an
 
 # The STAR Method
 
-![STAR Method](/images/sem4_w15_star.jpg)
+
 
 When asked behavioral questions (e.g., "Tell me about a time when..."), never ramble. Use the STAR method to structure your response:
 
@@ -22,7 +22,7 @@ When asked behavioral questions (e.g., "Tell me about a time when..."), never ra
 
 # Professional Conduct
 
-![Professional Conduct](/images/sem4_w15_conduct.jpg)
+
 
 Your behavior is evaluated from the moment you enter the building (or join the Zoom call).
 
@@ -34,7 +34,7 @@ Your behavior is evaluated from the moment you enter the building (or join the Z
 
 # Activity: Mock Answer Practice
 
-![Activity](/images/sem4_w15_activity.jpg)
+
 
 <!-- PRINT: MockAnswerPractice -->
 
@@ -48,7 +48,7 @@ It is time to practice the STAR method out loud.
 
 # Evaluation Rubric
 
-![Rubric](/images/sem4_w15_rubric.jpg)
+
 
 You will be evaluated this week on:
 
@@ -64,7 +64,7 @@ You will be evaluated this week on:
 
 ## Interpersonal Skills Focus: Time Management (SMART Goals)
 
-![Time Management](/assets/time_management.jpg)
+
 
 Time is your most valuable resource during college. Master it using the **SMART** framework:
 *   **S**pecific: Set clear, defined study goals.

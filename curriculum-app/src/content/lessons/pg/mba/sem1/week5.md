@@ -1,6 +1,6 @@
 # MBA Semester 1: Professional Speaking & Executive Presence
 
-![Leadership](/assets/leadership.jpg)
+
 
 
 Executive presence is the aura of confidence, poise, and authenticity that commands respect in a room. It is not about being the loudest; it is about being the most impactful.
@@ -25,7 +25,7 @@ flowchart LR
 
 ## 2. Voice Modulation and Pacing
 
-![Strategy](/assets/strategy.jpg)
+
 
 
 A monotone voice puts boardrooms to sleep. 
@@ -37,7 +37,7 @@ A monotone voice puts boardrooms to sleep.
 
 ## Activity: The Structured Oral Brief
 
-![Leadership](/assets/leadership.jpg)
+
 
 
 Deliver a 2-minute, highly structured oral brief on a complex business topic to the class, focusing on executive presence.
@@ -52,7 +52,7 @@ Deliver a 2-minute, highly structured oral brief on a complex business topic to 
 
 ## Executive Interpersonal Skills: Advanced Conflict Resolution
 
-![Teamwork](/assets/teamwork.jpg)
+
 
 Conflict in high-level research teams or intensive PG projects is not inherently bad; *constructive* conflict generates creative problem-solving. *Destructive* conflict polarizes the cohort.
 *   **The Win-Win Strategy**: Requires absolute belief that cooperation trumps competition, and that prior academic status does not entitle one student to impose solutions on the group.

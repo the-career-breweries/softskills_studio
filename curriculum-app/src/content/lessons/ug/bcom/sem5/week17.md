@@ -1,6 +1,6 @@
 # B.Com Semester 5: Traditional Career Paths
 
-![Career](/assets/career.jpg)
+
 
 
 Welcome to Semester 5! As you enter the final year of your B.Com, it is time to transition from general soft skills into **Specialized Career Readiness**. 
@@ -11,7 +11,7 @@ This week, we will analyze the most common "Traditional" pathways chosen by B.Co
 
 ## The Big Three Traditional Paths
 
-![Finance](/assets/finance.jpg)
+
 
 
 For decades, the standard progression for a B.Com graduate has fallen into one of three major buckets. While the landscape is changing, these remain highly respected and structured routes:
@@ -105,7 +105,7 @@ flowchart LR
 
 ## Activity: Traditional Career Map
 
-![Technology](/assets/technology.jpg)
+
 
 
 Let's put this into practice. It's time to select one of these paths (even if just as a backup plan) and map out your immediate next steps.
@@ -116,7 +116,7 @@ Let's put this into practice. It's time to select one of these paths (even if ju
 
 ## Summary and Next Steps
 
-![Technology](/assets/technology.jpg)
+
 
 
 Traditional career paths are "traditional" for a reason—they offer stability, prestige, and clear progression. However, they also come with high entry barriers and intense competition.
@@ -133,7 +133,7 @@ Next week, we will explore **Modern Career Paths**, where we look at how technol
 
 ## Interpersonal Skills Focus: Electronically Mediated Communication (EMC)
 
-![Digital Communication](/assets/digital_communication.jpg)
+
 
 We no longer just communicate face-to-face. EMC dominates academia and the modern workplace.
 *   **Synchronous vs. Asynchronous**: A video lecture is synchronous. Emails to professors are asynchronous (delayed). The *rate* of your response to internship emails heavily impacts how recruiters perceive you.

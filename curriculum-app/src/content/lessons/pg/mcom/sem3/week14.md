@@ -1,6 +1,6 @@
 ## Negotiation for Finance Professionals
 
-![Strategy](/assets/strategy.jpg)
+
 
 In commerce, you don't get what you deserve; you get what you negotiate.
 
@@ -10,7 +10,7 @@ Whether you are securing a vendor contract, finalizing an M&A deal, or fighting 
 
 ## The Concept of Leverage
 
-![Global](/assets/global.jpg)
+
 
 Negotiation is not about who is louder. It is entirely about leverage. 
 **Leverage is simply the answer to one question:** *Who needs this deal more?*
@@ -22,7 +22,7 @@ Negotiation is not about who is louder. It is entirely about leverage.
 
 ## Hard-Bargaining Tactics
 
-![Operations](/assets/operations.jpg)
+
 
 As a finance professional, you will face vendors and contractors who are trained to extract maximum margin from your company.
 
@@ -34,7 +34,7 @@ As a finance professional, you will face vendors and contractors who are trained
 
 ## Salary Negotiation
 
-![Career](/assets/career.jpg)
+
 
 The biggest financial mistake you can make is accepting the first salary offer out of graduation.
 

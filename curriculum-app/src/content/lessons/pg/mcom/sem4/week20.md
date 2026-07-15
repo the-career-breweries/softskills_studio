@@ -1,6 +1,6 @@
 ## The Market Launch
 
-![Leadership](/assets/leadership.jpg)
+
 
 The curriculum is complete. You are no longer a student. You are now a financial analyst entering the market.
 
@@ -11,7 +11,7 @@ Your soft skills (communication, pushback, ethics, and networking) are what will
 
 ## Continuous Upskilling
 
-![Technology](/assets/technology.jpg)
+
 
 The market does not stand still, and neither can you. 
 If you stop learning the day you graduate, your skills will be obsolete in 3 years.
@@ -23,7 +23,7 @@ If you stop learning the day you graduate, your skills will be obsolete in 3 yea
 
 ## Managing Burnout
 
-![Time Management](/assets/time_management.jpg)
+
 
 High-tier finance is a marathon run at a sprint pace. Burnout is a statistical probability.
 

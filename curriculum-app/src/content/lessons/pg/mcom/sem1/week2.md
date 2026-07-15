@@ -1,6 +1,6 @@
 # M.Com Semester 1: Advanced Self-Awareness
 
-![Finance](/assets/finance.jpg)
+
 
 
 In finance, overconfidence can lead to catastrophic risk. Deep self-awareness and an understanding of your own biases are critical for anyone managing capital or audits.
@@ -26,7 +26,7 @@ flowchart LR
 
 ## 2. Identifying Growth Gaps
 
-![Leadership](/assets/leadership.jpg)
+
 
 
 What separates an accountant from a CFO? The growth gap usually involves soft skills: negotiation, empathy, public speaking, and crisis management. 
@@ -35,7 +35,7 @@ What separates an accountant from a CFO? The growth gap usually involves soft sk
 
 ## Activity: The Competency Profile
 
-![Finance](/assets/finance.jpg)
+
 
 
 Map out your strengths and the critical growth gaps required for a leadership role in finance or academia.
@@ -50,7 +50,7 @@ Map out your strengths and the critical growth gaps required for a leadership ro
 
 ## Executive Interpersonal Skills: Communibiological vs. Social Learning
 
-![Body Language](/assets/body_language.jpg)
+
 
 *   **Communibiological Approach**: Suggests that communication behaviors (like public speaking anxiety) are heavily genetically inherited.
 *   **Social Learning Theory**: Counters this by proving that regardless of genetic disposition, students can adapt, observe, and learn to modify their behaviors.

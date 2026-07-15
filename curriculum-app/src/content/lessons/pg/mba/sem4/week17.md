@@ -1,6 +1,6 @@
 ## Path-Specific Deep Dives
 
-![Career](/assets/career.jpg)
+
 
 General advice is no longer useful.
 
@@ -11,7 +11,7 @@ Go to your designated breakout area.
 
 ## The Corporate Track: The First 90 Days
 
-![Operations](/assets/operations.jpg)
+
 
 **The Objective:** Surviving and thriving in the corporate machine.
 Getting the job is only step one. How you perform in your first 90 days dictates your trajectory for the next 3 years.
@@ -37,7 +37,7 @@ Your immediate trajectory requires a strict checklist:
 
 ## The Entrepreneurial Track: GTM Strategy
 
-![Finance](/assets/finance.jpg)
+
 
 **The Objective:** Taking your MVP to market.
 A great idea without a Go-To-Market (GTM) strategy is a hobby.
@@ -63,7 +63,7 @@ Your immediate trajectory requires relentless momentum:
 
 ## The Consultant Track: Client Management
 
-![Communication](/assets/communication.jpg)
+
 
 **The Objective:** Managing expectations and scoping creep.
 In consulting, your technical skills are secondary to your ability to manage the client's psychology.

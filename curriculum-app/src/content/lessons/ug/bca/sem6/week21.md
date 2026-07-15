@@ -1,6 +1,6 @@
 # BCA Semester 6: Coding Interviews (DSA)
 
-![Technology](/assets/technology.jpg)
+
 
 
 Welcome to your final semester! Semester 6 is entirely focused on landing a job. For tech roles, that means passing the dreaded technical interview.
@@ -25,7 +25,7 @@ flowchart LR
 
 ## 2. Core Data Structures to Master
 
-![Technology](/assets/technology.jpg)
+
 
 
 You do not need to invent new algorithms; you just need to know when to apply existing ones.
@@ -39,7 +39,7 @@ You do not need to invent new algorithms; you just need to know when to apply ex
 
 ## 3. The LeetCode Grind
 
-![Strategy](/assets/strategy.jpg)
+
 
 
 Practicing random questions is inefficient. Follow structured patterns.
@@ -53,7 +53,7 @@ Practicing random questions is inefficient. Follow structured patterns.
 
 ## Activity: The Whiteboard Simulation
 
-![Operations](/assets/operations.jpg)
+
 
 
 Practice solving a basic algorithm problem while explaining your thought process out loud.
@@ -68,7 +68,7 @@ Practice solving a basic algorithm problem while explaining your thought process
 
 ## Interpersonal Skills Focus: The Value of Constructive Feedback
 
-![Feedback & Growth](/assets/feedback.jpg)
+
 
 The true test of a growing professional is their ability to both deliver and receive critical feedback.
 *   **Positive Feedback**: Readily accepted, reinforces your strengths.

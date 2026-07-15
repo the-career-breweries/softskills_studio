@@ -9,7 +9,7 @@ Welcome back! Last week we looked inward. This week, we focus on how you absorb 
 
 # The Myth of "Multitasking"
 
-![The Myth of Multitasking](/images/week2_multitasking.jpg)
+
 
 Let's clear the air: **Multitasking is a myth.** Rapid context-switching destroys your ability to retain deep information.
 
@@ -17,7 +17,7 @@ Let's clear the air: **Multitasking is a myth.** Rapid context-switching destroy
 
 # The Real Value of Deep Focus
 
-![The ROI of Focus](/images/week2_roi.jpg)
+
 
 * **Practical Application:** When you are in a lecture, close the extraneous tabs on your laptop. When you are studying for an exam, put your phone in another room.
 * **The ROI (Return on Investment):** If you invest 1 hour of deep, uninterrupted effort, you will retain the same amount of information as 3 hours of distracted studying. Your return is **2 extra hours of free time**.
@@ -26,7 +26,7 @@ Let's clear the air: **Multitasking is a myth.** Rapid context-switching destroy
 
 # Hearing vs. Listening
 
-![Hearing vs Listening](/images/week2_hearing.jpg)
+
 
 Hearing is a biological function. Listening is a conscious choice.
 
@@ -37,7 +37,7 @@ Hearing is a biological function. Listening is a conscious choice.
 
 # How to prove you are actively listening:
 
-![Active Listening Prove](/images/week2_prove.jpg)
+
 
 1. Maintain eye contact (without staring).
 2. Nod and use non-verbal cues.
@@ -51,7 +51,7 @@ Hearing is a biological function. Listening is a conscious choice.
 
 # Activity: The Listening Drill
 
-![The Listening Drill](/images/week2_drill.jpg)
+
 
 We are going to do a rapid-fire listening drill.
 
@@ -65,7 +65,7 @@ We are going to do a rapid-fire listening drill.
 # Today's Learning Task
 ## The Personal Learning Plan
 
-![Learning Task](/images/week2_task.jpg)
+
 
 <!-- PRINT: LearningPlan -->
 
@@ -80,7 +80,7 @@ Fill out the form to explicitly define:
 
 # Evaluation Rubric
 
-![Technology](/assets/technology.jpg)
+
 
 
 Your learning plan will be evaluated on:
@@ -95,7 +95,7 @@ Your learning plan will be evaluated on:
 
 ## Interpersonal Skills Focus: The First 4 C's of Effective Communication
 
-![Communication](/assets/communication.jpg)
+
 
 To be highly effective in your studies and future career, every message must adhere to these standards:
 1.  **Clarity**: Simple, precise language tailored to your audience.

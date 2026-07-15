@@ -1,6 +1,6 @@
 # BBA Semester 6: Workplace Tools
 
-![Career](/assets/career.jpg)
+
 
 
 In college, your professors might accept a poorly formatted Word document as long as the answers are correct. In the corporate world, submitting a messy spreadsheet or an unformatted report is considered deeply unprofessional and can stall your career progression.
@@ -11,7 +11,7 @@ This week, we focus on **Digital Hygiene** and mastering the tools of the modern
 
 ## 1. The Big Three: Office Productivity
 
-![Finance](/assets/finance.jpg)
+
 
 
 While there are many specialized software tools in finance, 90% of your daily work will occur within three main platforms (whether Microsoft Office or Google Workspace).
@@ -28,7 +28,7 @@ While there are many specialized software tools in finance, 90% of your daily wo
 
 ## 2. Digital Hygiene Rules
 
-![Technology](/assets/technology.jpg)
+
 
 
 "Digital Hygiene" refers to the practices that keep your files organized, secure, and professional.
@@ -49,7 +49,7 @@ If multiple people are editing a document, do not send copies back and forth via
 
 ## 3. Communication Tools
 
-![Strategy](/assets/strategy.jpg)
+
 
 
 Beyond documents, you must master the tools used to communicate within the company.
@@ -61,7 +61,7 @@ Beyond documents, you must master the tools used to communicate within the compa
 
 ## Activity: The Digital Audit
 
-![Finance](/assets/finance.jpg)
+
 
 
 Today, you will review a "bad" spreadsheet and a "bad" Word document provided by your instructor. Your goal is to identify all the unprofessional formatting errors.
@@ -72,7 +72,7 @@ Today, you will review a "bad" spreadsheet and a "bad" Word document provided by
 
 ## Summary and Next Steps
 
-![Technology](/assets/technology.jpg)
+
 
 
 Mastering workplace tools doesn't just make you faster; it makes your work *trustworthy*. When your manager sees a perfectly aligned, dynamically linked spreadsheet, they trust the numbers inside it.
@@ -87,7 +87,7 @@ Next week, we tackle the hardest part of the hiring process: **Advanced Intervie
 
 ## Interpersonal Skills Focus: Peer Evaluation & Criticism
 
-![Technology](/assets/technology.jpg)
+
 
 When providing feedback on a classmate's project, follow these rules:
 1.  **Focus on Specific Behaviors**: Don't say "Your part of the presentation was bad." Say "The slides on market analysis needed more recent data."

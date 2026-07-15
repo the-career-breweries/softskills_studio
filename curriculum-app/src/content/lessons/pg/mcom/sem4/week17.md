@@ -1,6 +1,6 @@
 ## Path-Specific Execution
 
-![Career](/assets/career.jpg)
+
 
 You survived the interview. You got the offer. Now the real test begins.
 

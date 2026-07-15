@@ -1,6 +1,6 @@
 # BCA Semester 6: Capstone Readiness Review
 
-![Technology](/assets/technology.jpg)
+
 
 
 You have reached the end of the BCA curriculum. Over the last 6 semesters, you have built foundational technical skills, soft skills, and interview strategies.
@@ -29,7 +29,7 @@ flowchart LR
 
 ## 2. Navigating the Tech Job Market
 
-![Technology](/assets/technology.jpg)
+
 
 
 The tech market is competitive. Submitting 500 resumes online is less effective than building a network.
@@ -42,7 +42,7 @@ The tech market is competitive. Submitting 500 resumes online is less effective 
 
 ## 3. Continuous Learning
 
-![Technology](/assets/technology.jpg)
+
 
 
 Technology changes rapidly. The language or framework you learned in Semester 1 might be outdated by the time you graduate. 
@@ -53,7 +53,7 @@ The most important skill you learned was *how to learn*.
 
 ## Activity: The Final Audit
 
-![Finance](/assets/finance.jpg)
+
 
 
 Complete the capstone readiness checklist and identify your final gaps before placement season begins.
@@ -68,7 +68,7 @@ Complete the capstone readiness checklist and identify your final gaps before pl
 
 ## Interpersonal Skills Focus: Receiving Feedback Gracefully
 
-![Technology](/assets/technology.jpg)
+
 
 When you receive constructive criticism from a professor or interviewer (even if it hurts), suppress your ego.
 Use *active listening* to understand their perspective. Paraphrase their concerns to ensure you comprehend the root issue, and view it strictly as an opportunity for professional growth. Defensiveness stunts your career before it even begins.

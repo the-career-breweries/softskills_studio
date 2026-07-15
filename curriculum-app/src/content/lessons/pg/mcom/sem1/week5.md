@@ -1,6 +1,6 @@
 # M.Com Semester 1: Professional Speaking & Executive Presence
 
-![Leadership](/assets/leadership.jpg)
+
 
 
 A CFO does not just present numbers; a CFO tells the story of the business through numbers. Your executive presence determines whether the board trusts your story.
@@ -26,7 +26,7 @@ flowchart LR
 
 ## 2. The Power of the Pause
 
-![Strategy](/assets/strategy.jpg)
+
 
 
 When presenting a complex valuation, pause after stating the final number. Let the silence hang in the room. This projects immense confidence.
@@ -35,7 +35,7 @@ When presenting a complex valuation, pause after stating the final number. Let t
 
 ## Activity: The Structured Oral Brief
 
-![Finance](/assets/finance.jpg)
+
 
 
 Deliver a 2-minute oral brief on a recent corporate financial event, focusing on executive presence and pacing.
@@ -50,7 +50,7 @@ Deliver a 2-minute oral brief on a recent corporate financial event, focusing on
 
 ## Executive Interpersonal Skills: Advanced Conflict Resolution
 
-![Teamwork](/assets/teamwork.jpg)
+
 
 Conflict in high-level research teams or intensive PG projects is not inherently bad; *constructive* conflict generates creative problem-solving. *Destructive* conflict polarizes the cohort.
 *   **The Win-Win Strategy**: Requires absolute belief that cooperation trumps competition, and that prior academic status does not entitle one student to impose solutions on the group.

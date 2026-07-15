@@ -1,6 +1,6 @@
 ## The Compensation Portfolio
 
-![Finance](/assets/finance.jpg)
+
 
 As you move into higher tiers of finance, your "Base Salary" becomes the least interesting part of your compensation package. 
 
@@ -10,7 +10,7 @@ Wealth in finance is not built on bi-weekly paychecks. It is built on equity, pe
 
 ## The Elements of High-End Compensation
 
-![Strategy](/assets/strategy.jpg)
+
 
 ### 1. The Performance Bonus
 In Investment Banking and Private Equity, your year-end bonus can be 50% to 100%+ of your base salary.

@@ -1,6 +1,6 @@
 ## Financial Storytelling
 
-![Strategy](/assets/strategy.jpg)
+
 
 Welcome to Semester 3. 
 
@@ -12,7 +12,7 @@ If the CEO doesn't understand your spreadsheet, the spreadsheet is useless.
 
 ## Data vs. Narrative
 
-![Communication](/assets/communication.jpg)
+
 
 **Data** tells you *what* happened. (e.g., "Operating expenses increased by 14% Q/Q").
 **Narrative** tells you *why* it happened, and *what we should do next*.
@@ -26,7 +26,7 @@ Never show a table when a chart will do. Never show a chart without a headline t
 
 ## The "So What?" Framework
 
-![Global](/assets/global.jpg)
+
 
 When presenting financial data to non-finance stakeholders (Marketing, HR, Ops), always pass your presentation through the **"So What?"** filter.
 
@@ -40,7 +40,7 @@ If your slide doesn't have an actionable insight, delete it.
 
 ## Visualizing Complexity
 
-![Technology](/assets/technology.jpg)
+
 
 You must master visual hierarchy.
 

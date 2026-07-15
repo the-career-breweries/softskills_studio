@@ -9,7 +9,7 @@ Last week, we focused on the building blocks of professional writing. This week,
 
 # The Resume
 
-![The Resume](/images/sem3_w10_resume.jpg)
+
 
 Your resume is your professional snapshot. It is not an autobiography; it is a marketing document designed to get you an interview.
 
@@ -21,7 +21,7 @@ Your resume is your professional snapshot. It is not an autobiography; it is a m
 
 # The Professional Email
 
-![Professional Email](/images/sem3_w10_email.jpg)
+
 
 Emails are the primary mode of workplace communication. Every email you send builds (or diminishes) your professional reputation.
 
@@ -33,7 +33,7 @@ Emails are the primary mode of workplace communication. Every email you send bui
 
 # Activity: Resume and Email Draft
 
-![Drafting Activity](/images/sem3_w10_activity.jpg)
+
 
 <!-- PRINT: WritingSkills2 -->
 
@@ -47,7 +47,7 @@ Let's put this into practice.
 
 # Evaluation Rubric
 
-![Rubric](/images/sem3_w10_rubric.jpg)
+
 
 You will be evaluated this week on:
 

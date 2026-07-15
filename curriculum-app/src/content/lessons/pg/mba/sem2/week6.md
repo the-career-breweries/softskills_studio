@@ -1,6 +1,6 @@
 # MBA Semester 2: Analytical Articulation
 
-![Leadership](/assets/leadership.jpg)
+
 
 
 An executive does not just speak; an executive *articulates*. Analytical articulation is the ability to take complex, multifaceted data and distill it into a clear, logical, and persuasive narrative.
@@ -27,7 +27,7 @@ flowchart LR
 
 ## 2. Speaking with Evidence
 
-![Technology](/assets/technology.jpg)
+
 
 
 Never make an assertion without data to back it up. 
@@ -38,7 +38,7 @@ Never make an assertion without data to back it up.
 
 ## Activity: The Concept Explanation
 
-![Finance](/assets/finance.jpg)
+
 
 
 Take a complex financial or operational concept and explain it clearly and logically to a non-expert audience using the Pyramid Principle.
@@ -53,7 +53,7 @@ Take a complex financial or operational concept and explain it clearly and logic
 
 ## Executive Interpersonal Skills: Overcoming Resistance to Ideas
 
-![Leadership](/assets/leadership.jpg)
+
 
 When proposing a new thesis methodology or challenging established ideas in a seminar, resistance is logical. 
 Do not accuse or bulldoze. Use *empathic listening* to bring their critiques into the open ("I understand this approach seems unconventional..."). Acknowledge objections fairly to lower defenses and build academic alliances.

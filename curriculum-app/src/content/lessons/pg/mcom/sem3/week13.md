@@ -1,6 +1,6 @@
 ## The Ethics of Finance
 
-![Leadership](/assets/leadership.jpg)
+
 
 In finance, your integrity is your most valuable asset. It takes a decade to build and ten seconds to destroy.
 
@@ -10,7 +10,7 @@ You will face situations where the line between "creative accounting" and "fraud
 
 ## The Pressure Cooker
 
-![Time Management](/assets/time_management.jpg)
+
 
 Financial scandals rarely start with someone deciding to steal millions. They start with a small compromise to hit a quarterly target.
 
@@ -25,7 +25,7 @@ As a junior analyst or auditor, the pressure won't come from a villain. It will 
 
 ## Navigating Gray Areas
 
-![Feedback](/assets/feedback.jpg)
+
 
 How do you survive when pressured to do something unethical?
 
@@ -37,7 +37,7 @@ How do you survive when pressured to do something unethical?
 
 ## The Ultimate Protection
 
-![Finance](/assets/finance.jpg)
+
 
 The best defense against ethical compromise is financial independence.
 

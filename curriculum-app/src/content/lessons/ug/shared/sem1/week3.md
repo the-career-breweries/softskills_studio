@@ -9,7 +9,7 @@ Welcome to Week 3! Now that we've covered how to listen, it's time to focus on h
 
 # The Fear of Public Speaking
 
-![Fear of Speaking](/images/w3_fear_1783880967469.jpg)
+
 
 Glossophobia (the fear of public speaking) is one of the most common fears in the world. 
 
@@ -19,7 +19,7 @@ It is completely natural to feel anxious when all eyes are on you. Our goal toda
 
 # The Mechanics of Voice Confidence
 
-![Mechanics](/images/w3_mechanics_1783911226899.jpg)
+
 
 Confidence is not just about what you say, it's about how you deliver it.
 
@@ -31,7 +31,7 @@ Confidence is not just about what you say, it's about how you deliver it.
 
 # Activity: Pair Talk & Short Response
 
-![Activity](/images/w3_activity_1783911327389.jpg)
+
 
 <!-- PRINT: SpeakingComfort -->
 
@@ -46,7 +46,7 @@ We are going to practice short, low-stakes sharing.
 
 # Evaluation Rubric
 
-![Rubric](/images/w3_rubric_1783911383313.jpg)
+
 
 Your participation today will be evaluated on:
 
@@ -61,7 +61,7 @@ Your participation today will be evaluated on:
 
 ## Interpersonal Skills Focus: The Final 3 C's of Effective Communication
 
-![Strategy](/assets/strategy.jpg)
+
 
 5.  **Concreteness**: Specific facts and active voice. Avoid vagueness in your presentations.
 6.  **Consideration**: The "You Attitude"—designing messages from the receiver's point of view. How will the examiner or recruiter read your work?

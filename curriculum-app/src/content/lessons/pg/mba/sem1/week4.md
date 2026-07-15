@@ -1,6 +1,6 @@
 # MBA Semester 1: Analytical Listening
 
-![Strategy](/assets/strategy.jpg)
+
 
 
 In business, the person who speaks the most is rarely the smartest person in the room. The smartest person is usually the one who listens analytically, connects the dots, and asks the piercing question that changes the direction of the meeting.
@@ -27,7 +27,7 @@ flowchart LR
 
 ## 2. Listening for the Unsaid
 
-![Marketing](/assets/marketing.jpg)
+
 
 
 In negotiations, sales, and management, what people *omit* is often more important than what they say. 
@@ -37,7 +37,7 @@ Analytical listening requires you to decode the subtext, detect hesitation, and 
 
 ## Activity: The Listening Task
 
-![Strategy](/assets/strategy.jpg)
+
 
 
 Participate in an analytical listening exercise where you must deduce the hidden agenda of a speaker.
@@ -52,7 +52,7 @@ Participate in an analytical listening exercise where you must deduce the hidden
 
 ## Executive Interpersonal Skills: Hyperpersonal Networking
 
-![Leadership](/assets/leadership.jpg)
+
 
 Paradoxically, online networking (e.g., LinkedIn) can become highly effective for students. 
 This occurs because you can selectively present your best professional self and carefully edit your outreach messages, bypassing the awkwardness of initial face-to-face cold networking.

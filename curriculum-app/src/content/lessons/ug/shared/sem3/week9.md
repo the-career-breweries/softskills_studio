@@ -9,7 +9,7 @@ Welcome to Semester 3! We are shifting our focus from spoken communication to wr
 
 # The Building Blocks of Writing
 
-![Paragraph Structure](/images/sem3_w9_paragraph.jpg)
+
 
 Good professional writing is highly structured. Unlike creative writing, professional writing values efficiency and clarity over flowery language. 
 
@@ -21,7 +21,7 @@ Good professional writing is highly structured. Unlike creative writing, profess
 
 # Tone and Formality
 
-![Tone Adjustment](/images/sem3_w9_tone.jpg)
+
 
 Academic and professional writing require a specific tone. It must be respectful, objective, and formal.
 
@@ -33,7 +33,7 @@ Academic and professional writing require a specific tone. It must be respectful
 
 # Activity: Short Writing Assignment
 
-![Writing Activity](/images/sem3_w9_activity.jpg)
+
 
 <!-- PRINT: WritingSkills1 -->
 
@@ -47,7 +47,7 @@ Today, you will draft a short, formal paragraph responding to a specific profess
 
 # Evaluation Rubric
 
-![Rubric](/images/sem3_w9_rubric.jpg)
+
 
 You will be evaluated this week on:
 
@@ -63,7 +63,7 @@ You will be evaluated this week on:
 
 ## Interpersonal Skills Focus: Characteristics of Effective Student Teams
 
-![Teamwork](/assets/teamwork.jpg)
+
 
 Collaboration is a core skill you must master before graduation.
 *   **Shared Purpose**: A clear objective aligned with the assignment goals.

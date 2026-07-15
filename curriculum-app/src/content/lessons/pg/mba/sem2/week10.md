@@ -1,6 +1,6 @@
 # MBA Semester 2: Interview Design & Response
 
-![Career](/assets/career.jpg)
+
 
 
 In your first year, you learned how to answer interview questions. Now, as an MBA, you must learn how to *design* interviews and respond to high-level behavioral probing.
@@ -28,7 +28,7 @@ flowchart LR
 
 ## 2. Designing the Interview
 
-![Leadership](/assets/leadership.jpg)
+
 
 
 Soon, you will be the one conducting the interviews. 
@@ -39,7 +39,7 @@ You ask: "Tell me about a time you worked on a project for months, and it was su
 
 ## Activity: Mock Response Lab
 
-![Career](/assets/career.jpg)
+
 
 
 Participate in a rapid-fire STAR-style behavioral interview lab, acting as both the interviewer and the candidate.
@@ -54,7 +54,7 @@ Participate in a rapid-fire STAR-style behavioral interview lab, acting as both 
 
 ## Executive Interpersonal Skills: Navigating Virtual Workspaces
 
-![Digital Communication](/assets/digital_communication.jpg)
+
 
 *   **Shared Workspaces**: Digital environments that break geographical boundaries, allowing simultaneous thesis editing and networking with global peers. 
 As a postgraduate, you must foster an inclusive culture inside these digital walls to build a powerful alumni network.

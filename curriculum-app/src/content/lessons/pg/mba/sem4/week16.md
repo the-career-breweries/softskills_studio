@@ -1,6 +1,6 @@
 # Welcome to Semester 4
 
-![Strategy](/assets/strategy.jpg)
+
 
 The Final Mile.
 
@@ -11,7 +11,7 @@ You are no longer just students; you are professionals on the verge of launching
 
 ## The Execution Review
 
-![Feedback](/assets/feedback.jpg)
+
 
 On Day 1 of this semester, you submitted your track assignments. 
 
@@ -30,7 +30,7 @@ Today, we rip them apart and rebuild them stronger.
 
 ## Why Peer Review?
 
-![Teamwork](/assets/teamwork.jpg)
+
 
 In the real world, you rarely execute in a vacuum.
 *   **Corporate:** You must defend your strategies to stakeholders.

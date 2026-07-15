@@ -1,6 +1,6 @@
 # M.Com Semester 2: Analytical Writing
 
-![Finance](/assets/finance.jpg)
+
 
 
 Academic papers in finance are dense. Professional financial memos must be sharp, clear, and actionable. 
@@ -23,7 +23,7 @@ flowchart LR
 
 ## 2. Precision in Language
 
-![Finance](/assets/finance.jpg)
+
 
 
 In finance, imprecise language is a liability. 
@@ -34,7 +34,7 @@ In finance, imprecise language is a liability.
 
 ## Activity: Professional Note Writing
 
-![Finance](/assets/finance.jpg)
+
 
 
 Draft a concise, high-impact business memo summarizing the financial viability of a proposed corporate project.
@@ -49,7 +49,7 @@ Draft a concise, high-impact business memo summarizing the financial viability o
 
 ## Executive Interpersonal Skills: Research Content Management
 
-![Leadership](/assets/leadership.jpg)
+
 
 To scale academic productivity, postgraduates must deploy the correct collaboration frameworks:
 *   **Content Management**: Tightly controlled workflows using tools like GitHub, Google Workspace, or Mendeley for managing shared research data and ensuring version control.

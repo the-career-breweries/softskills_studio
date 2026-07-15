@@ -1,6 +1,6 @@
 # BCA Semester 5: Tech Portfolio & GitHub
 
-![Finance](/assets/finance.jpg)
+
 
 
 Resumes tell; portfolios *show*. In the tech industry, what you have built matters significantly more than your GPA. 
@@ -30,7 +30,7 @@ flowchart LR
 
 ## 2. Choosing Portfolio Projects
 
-![Technology](/assets/technology.jpg)
+
 
 
 Do not build another To-Do app or Calculator. Build projects that demonstrate complex problem-solving.
@@ -43,7 +43,7 @@ Do not build another To-Do app or Calculator. Build projects that demonstrate co
 
 ## 3. Deployment
 
-![Technology](/assets/technology.jpg)
+
 
 
 Code sitting on your laptop is useless. You must deploy it so others can see it.
@@ -56,7 +56,7 @@ Code sitting on your laptop is useless. You must deploy it so others can see it.
 
 ## Activity: The Portfolio Audit
 
-![Finance](/assets/finance.jpg)
+
 
 
 Review your current GitHub profile and plan your next portfolio project.
@@ -71,7 +71,7 @@ Review your current GitHub profile and plan your next portfolio project.
 
 ## Interpersonal Skills Focus: Netiquette (Online Etiquette)
 
-![Leadership](/assets/leadership.jpg)
+
 
 *   **Avoid "Reply All"**: Unless absolutely necessary, do not clutter your classmates' or professors' inboxes.
 *   **Emotions under Control**: The instantaneous nature of group chats can lead to regrettable outbursts over group work. Step away before sending an angry message.

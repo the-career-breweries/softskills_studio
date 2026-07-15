@@ -9,7 +9,7 @@ Welcome to the final week of Semester 1! We've covered self-awareness, active li
 
 # What is Professional Presence?
 
-![What is Presence](/images/w4_what_1783911650977.jpg)
+
 
 Professional presence is the combination of **how you look, how you act, and how you communicate**. 
 
@@ -19,7 +19,7 @@ It is the subtle signal you send to employers, professors, and peers that says, 
 
 # The 3 Pillars of Presence
 
-![Pillars](/images/w4_pillars_1783911674207.jpg)
+
 
 1. **Grooming & Attire:** Dressing appropriately for the context (classroom vs. interview).
 2. **Body Language & Etiquette:** Eye contact, posture, a firm handshake, and punctuality.
@@ -29,7 +29,7 @@ It is the subtle signal you send to employers, professors, and peers that says, 
 
 # Activity: The Soft-Skills Peer Review
 
-![Peer Review](/images/w4_peer_1783911690225.jpg)
+
 
 <!-- PRINT: SoftSkillsChecklist -->
 
@@ -45,7 +45,7 @@ We are going to conduct a real-time peer audit of your professional presence.
 
 # Evaluation Rubric
 
-![Rubric](/images/w4_rubric_1783911706641.jpg)
+
 
 This week is about practical application. You will be evaluated on:
 

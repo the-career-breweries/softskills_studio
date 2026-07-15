@@ -1,6 +1,6 @@
 ## The Financial Specialist Persona
 
-![Finance](/assets/finance.jpg)
+
 
 The market does not reward generalists. The market rewards deep, niche specialization. 
 
@@ -10,7 +10,7 @@ As you transition into Semester 4, you must decide what *type* of financial prof
 
 ## The Three Financial Personas
 
-![Career](/assets/career.jpg)
+
 
 ### 1. The Big 4 Auditor
 **The Brand:** Rigorous, compliance-driven, detail-oriented, and capable of working grueling hours without making errors.
@@ -31,7 +31,7 @@ As you transition into Semester 4, you must decide what *type* of financial prof
 
 ## Building a Book of Business
 
-![Teamwork](/assets/teamwork.jpg)
+
 
 Your long-term value in finance is determined by your "Book of Business"—the clients, accounts, and relationships you bring to the firm.
 
@@ -42,7 +42,7 @@ Your long-term value in finance is determined by your "Book of Business"—the c
 
 ## Resume Architecture & The STAR Method
 
-![Strategy](/assets/strategy.jpg)
+
 
 Regardless of your path, every bullet point on your resume must be engineered for impact.
 
@@ -61,7 +61,7 @@ Regardless of your path, every bullet point on your resume must be engineered fo
 
 ### Resume Building & Audit Tools
 
-![Digital Communication](/assets/digital_communication.jpg)
+
 
 Do not build your resume from scratch in a blank Word document. Leverage the best tools available.
 

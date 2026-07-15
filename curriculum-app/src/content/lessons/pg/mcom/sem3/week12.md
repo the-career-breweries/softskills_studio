@@ -1,6 +1,6 @@
 ## Analytical Communication & Pushback
 
-![Communication](/assets/communication.jpg)
+
 
 As a finance professional, your job is often to be the "bad guy." 
 
@@ -12,7 +12,7 @@ Doing this without making enemies requires exceptional analytical communication.
 
 ## Delivering Bad News
 
-![Operations](/assets/operations.jpg)
+
 
 Never deliver bad news via email. Always do it in person or over a call.
 
@@ -28,7 +28,7 @@ You are not just a gatekeeper; you are a strategic partner.
 
 ## The Art of the Pushback
 
-![Leadership](/assets/leadership.jpg)
+
 
 Other departments will constantly pressure you to bend the rules, approve sketchy expenses, or manipulate the timeline. 
 
@@ -43,7 +43,7 @@ If they push harder, escalate structurally: "If you feel this warrants an except
 
 ## Maintaining the Relationship
 
-![Teamwork](/assets/teamwork.jpg)
+
 
 Saying "no" creates friction. You must actively repair the relationship.
 

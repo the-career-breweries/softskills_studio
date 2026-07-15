@@ -1,6 +1,6 @@
 # BCA Semester 6: The Technical Panel Interview
 
-![Technology](/assets/technology.jpg)
+
 
 
 You've passed the coding test and the system design round. Now you are facing a panel of senior engineers. 
@@ -28,7 +28,7 @@ flowchart LR
 
 ## 2. Live Debugging
 
-![Technology](/assets/technology.jpg)
+
 
 
 Panelists will often hand you a piece of broken code or ask you how you would troubleshoot a bug in production.
@@ -43,7 +43,7 @@ Panelists will often hand you a piece of broken code or ask you how you would tr
 
 ## 3. Communication over Code
 
-![Technology](/assets/technology.jpg)
+
 
 
 Senior engineers want to work with someone they can communicate with. A brilliant coder who cannot explain their logic is a liability. 
@@ -54,7 +54,7 @@ Senior engineers want to work with someone they can communicate with. A brillian
 
 ## Activity: The Mock Tech Panel
 
-![Technology](/assets/technology.jpg)
+
 
 
 Practice defending your technical decisions in a simulated panel interview.
@@ -69,7 +69,7 @@ Practice defending your technical decisions in a simulated panel interview.
 
 ## Interpersonal Skills Focus: Timing & Control in Peer Feedback
 
-![Strategy](/assets/strategy.jpg)
+
 
 *   **Well-Timed**: Deliver feedback shortly after the practice presentation, not five minutes before the final grading.
 *   **Controllable**: Only criticize things your teammate actually has the power to change. 

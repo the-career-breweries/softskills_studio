@@ -9,7 +9,7 @@ Welcome back! In Semester 1, we focused on understanding yourself, being present
 
 # The Power of Articulation
 
-![Articulation](/images/sem2_w1_articulation.jpg)
+
 
 Articulation is the physical act of forming clear sounds. Poor articulation leads to mumbling, which can make you appear unconfident or unprepared, even if you know your material perfectly. 
 
@@ -22,7 +22,7 @@ Good articulation involves:
 
 # Precision in Speech
 
-![Precision](/images/sem2_w1_precision.jpg)
+
 
 Clarity isn't just about how you sound; it's about what you say. Precision in speech means eliminating filler words ("um," "like," "you know") and using exact vocabulary to convey your point.
 
@@ -33,7 +33,7 @@ Clarity isn't just about how you sound; it's about what you say. Precision in sp
 
 # Activity: Speaking Practice Set
 
-![Speaking Practice Set](/images/sem2_w1_activity.jpg)
+
 
 <!-- PRINT: ArticulationActivity -->
 
@@ -47,7 +47,7 @@ Today, we will practice our articulation using tongue twisters and structured re
 
 # Evaluation Rubric
 
-![Rubric](/images/sem2_w1_rubric.jpg)
+
 
 You will be evaluated this week on:
 
@@ -63,7 +63,7 @@ You will be evaluated this week on:
 
 ## Interpersonal Skills Focus: The Power of Body Language
 
-![Body Language](/assets/body_language.jpg)
+
 
 Did you know that up to 65% of any communication is non-verbal? Your body speaks long before you say a word in an interview.
 *   **Eye Contact**: Shows confidence, genuineness, and holds the interviewer's attention.

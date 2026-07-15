@@ -1,6 +1,6 @@
 # B.Com Semester 5: Modern Career Paths
 
-![Technology](/assets/technology.jpg)
+
 
 
 Last week, we explored traditional commerce pathways like CA, CS, and Banking. These paths are well-known and highly structured. However, the world of finance and commerce is undergoing a massive transformation driven by technology.
@@ -57,7 +57,7 @@ While traditional accountants record what happened in the past, Data Analysts pr
 
 ## 3. Digital Marketing for Finance
 
-![Finance](/assets/finance.jpg)
+
 
 
 Financial products (mutual funds, insurance, credit cards) are notoriously difficult to sell. Companies need marketers who actually understand the financial products they are promoting.
@@ -70,7 +70,7 @@ Financial products (mutual funds, insurance, credit cards) are notoriously diffi
 
 ## Activity: Emerging Role Research
 
-![Career](/assets/career.jpg)
+
 
 
 Select one modern career path that excites you. Use this worksheet to map out the technical skills you need to learn outside of your standard B.Com syllabus to bridge the gap.
@@ -81,7 +81,7 @@ Select one modern career path that excites you. Use this worksheet to map out th
 
 ## Summary and Next Steps
 
-![Marketing](/assets/marketing.jpg)
+
 
 
 The commerce degree is incredibly versatile. By adding just one or two tech-adjacent skills (like Excel, SQL, or digital marketing) to your core financial knowledge, you make yourself exceptionally valuable in the modern job market.
@@ -98,7 +98,7 @@ Next week, we will explore the Gig Economy and how to start **Freelancing & Cons
 
 ## Interpersonal Skills Focus: The Pitfalls of Online Communication
 
-![Strategy](/assets/strategy.jpg)
+
 
 The lack of visual cues makes EMC a breeding ground for misunderstanding.
 *   **Writing Style**: Your grammar and syntax in an email to a professor paints a picture of your professionalism. "whaddup? u there?" is not appropriate for college. Use proper salutations (e.g., "Dear Prof. Smith,").

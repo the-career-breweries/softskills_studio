@@ -1,7 +1,7 @@
 # Welcome to Semester 4: Week 16
 ## Digital Communication
 
-![Week 16 Title](/images/sem4_w16_title.jpg)
+
 
 Congratulations on reaching the final week of the foundational UG Soft Skills curriculum! We conclude by mastering the environments where most modern work actually happens: email, Slack/Teams, and digital workspaces.
 
@@ -9,7 +9,7 @@ Congratulations on reaching the final week of the foundational UG Soft Skills cu
 
 # Digital Etiquette
 
-![Digital Etiquette](/images/sem4_w16_etiquette.jpg)
+
 
 The rules of professional conduct apply just as strictly online as they do in person.
 
@@ -21,7 +21,7 @@ The rules of professional conduct apply just as strictly online as they do in pe
 
 # File Discipline
 
-![File Discipline](/images/sem4_w16_files.jpg)
+
 
 Nothing screams "unprofessional" louder than sending an email with the subject "Resume" and an attached file named `resume_final_v3_real_FINAL.pdf`.
 
@@ -33,7 +33,7 @@ Nothing screams "unprofessional" louder than sending an email with the subject "
 
 # Activity: Professional Email Task
 
-![Activity](/images/sem4_w16_activity.jpg)
+
 
 <!-- PRINT: ProfessionalEmail -->
 
@@ -47,7 +47,7 @@ Your final task is to demonstrate your digital communication skills.
 
 # Evaluation Rubric
 
-![Rubric](/images/sem4_w16_rubric.jpg)
+
 
 You will be evaluated this week on:
 
@@ -63,7 +63,7 @@ You will be evaluated this week on:
 
 ## Interpersonal Skills Focus: Emotional Regulation & Exam Stress
 
-![Career](/assets/career.jpg)
+
 
 *   **Cognitive Reappraisal**: Altering the way you think about a stressful exam or presentation to lower your emotional reaction.
 *   **Adaptability**: Objectively evaluating sudden changes (like a surprise quiz) rather than panicking.

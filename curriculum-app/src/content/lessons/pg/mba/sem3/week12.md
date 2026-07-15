@@ -1,6 +1,6 @@
 ## Advanced Executive Processes
 
-![Leadership](/assets/leadership.jpg)
+
 
 
 Welcome to the C-Suite.
@@ -13,7 +13,7 @@ This session covers the architecture of corporate leadership.
 
 ## 1. Change Management
 
-![Technology](/assets/technology.jpg)
+
 
 
 Change is the only constant in modern business. Managing it requires immense precision.
@@ -31,7 +31,7 @@ Change is the only constant in modern business. Managing it requires immense pre
 
 ## 2. High-Level Decision Making
 
-![Leadership](/assets/leadership.jpg)
+
 
 
 When the stakes are in the millions, intuition is not enough. You need frameworks.
@@ -48,7 +48,7 @@ When the stakes are in the millions, intuition is not enough. You need framework
 
 ## 3. Organizational Behavior & Politics
 
-![Marketing](/assets/marketing.jpg)
+
 
 
 Power dynamics are real. Navigating them ethically is a required executive skill.
@@ -66,7 +66,7 @@ Power dynamics are real. Navigating them ethically is a required executive skill
 
 ## Executive Interpersonal Skills: Navigating Corporate Politics
 
-![Leadership](/assets/leadership.jpg)
+
 
 Office politics are unavoidable. True executives navigate them ethically.
 *   **Active Listening in Conflict:** When departments clash, listen not just for words, but for underlying interests.

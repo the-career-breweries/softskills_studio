@@ -1,6 +1,6 @@
 # M.Com Semester 2: Interview Design & Response
 
-![Finance](/assets/finance.jpg)
+
 
 
 Whether you are interviewing for a role at a Big 4 accounting firm or aiming for a Corporate Finance position, you will face rigorous behavioral and technical probing.
@@ -28,7 +28,7 @@ flowchart LR
 
 ## Activity: Mock Response Lab
 
-![Finance](/assets/finance.jpg)
+
 
 
 Participate in a rapid-fire STAR-style behavioral interview lab tailored for senior finance and accounting roles.
@@ -43,7 +43,7 @@ Participate in a rapid-fire STAR-style behavioral interview lab tailored for sen
 
 ## Executive Interpersonal Skills: Navigating Virtual Workspaces
 
-![Digital Communication](/assets/digital_communication.jpg)
+
 
 *   **Shared Workspaces**: Digital environments that break geographical boundaries, allowing simultaneous thesis editing and networking with global peers. 
 As a postgraduate, you must foster an inclusive culture inside these digital walls to build a powerful alumni network.

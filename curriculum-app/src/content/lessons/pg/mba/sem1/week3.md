@@ -1,6 +1,6 @@
 # MBA Semester 1: Self-Management & Accountability
 
-![Leadership](/assets/leadership.jpg)
+
 
 
 An MBA program is inherently stressful, designed to simulate the pressures of the corporate world. Your ability to manage your time, energy, and accountability is the primary predictor of your success.
@@ -27,7 +27,7 @@ flowchart LR
 
 ## 2. Extreme Ownership
 
-![Leadership](/assets/leadership.jpg)
+
 
 
 In the corporate world, excuses do not matter; results do. The concept of "Extreme Ownership" means taking absolute responsibility for everything that impacts your mission.
@@ -38,7 +38,7 @@ If your team fails a project because a teammate missed a deadline, an undergradu
 
 ## Activity: Performance Management Plan
 
-![Leadership](/assets/leadership.jpg)
+
 
 
 Draft your personal performance management plan for this semester.

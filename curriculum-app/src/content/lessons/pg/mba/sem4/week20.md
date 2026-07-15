@@ -1,6 +1,6 @@
 ## The Launchpad
 
-![Global Business](/assets/global.jpg)
+
 
 Congratulations. 
 
@@ -22,7 +22,7 @@ Your relationship with this institution does not end today; it evolves.
 
 ## The Personal Advisory Board
 
-![Teamwork](/assets/teamwork.jpg)
+
 
 Do not operate in isolation. You need a personal advisory board:
 *   **The Challenger:** Someone who ruthlessly questions your decisions.
@@ -36,7 +36,7 @@ Build this board within your first year.
 
 ## Final Deliverable: The Letter
 
-![Communication](/assets/communication.jpg)
+
 
 Write a physical letter to yourself, to be opened exactly 5 years from today.
 Include:

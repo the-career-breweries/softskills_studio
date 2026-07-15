@@ -9,7 +9,7 @@ This week marks the culmination of Semester 2. We have worked on articulation an
 
 # Presentation Structure
 
-![Presentation Structure](/images/sem2_w4_structure.jpg)
+
 
 The best presentations are easy to follow because they have a clear, predictable structure.
 
@@ -21,7 +21,7 @@ The best presentations are easy to follow because they have a clear, predictable
 
 # Confident Delivery
 
-![Delivery](/images/sem2_w4_delivery.jpg)
+
 
 Your body language speaks before your words do.
 
@@ -33,7 +33,7 @@ Your body language speaks before your words do.
 
 # Activity: The Micro Presentation
 
-![Micro Presentation Activity](/images/sem2_w4_activity.jpg)
+
 
 <!-- PRINT: MicroPresentation -->
 
@@ -47,7 +47,7 @@ It is your turn to take the stage.
 
 # Evaluation Rubric
 
-![Rubric](/images/sem2_w4_rubric.jpg)
+
 
 You will be evaluated this week on:
 
@@ -63,7 +63,7 @@ You will be evaluated this week on:
 
 ## Interpersonal Skills Focus: Overcoming Listening Barriers
 
-![Strategy](/assets/strategy.jpg)
+
 
 *Avoid Selective Listening*—where you tune out until the professor mentions the exam!
 *   **Physical Barriers**: Noise in the classroom, poor internet connection during online classes, or visual distractions.

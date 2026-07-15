@@ -1,7 +1,7 @@
 # Welcome to Semester 4: Week 14
 ## Interview Basics
 
-![Week 14 Title](/images/sem4_w14_title.jpg)
+
 
 The interview is the gateway to your career. It is not an interrogation; it is a conversation to determine mutual fit. This week, we cover the fundamentals of interview preparation.
 
@@ -9,7 +9,7 @@ The interview is the gateway to your career. It is not an interrogation; it is a
 
 # The Interview Process
 
-![Interview Process](/images/sem4_w14_process.jpg)
+
 
 Interviews rarely happen in a single step. Be prepared for a multi-stage process.
 
@@ -21,7 +21,7 @@ Interviews rarely happen in a single step. Be prepared for a multi-stage process
 
 # Preparation is Everything
 
-![Preparation](/images/sem4_w14_prep.jpg)
+
 
 Confidence in an interview comes from preparation, not just natural charisma.
 
@@ -33,7 +33,7 @@ Confidence in an interview comes from preparation, not just natural charisma.
 
 # Activity: Interview Prep Worksheet
 
-![Activity](/images/sem4_w14_activity.jpg)
+
 
 <!-- PRINT: InterviewPrep -->
 
@@ -47,7 +47,7 @@ Let's start preparing for your first interview.
 
 # Evaluation Rubric
 
-![Rubric](/images/sem4_w14_rubric.jpg)
+
 
 You will be evaluated this week on:
 
@@ -63,7 +63,7 @@ You will be evaluated this week on:
 
 ## Interpersonal Skills Focus: Telephone & Virtual Etiquette
 
-![Technology](/assets/technology.jpg)
+
 
 *   **Tone of Voice**: Use an upbeat tone. State your name clearly on voicemails to recruiters.
 *   **Active Participation**: Avoid multitasking during online classes or virtual interviews. Instructors and recruiters can tell when you are distracted.

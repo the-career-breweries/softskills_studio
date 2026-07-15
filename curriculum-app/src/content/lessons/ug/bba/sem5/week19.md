@@ -1,6 +1,6 @@
 # BBA Semester 5: Freelancing & Consulting
 
-![Finance](/assets/finance.jpg)
+
 
 
 The modern economy is shifting toward gig work and independent consulting. For a BBA graduate, freelancing allows you to build a portfolio of diverse experiences without being tied to a single employer.
@@ -24,7 +24,7 @@ flowchart LR
 
 ## High-Demand Freelance Skills for BBA
 
-![Leadership](/assets/leadership.jpg)
+
 
 
 You don't need to be a programmer to freelance. Business skills are in high demand:
@@ -37,7 +37,7 @@ You don't need to be a programmer to freelance. Business skills are in high dema
 
 ## Building Your Profile
 
-![Finance](/assets/finance.jpg)
+
 
 
 Your Upwork or Fiverr profile is your digital storefront. 
@@ -52,7 +52,7 @@ Your Upwork or Fiverr profile is your digital storefront.
 
 ## Activity: Freelance Profile Draft
 
-![Strategy](/assets/strategy.jpg)
+
 
 
 Draft the headline and bio for your first freelance profile, focusing on a specific niche.

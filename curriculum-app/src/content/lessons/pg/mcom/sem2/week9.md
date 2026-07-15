@@ -1,6 +1,6 @@
 # M.Com Semester 2: Meetings & Leadership
 
-![Finance](/assets/finance.jpg)
+
 
 
 Finance leaders chair some of the most critical meetings in a corporation: Audit Committees, Budget Reviews, and Earnings Calls. 
@@ -25,7 +25,7 @@ flowchart LR
 
 ## Activity: Mock Meeting Leadership
 
-![Finance](/assets/finance.jpg)
+
 
 
 Chair a 10-minute mock quarterly financial review with a department head who has significantly overspent their budget.
@@ -40,7 +40,7 @@ Chair a 10-minute mock quarterly financial review with a department head who has
 
 ## Executive Interpersonal Skills: Enterprise Wikis
 
-![Leadership](/assets/leadership.jpg)
+
 
 *   **Knowledge Bases**: Fluid, community-driven hubs (like Notion or shared wikis) for internal research accumulation. 
 They democratize information within your cohort but require strict organization to prevent data loss or plagiarism.

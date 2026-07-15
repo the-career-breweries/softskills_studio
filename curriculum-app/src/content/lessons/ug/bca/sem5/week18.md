@@ -1,6 +1,6 @@
 # BCA Semester 5: Data Science & AI
 
-![Technology](/assets/technology.jpg)
+
 
 
 Data is the new oil, and Artificial Intelligence is the engine that runs on it. As a BCA student, transitioning into Data Science or Machine Learning is a highly lucrative pathway.
@@ -25,7 +25,7 @@ flowchart LR
 
 ## 2. Core Technologies for AI/ML
 
-![Technology](/assets/technology.jpg)
+
 
 
 If you want to enter the AI space, Python is non-negotiable.
@@ -39,7 +39,7 @@ If you want to enter the AI space, Python is non-negotiable.
 
 ## 3. The Math Prerequisite
 
-![Technology](/assets/technology.jpg)
+
 
 
 You cannot build a career in AI without understanding the underlying math. You don't need a PhD, but you must be comfortable with:
@@ -51,7 +51,7 @@ You cannot build a career in AI without understanding the underlying math. You d
 
 ## Activity: The Data Pipeline
 
-![Technology](/assets/technology.jpg)
+
 
 
 Outline a data pipeline for a specific business problem (e.g., predicting customer churn).
@@ -66,7 +66,7 @@ Outline a data pipeline for a specific business problem (e.g., predicting custom
 
 ## Interpersonal Skills Focus: The Pitfalls of Online Communication
 
-![Strategy](/assets/strategy.jpg)
+
 
 The lack of visual cues makes EMC a breeding ground for misunderstanding.
 *   **Writing Style**: Your grammar and syntax in an email to a professor paints a picture of your professionalism. "whaddup? u there?" is not appropriate for college. Use proper salutations (e.g., "Dear Prof. Smith,").

@@ -1,6 +1,6 @@
 ## High-Stakes Crisis Simulation
 
-![Time Management](/assets/time_management.jpg)
+
 
 You can plan a perfect financial model, but you cannot plan the market.
 
@@ -12,7 +12,7 @@ When the market crashes, your firm's executives will turn to you for answers.
 
 ## The "Margin Call" War Room
 
-![Global](/assets/global.jpg)
+
 
 **The Scenario:**
 It is 7:00 AM on a Tuesday. News just broke that a major global bank has collapsed overnight due to toxic asset exposure. The S&P 500 futures are down 6%. Credit markets have completely frozen. 

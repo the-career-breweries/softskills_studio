@@ -1,6 +1,6 @@
 # MBA Semester 1: Advanced Self-Awareness
 
-![Strategy](/assets/strategy.jpg)
+
 
 
 Great leaders are deeply self-aware. They know their strengths, they acknowledge their weaknesses, and they surround themselves with people who compensate for their blind spots.
@@ -29,7 +29,7 @@ flowchart LR
 
 ## 2. Identifying Growth Gaps
 
-![Finance](/assets/finance.jpg)
+
 
 
 A "Growth Gap" is the distance between your current competency and the competency required for your target post-MBA role.
@@ -41,7 +41,7 @@ A "Growth Gap" is the distance between your current competency and the competenc
 
 ## Activity: The Competency Profile
 
-![Strategy](/assets/strategy.jpg)
+
 
 
 Map out your strengths and your critical growth gaps required for your target industry.
@@ -56,7 +56,7 @@ Map out your strengths and your critical growth gaps required for your target in
 
 ## Executive Interpersonal Skills: Communibiological vs. Social Learning
 
-![Body Language](/assets/body_language.jpg)
+
 
 *   **Communibiological Approach**: Suggests that communication behaviors (like public speaking anxiety) are heavily genetically inherited.
 *   **Social Learning Theory**: Counters this by proving that regardless of genetic disposition, students can adapt, observe, and learn to modify their behaviors.

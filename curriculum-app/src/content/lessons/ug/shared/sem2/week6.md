@@ -9,7 +9,7 @@ Last week we focused on individual clarity and articulation. This week, we apply
 
 # How to Enter a Discussion
 
-![Entering a Discussion](/images/sem2_w2_entering.jpg)
+
 
 One of the hardest parts of a group discussion is finding the right moment to speak without aggressively interrupting. 
 
@@ -21,7 +21,7 @@ One of the hardest parts of a group discussion is finding the right moment to sp
 
 # Active Listening in Groups
 
-![Active Listening](/images/sem2_w2_listening.jpg)
+
 
 Group discussions are not just about who speaks the loudest. Evaluators and managers watch who listens the best. 
 
@@ -35,7 +35,7 @@ When you are not speaking:
 
 # Activity: Structured GD Round
 
-![GD Activity](/images/sem2_w2_activity.jpg)
+
 
 <!-- PRINT: GD1Checklist -->
 
@@ -49,7 +49,7 @@ Today, we will conduct a highly structured Group Discussion round.
 
 # Evaluation Rubric
 
-![Rubric](/images/sem2_w1_rubric.jpg)
+
 
 You will be evaluated this week on:
 

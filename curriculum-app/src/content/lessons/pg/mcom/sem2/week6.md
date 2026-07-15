@@ -1,6 +1,6 @@
 # M.Com Semester 2: Analytical Articulation
 
-![Finance](/assets/finance.jpg)
+
 
 
 Finance is the language of business, but many business leaders do not speak it fluently. Your job is to articulate complex financial models so that non-finance executives can make informed decisions.
@@ -26,7 +26,7 @@ flowchart LR
 
 ## 2. Speaking with Financial Evidence
 
-![Operations](/assets/operations.jpg)
+
 
 
 Never present a number without context. 
@@ -37,7 +37,7 @@ Never present a number without context.
 
 ## Activity: The Concept Explanation
 
-![Finance](/assets/finance.jpg)
+
 
 
 Take a complex financial concept (e.g., WACC, Deferred Tax Assets) and explain it clearly to a non-expert audience using the Pyramid Principle.
@@ -52,7 +52,7 @@ Take a complex financial concept (e.g., WACC, Deferred Tax Assets) and explain i
 
 ## Executive Interpersonal Skills: Overcoming Resistance to Ideas
 
-![Leadership](/assets/leadership.jpg)
+
 
 When proposing a new thesis methodology or challenging established ideas in a seminar, resistance is logical. 
 Do not accuse or bulldoze. Use *empathic listening* to bring their critiques into the open ("I understand this approach seems unconventional..."). Acknowledge objections fairly to lower defenses and build academic alliances.

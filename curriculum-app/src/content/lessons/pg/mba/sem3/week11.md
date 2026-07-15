@@ -1,6 +1,6 @@
 ## Capstone Synthesis: The Semester 2 Bridge
 
-![Leadership](/assets/leadership.jpg)
+
 
 
 Welcome to Semester 3. 
@@ -16,7 +16,7 @@ Today is a fully practical session. We will transition from theory to execution.
 
 ## Practical Worksheet 1: The Executive Summary
 
-![Leadership](/assets/leadership.jpg)
+
 
 
 **The Objective:** Synthesize a complex topic into a 3-minute brief.
@@ -34,7 +34,7 @@ Today is a fully practical session. We will transition from theory to execution.
 
 ## Practical Worksheet 2: The High-Stakes Meeting
 
-![Finance](/assets/finance.jpg)
+
 
 
 **The Objective:** Demonstrate meeting leadership and conflict resolution.
@@ -52,7 +52,7 @@ Today is a fully practical session. We will transition from theory to execution.
 
 ## Practical Worksheet 3: The Ultimate STAR Response
 
-![Career](/assets/career.jpg)
+
 
 
 **The Objective:** Master behavioral interview framing.
@@ -73,7 +73,7 @@ Map it out:
 
 ## Executive Interpersonal Skills: Synthesis & Agility
 
-![Leadership](/assets/leadership.jpg)
+
 
 As you transition into higher executive roles, agility becomes critical. The ability to instantly synthesize conflicting data points from different departments—much like the BLUF summary method—is what separates leaders from managers. Maintain composure and focus on actionable metrics when presenting upward.
 

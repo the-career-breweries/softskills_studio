@@ -1,6 +1,6 @@
 # B.Com Semester 5: Industry Case Study
 
-![Career](/assets/career.jpg)
+
 
 
 Welcome to the final week of Semester 5! Up until now, you have learned how to write, present, participate in group discussions, and map out your career. 
@@ -11,7 +11,7 @@ This week, we will apply those skills to a core B.Com competency: **Analyzing a 
 
 ## 1. Why Case Studies?
 
-![Finance](/assets/finance.jpg)
+
 
 
 In the corporate world, you are rarely given a textbook problem with a clear formula to solve it. Instead, you are given a "situation"—a messy, complex scenario involving people, money, and market forces. 
@@ -25,7 +25,7 @@ Employers use case studies during interviews to test three things:
 
 ## 2. A Framework for Analysis
 
-![Finance](/assets/finance.jpg)
+
 
 
 When presented with a business problem, use the **S-P-I-S** framework to structure your thoughts before you speak:
@@ -41,7 +41,7 @@ When presented with a business problem, use the **S-P-I-S** framework to structu
 
 ## 3. The Sample Case: "The Growth Trap"
 
-![Finance](/assets/finance.jpg)
+
 
 
 **The Scenario:**
@@ -56,7 +56,7 @@ You have been hired as a Junior Analyst. The CEO wants to know why a company mak
 
 ## Activity: Case Study Breakdown
 
-![Strategy](/assets/strategy.jpg)
+
 
 
 Use the worksheet below to break down the "TechGear" case study using the S-P-I-S framework. Prepare to present your findings to the class.
@@ -67,7 +67,7 @@ Use the worksheet below to break down the "TechGear" case study using the S-P-I-
 
 ## Summary and Next Steps
 
-![Career](/assets/career.jpg)
+
 
 
 Congratulations on completing Semester 5! You have now mapped out traditional and modern career paths, explored freelancing, and tackled real-world business analysis.
@@ -82,7 +82,7 @@ In Semester 6, we will shift entirely to **Interview Defense and Final Readiness
 
 ## Interpersonal Skills Focus: Netiquette (Online Etiquette)
 
-![Leadership](/assets/leadership.jpg)
+
 
 *   **Avoid "Reply All"**: Unless absolutely necessary, do not clutter your classmates' or professors' inboxes.
 *   **Emotions under Control**: The instantaneous nature of group chats can lead to regrettable outbursts over group work. Step away before sending an angry message.

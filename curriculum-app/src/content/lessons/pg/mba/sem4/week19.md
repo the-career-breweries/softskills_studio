@@ -1,6 +1,6 @@
 ## The Capstone Synthesis
 
-![Strategy](/assets/strategy.jpg)
+
 
 Four semesters. Dozens of frameworks. Hundreds of hours of hard work.
 It all culminates today.
@@ -21,7 +21,7 @@ You are expected to integrate:
 
 ## Evaluation Rubric
 
-![Feedback](/assets/feedback.jpg)
+
 
 The panel will not be evaluating you as a student. They will evaluate you as a professional peer.
 

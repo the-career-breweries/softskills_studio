@@ -9,7 +9,7 @@ Now that we know the basics of entering a discussion and listening actively, it 
 
 # Idea Flow and Teamwork
 
-![Idea Flow](/images/sem2_w3_flow.jpg)
+
 
 The best participants in a Group Discussion are those who can synthesize information. They don't just drop their own point and sit back—they weave their ideas into the fabric of the ongoing conversation.
 
@@ -21,7 +21,7 @@ The best participants in a Group Discussion are those who can synthesize informa
 
 # Respectful Disagreement
 
-![Respectful Disagreement](/images/sem2_w3_disagreement.jpg)
+
 
 Conflict is inevitable and often necessary for good ideas to emerge. The key is to attack the *idea*, not the *person*. 
 
@@ -33,7 +33,7 @@ Conflict is inevitable and often necessary for good ideas to emerge. The key is 
 
 # Activity: Advanced GD Round
 
-![Advanced GD](/images/sem2_w3_activity.jpg)
+
 
 <!-- PRINT: GD2Synthesis -->
 
@@ -47,7 +47,7 @@ Today, we will tackle a more complex, slightly controversial topic.
 
 # Evaluation Rubric
 
-![Rubric](/images/sem2_w3_rubric.jpg)
+
 
 You will be evaluated this week on:
 

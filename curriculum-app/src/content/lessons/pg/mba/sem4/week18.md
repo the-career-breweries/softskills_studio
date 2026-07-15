@@ -1,6 +1,6 @@
 ## Crisis Management & Resilience
 
-![Leadership](/assets/leadership.jpg)
+
 
 Business is not a straight line. 
 
@@ -21,7 +21,7 @@ The scenario is live, the clock is ticking, and every decision has immediate, ps
 
 ## Simulation Mechanics: "The Death Spiral"
 
-![Time Management](/assets/time_management.jpg)
+
 <!-- PRINT: CrisisSimulation -->
 
 **The Setup:**
@@ -44,7 +44,7 @@ Notice your heart rate. Notice who in your team takes charge, who panics, and wh
 
 ## Psychological Resilience
 
-![Body Language](/assets/body_language.jpg)
+
 
 Crisis management is 20% strategy and 80% emotional regulation.
 

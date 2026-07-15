@@ -1,6 +1,6 @@
 # B.Com Semester 5: Freelancing & Consulting
 
-![Finance](/assets/finance.jpg)
+
 
 
 The modern economy is increasingly shifting toward gig work and independent consulting. For a B.Com graduate, the barriers to entry in freelancing are surprisingly low if you possess specific, high-demand skills.
@@ -11,7 +11,7 @@ This week, we will break down how to package your financial knowledge into a ser
 
 ## 1. High-Demand Freelance Skills for B.Com
 
-![Finance](/assets/finance.jpg)
+
 
 
 You don't need a professional certification to start offering basic financial services. Many startups and small businesses simply lack the time to manage their own books.
@@ -48,7 +48,7 @@ flowchart LR
 
 ## 3. Setting Up Your Profile
 
-![Finance](/assets/finance.jpg)
+
 
 
 To succeed on platforms like Upwork, your profile must clearly state **what problem you solve**, rather than just listing your degrees.
@@ -60,7 +60,7 @@ To succeed on platforms like Upwork, your profile must clearly state **what prob
 
 ## Activity: Freelance Profile Draft
 
-![Strategy](/assets/strategy.jpg)
+
 
 
 Let's assume you want to start a side-hustle this weekend. Use this worksheet to draft your first freelance service offering and bio.
@@ -71,7 +71,7 @@ Let's assume you want to start a side-hustle this weekend. Use this worksheet to
 
 ## Summary and Next Steps
 
-![Global Business](/assets/global.jpg)
+
 
 
 Freelancing is the ultimate test of your soft skills—you must communicate clearly, manage your own time, and build trust with clients remotely.

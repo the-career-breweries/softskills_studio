@@ -9,7 +9,7 @@ While what you say and write is crucial, how you present yourself non-verbally o
 
 # Posture and Presence
 
-![Posture](/images/sem3_w11_posture.jpg)
+
 
 Your posture dictates how others perceive your confidence and engagement. 
 
@@ -21,7 +21,7 @@ Your posture dictates how others perceive your confidence and engagement.
 
 # Eye Contact and Gestures
 
-![Eye Contact](/images/sem3_w11_eyes.jpg)
+
 
 Effective eye contact builds trust, while controlled gestures add emphasis to your words.
 
@@ -33,7 +33,7 @@ Effective eye contact builds trust, while controlled gestures add emphasis to yo
 
 # Activity: Non-Verbal Communication Practice
 
-![Activity](/images/sem3_w11_activity.jpg)
+
 
 <!-- PRINT: BodyLanguage -->
 
@@ -47,7 +47,7 @@ We will now put these non-verbal skills to the test.
 
 # Evaluation Rubric
 
-![Rubric](/images/sem3_w11_rubric.jpg)
+
 
 You will be evaluated this week on:
 
@@ -63,7 +63,7 @@ You will be evaluated this week on:
 
 ## Interpersonal Skills Focus: The Dangers of Groupthink
 
-![Technology](/assets/technology.jpg)
+
 
 **Groupthink** occurs when peer pressure causes team members to withhold contrary opinions during a project. 
 It results in ill-advised decisions because no one wanted to "rock the boat" or argue with the group's alpha. 

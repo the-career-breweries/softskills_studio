@@ -1,7 +1,7 @@
 # Welcome to Semester 4: Week 13
 ## Career Awareness
 
-![Week 13 Title](/images/sem4_w13_title.jpg)
+
 
 Welcome to the final semester of the foundational curriculum! We are now shifting our focus entirely to employability and career readiness. This week, we start by mapping out where you actually want to go.
 
@@ -9,7 +9,7 @@ Welcome to the final semester of the foundational curriculum! We are now shiftin
 
 # Understanding Career Paths
 
-![Career Paths](/images/sem4_w13_paths.jpg)
+
 
 Your degree does not lock you into a single job title. Most modern careers are non-linear. 
 
@@ -21,7 +21,7 @@ Your degree does not lock you into a single job title. Most modern careers are n
 
 # Aligning Interests and Reality
 
-![Alignment](/images/sem4_w13_alignment.jpg)
+
 
 "Follow your passion" is incomplete advice. A successful career is the intersection of what you like, what you are good at, and what the market actually pays for.
 
@@ -33,7 +33,7 @@ Your degree does not lock you into a single job title. Most modern careers are n
 
 # Activity: Career Mapping Sheet
 
-![Activity](/images/sem4_w13_activity.jpg)
+
 
 <!-- PRINT: CareerMapping -->
 
@@ -47,7 +47,7 @@ It is time to put your goals on paper.
 
 # Evaluation Rubric
 
-![Rubric](/images/sem4_w13_rubric.jpg)
+
 
 You will be evaluated this week on:
 
@@ -63,7 +63,7 @@ You will be evaluated this week on:
 
 ## Interpersonal Skills Focus: Campus to Corporate Etiquette
 
-![Career](/assets/career.jpg)
+
 
 Your academic grades get you the interview, but your interpersonal etiquette secures the job offer.
 *   **Appearance**: Your attire sends a powerful nonverbal signal. Dress modestly, cleanly, and professionally for campus placements.
