@@ -740,6 +740,25 @@ html, body {
   overflow: hidden;
 }
 
+.slide-brand-watermark {
+  position: absolute;
+  bottom: 2rem;
+  left: 2rem;
+  text-align: left;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  color: var(--text-muted);
+  opacity: 0.6;
+  pointer-events: none;
+  z-index: 10;
+}
+
+.slide-brand-watermark strong {
+  color: var(--text-main);
+  font-size: 1rem;
+}
+
+
 .close-btn {
   position: absolute;
   top: 2rem;

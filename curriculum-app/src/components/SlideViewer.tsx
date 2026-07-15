@@ -253,6 +253,12 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
         <div className="print-only">
           <PrintTemplates templateId={printTemplateId || ''} />
         </div>
+        
+        <div className="slide-brand-watermark">
+          <strong>S D Sandarsh</strong><br/>
+          Employability & Softskills Trainer<br/>
+          Training & Placement Officer
+        </div>
       </div>
     </div>
   );
