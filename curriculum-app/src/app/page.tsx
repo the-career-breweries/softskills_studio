@@ -163,7 +163,6 @@ export default function CurriculumApp() {
               >
                 {theme === 'dark' ? <Sun size={20} /> : <Moon size={20} />}
               </button>
-              <div className="user-avatar">SC</div>
             </div>
           </header>
 

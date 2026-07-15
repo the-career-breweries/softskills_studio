@@ -148,18 +148,7 @@ html, body {
   color: var(--text-main);
 }
 
-.user-avatar {
-  width: 2.5rem;
-  height: 2.5rem;
-  background: var(--accent-primary);
-  color: white;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: 600;
-  font-size: 0.875rem;
-}
+
 
 /* 2-Column Layout */
 .lms-layout {
