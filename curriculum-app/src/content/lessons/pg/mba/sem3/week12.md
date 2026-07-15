@@ -37,10 +37,10 @@ Change is the only constant in modern business. Managing it requires immense pre
 When the stakes are in the millions, intuition is not enough. You need frameworks.
 
 **The Cynefin Framework:**
-*   **Obvious:** Best practices apply (Sense -> Categorize -> Respond).
-*   **Complicated:** Good practices apply (Sense -> Analyze -> Respond).
-*   **Complex:** Emergent practice (Probe -> Sense -> Respond).
-*   **Chaotic:** Novel practice (Act -> Sense -> Respond).
+*   **Obvious:** Best practices apply (Sense → Categorize → Respond).
+*   **Complicated:** Good practices apply (Sense → Analyze → Respond).
+*   **Complex:** Emergent practice (Probe → Sense → Respond).
+*   **Chaotic:** Novel practice (Act → Sense → Respond).
 
 *Understanding which domain your problem sits in dictates how you lead the team through it.*
 
