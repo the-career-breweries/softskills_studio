@@ -5,7 +5,6 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import mermaid from 'mermaid';
 import PrintTemplates from './PrintTemplates';
-import ThematicVisual from './ThematicVisual';
 
 const Mermaid = ({ chart, theme }: { chart: string, theme: 'light' | 'dark' }) => {
   const ref = React.useRef<HTMLDivElement>(null);
@@ -186,13 +185,6 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
                             {children}
                           </code>
                         );
-                      },
-                      img({ src, alt, ...props }) {
-                        if (src && src.startsWith('/assets/')) {
-                          // The alt text usually contains the theme name (e.g. "Finance", "Leadership")
-                          return <ThematicVisual theme={alt || 'general'} seed={currentSlide} />;
-                        }
-                        return <img src={src} alt={alt} {...props} />;
                       }
                     }}
                   >
