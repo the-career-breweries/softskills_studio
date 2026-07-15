@@ -40,6 +40,43 @@ Your long-term value in finance is determined by your "Book of Business"—the c
 
 ---
 
+## Resume Architecture & The STAR Method
+
+![Strategy](/assets/strategy.jpg)
+
+Regardless of your path, every bullet point on your resume must be engineered for impact.
+
+**The Golden Rules of Resume Architecture:**
+1.  **General Info:** Always include clickable links to your LinkedIn, Portfolio, and GitHub (if technical).
+2.  **Summary vs. Objective:** Use an *Objective* if you are pivoting or a fresher. Use a *Summary* if you have 3+ years of experience to synthesize.
+3.  **Quantify Everything:** "Improved efficiency" is weak. "Improved efficiency by 30% saving 10 hours a week" is executive-level.
+
+**The STAR Method for Bullet Points:**
+*   **S**ituation: The context or problem.
+*   **T**ask: What was the impossible goal?
+*   **A**ction: What specific action did *you* take? (Start with a strong action verb).
+*   **R**esult: The quantifiable business outcome.
+
+---
+
+### Resume Building & Audit Tools
+
+![Digital Communication](/assets/digital_communication.jpg)
+
+Do not build your resume from scratch in a blank Word document. Leverage the best tools available.
+
+**Exclusive TCB AI Tools:**
+*   [TCB Resume Builder](https://tcb-resume-builder.vercel.app)
+*   [TCB Resume Rewrite](https://tcb-resume-rewrite.vercel.app)
+*   [TCB Resume Audit](https://tcb-resume-audit.vercel.app) *(Aim for an ATS score > 60)*
+
+**Industry Standard Builders & Templates:**
+*   *Premium/Modern:* [Enhancv](https://www.enhancv.com), [Novoresume](https://www.novoresume.com), [FlowCV](https://www.flowcv.com), [Resume.io](https://www.resume.io)
+*   *Traditional/ATS-Friendly:* [Zety](https://www.zety.com), [Resume-Now](https://www.resume-now.com), [ResumeBuilder](https://www.resumebuilder.com)
+*   *Design/Technical:* [Canva](https://www.canva.com) (For creative roles), [Overleaf](https://www.overleaf.com) (LaTeX for extreme precision), [Google Docs](https://www.docs.google.com) (For clean, simple text).
+
+---
+
 ## Today's Deliverable
 <!-- PRINT: FinancialPersona -->
 
