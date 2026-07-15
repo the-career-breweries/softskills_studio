@@ -38,12 +38,12 @@ Complete your professional baseline reflection, focusing on your financial commu
 <!-- PRINT: PG_ProfBaseline -->
 
 
+
 ---
 
-## Executive Interpersonal Skills: The Transactional Model
+## Executive Interpersonal Skills: The Transactional Model in Academia
 As a postgraduate, your understanding of communication must transcend basic transmission. 
-You are never just a sender or a receiver. You are a **transceiver**. 
-Based on *Systems Theory*, every element in a communication ecosystem interconnectedly impacts the other. A change in your micro-expression alters your partner's decoding in real-time, which instantly alters their encoding.
+Based on *Systems Theory*, every element in a seminar or thesis defense interconnectedly impacts the other. A change in your micro-expression alters the examiner's decoding in real-time, which instantly alters their subsequent questions.
 
 <!-- PRINT_SLIDE -->
 

@@ -28,13 +28,14 @@ Act as the neutral finance facilitator for a 15-minute departmental budget dispu
 <!-- PRINT: PG_Facilitation -->
 
 
+
 ---
 
-## Executive Interpersonal Skills: Evaluating Feedback Styles
-Effective managers tailor their feedback to the individual:
-*   **High Performers**: Need frequent, subtle prodding to maintain high growth without feeling micromanaged.
-*   **Adequate Performers**: Need minimal feedback; they are reliable and steady.
-*   **Poor Performers**: Need highly frequent, specific, and documented feedback tied directly to performance consequences.
+## Executive Interpersonal Skills: Evaluating Collaborative Styles
+Future leaders must learn to tailor their approach to different peers during PG projects:
+*   **Highly Motivated Peers**: Need frequent, subtle brainstorming sessions to maintain high growth without feeling micromanaged.
+*   **Adequate Contributors**: Need clear role definition; they are reliable when given specific tasks.
+*   **Struggling Peers**: Need highly frequent, specific guidance tied directly to the project's milestones.
 
 <!-- PRINT_SLIDE -->
 

@@ -56,15 +56,16 @@ You will be evaluated this week on:
 *   **Composure:** Did you handle disagreements with professionalism and respect?
 
 
+
 ---
 
 ## Interpersonal Skills Focus: The Active Listening Process
-Listening is a highly complex, active process with five distinct phases:
+Listening in lectures and internships is a highly complex, active process with five distinct phases:
 1.  **Receiving**: Physically hearing the message.
-2.  **Decoding**: Assigning meaning based on your own values and history.
-3.  **Remembering**: Capturing it in short-term, then long-term memory.
+2.  **Decoding**: Assigning meaning based on your own knowledge.
+3.  **Remembering**: Capturing it in short-term, then long-term memory (taking good notes helps!).
 4.  **Evaluating**: Applying critical thinking to separate fact from opinion.
-5.  **Responding**: Providing verbal or nonverbal feedback.
+5.  **Responding**: Providing verbal or nonverbal feedback (like nodding during a lecture).
 
 <!-- PRINT_SLIDE -->
 

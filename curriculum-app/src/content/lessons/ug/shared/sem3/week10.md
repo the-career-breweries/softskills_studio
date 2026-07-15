@@ -56,13 +56,14 @@ You will be evaluated this week on:
 *   **Professionalism:** Does the email strike the appropriate professional tone?
 
 
+
 ---
 
 ## Interpersonal Skills Focus: Navigating Group Dynamics
-Every team member naturally assumes a role. Which one are you?
-*   **Task-Facilitating Roles**: Initiating, coordinating, procedure setting. (Highly Productive)
-*   **Team-Maintenance Roles**: Encouraging, harmonizing, compromising. (Highly Productive)
-*   **Self-Oriented Roles**: Controlling, withdrawing, attention seeking. (Dysfunctional & Destructive)
+Every student in a group project naturally assumes a role. Which one are you?
+*   **Task-Facilitating Roles**: Initiating research, coordinating schedules, setting deadlines. (Highly Productive)
+*   **Team-Maintenance Roles**: Encouraging peers, harmonizing disagreements, compromising. (Highly Productive)
+*   **Self-Oriented Roles**: Controlling the entire project, withdrawing (freeloading), or seeking attention. (Dysfunctional & Destructive)
 
 <!-- PRINT_SLIDE -->
 

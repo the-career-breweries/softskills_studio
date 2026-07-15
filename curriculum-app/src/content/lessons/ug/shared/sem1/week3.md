@@ -54,12 +54,13 @@ Your participation today will be evaluated on:
 * **Confidence:** Did you speak at an appropriate volume and maintain a steady pace?
 
 
+
 ---
 
 ## Interpersonal Skills Focus: The Final 3 C's of Effective Communication
-5.  **Concreteness**: Specific facts and active voice. Avoid vagueness.
-6.  **Consideration**: The "You Attitude"—designing messages from the receiver's point of view.
-7.  **Completeness**: Providing all necessary context to avoid confusion.
+5.  **Concreteness**: Specific facts and active voice. Avoid vagueness in your presentations.
+6.  **Consideration**: The "You Attitude"—designing messages from the receiver's point of view. How will the examiner or recruiter read your work?
+7.  **Completeness**: Providing all necessary context in your emails so your professors or teammates don't have to guess what you mean.
 
 <!-- PRINT_SLIDE -->
 

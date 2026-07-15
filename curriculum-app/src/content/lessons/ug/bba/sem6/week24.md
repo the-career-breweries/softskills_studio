@@ -61,11 +61,12 @@ Remember, the skills you learned here—how to listen actively, how to articulat
 Good luck with your placements!
 
 
+
 ---
 
 ## Interpersonal Skills Focus: Receiving Feedback Gracefully
-When you receive constructive criticism (even if it feels destructive), suppress your ego.
-Use *active listening* to understand their perspective. Paraphrase their concerns to ensure you comprehend the root issue, and view it strictly as an opportunity for professional growth. Defensiveness stunts your career.
+When you receive constructive criticism from a professor or interviewer (even if it hurts), suppress your ego.
+Use *active listening* to understand their perspective. Paraphrase their concerns to ensure you comprehend the root issue, and view it strictly as an opportunity for professional growth. Defensiveness stunts your career before it even begins.
 
 <!-- PRINT_SLIDE -->
 

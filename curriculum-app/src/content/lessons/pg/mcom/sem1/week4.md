@@ -33,11 +33,12 @@ Participate in an exercise where you must deduce the hidden financial agenda of 
 <!-- PRINT: PG_AnalyticalListen -->
 
 
+
 ---
 
-## Executive Interpersonal Skills: Hyperpersonal Relationships
-Paradoxically, online relationships can become *more* intimate than face-to-face ones. 
-This occurs because we selectively present our best selves and idealize our partners due to the absence of distracting physical flaws and the ability to perfectly edit our responses.
+## Executive Interpersonal Skills: Hyperpersonal Networking
+Paradoxically, online networking (e.g., LinkedIn) can become highly effective for students. 
+This occurs because you can selectively present your best professional self and carefully edit your outreach messages, bypassing the awkwardness of initial face-to-face cold networking.
 
 <!-- PRINT_SLIDE -->
 

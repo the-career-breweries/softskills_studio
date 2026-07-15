@@ -85,14 +85,15 @@ Your learning plan will be evaluated on:
 * **Attention to Detail:** Did you clearly identify your distractions and provide a concrete solution for them?
 
 
+
 ---
 
 ## Interpersonal Skills Focus: The First 4 C's of Effective Communication
-To be highly effective in the workplace, every message must adhere to these standards:
-1.  **Clarity**: Simple, precise language tailored to the audience.
+To be highly effective in your studies and future career, every message must adhere to these standards:
+1.  **Clarity**: Simple, precise language tailored to your audience.
 2.  **Correctness**: Grammatically flawless and factually accurate.
-3.  **Conciseness**: Brief and crisp. Avoid unnecessary expressions.
-4.  **Courtesy**: Genuine politeness and respect. "Politeness costs nothing and gains everything."
+3.  **Conciseness**: Brief and crisp. Avoid padding out assignments just to hit a word count.
+4.  **Courtesy**: Genuine politeness and respect toward peers and faculty. "Politeness costs nothing and gains everything."
 
 <!-- PRINT_SLIDE -->
 

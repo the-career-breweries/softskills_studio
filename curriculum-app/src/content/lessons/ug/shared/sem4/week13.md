@@ -56,12 +56,13 @@ You will be evaluated this week on:
 *   **Alignment:** Do your action steps logically address your skill gaps?
 
 
+
 ---
 
-## Interpersonal Skills Focus: Workplace Etiquette
-Your technical skills get you the interview, but your interpersonal etiquette secures your promotion.
-*   **Appearance**: Your attire sends a powerful nonverbal signal. Dress modestly, cleanly, and slightly more formal than your environment requires.
-*   **Social Settings**: At business lunches, remember that the primary goal is *business*, not the meal. Avoid controversial topics like politics or religion.
+## Interpersonal Skills Focus: Campus to Corporate Etiquette
+Your academic grades get you the interview, but your interpersonal etiquette secures the job offer.
+*   **Appearance**: Your attire sends a powerful nonverbal signal. Dress modestly, cleanly, and professionally for campus placements.
+*   **Social Settings**: At networking events, remember that the primary goal is *building connections*. Avoid controversial topics and focus on learning about their industry.
 
 <!-- PRINT_SLIDE -->
 

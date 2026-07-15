@@ -56,12 +56,13 @@ You will be evaluated this week on:
 *   **Gesture Control:** Were your gestures purposeful and free from distracting fidgeting?
 
 
+
 ---
 
 ## Interpersonal Skills Focus: The Dangers of Groupthink
-**Groupthink** occurs when peer pressure causes team members to withhold contrary or unpopular opinions. 
-It results in disastrous, ill-advised decisions because no one wanted to "rock the boat." 
-*How to avoid it*: Always encourage "devil's advocates" in your meetings and foster a climate where dissenting opinions are celebrated.
+**Groupthink** occurs when peer pressure causes team members to withhold contrary opinions during a project. 
+It results in ill-advised decisions because no one wanted to "rock the boat" or argue with the group's alpha. 
+*How to avoid it*: Always encourage "devil's advocates" in your study groups and foster a climate where dissenting opinions are celebrated.
 
 <!-- PRINT_SLIDE -->
 

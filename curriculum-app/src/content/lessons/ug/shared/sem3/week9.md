@@ -56,14 +56,15 @@ You will be evaluated this week on:
 *   **Relevance:** Does the writing directly address the prompt?
 
 
+
 ---
 
-## Interpersonal Skills Focus: Characteristics of Effective Teams
-Collaboration is no longer a soft skill; it is a core job responsibility.
-*   **Shared Purpose**: A clear objective aligned with organizational goals.
-*   **Trust & Openness**: Honest communication without fear of retaliation.
-*   **Consensus**: Decisions are made collectively, not forced by a dictator.
-*   **Conflict Resolution**: The team embraces *constructive* conflict to generate creative ideas.
+## Interpersonal Skills Focus: Characteristics of Effective Student Teams
+Collaboration is a core skill you must master before graduation.
+*   **Shared Purpose**: A clear objective aligned with the assignment goals.
+*   **Trust & Openness**: Honest communication about who is doing what work.
+*   **Consensus**: Decisions on the project direction are made collectively.
+*   **Conflict Resolution**: The team embraces *constructive* conflict to generate creative ideas, rather than fighting over grades.
 
 <!-- PRINT_SLIDE -->
 

@@ -59,12 +59,13 @@ Analyze your interests and select a primary pathway (Frontend or Backend). Map o
 <!-- PRINT: BCA_SWEPath -->
 
 
+
 ---
 
 ## Interpersonal Skills Focus: Electronically Mediated Communication (EMC)
-We no longer just communicate face-to-face. EMC dominates the modern workplace.
-*   **Synchronous vs. Asynchronous**: Face-to-face is synchronous (instant). Emails and text threads are asynchronous (delayed). The *rate* of response heavily impacts the perceived tone.
-*   **Permanence**: Every text, email, and Slack message leaves a permanent, discoverable trail. Never type what you wouldn't say on a megaphone.
+We no longer just communicate face-to-face. EMC dominates academia and the modern workplace.
+*   **Synchronous vs. Asynchronous**: A video lecture is synchronous. Emails to professors are asynchronous (delayed). The *rate* of your response to internship emails heavily impacts how recruiters perceive you.
+*   **Permanence**: Every text, email, and social media post leaves a permanent, discoverable trail. Recruiters *will* google you.
 
 <!-- PRINT_SLIDE -->
 

@@ -56,12 +56,13 @@ You will be evaluated this week on:
 *   **Correctness:** Is the email free of typos and grammatical errors?
 
 
+
 ---
 
-## Interpersonal Skills Focus: Emotional Regulation
-*   **Cognitive Reappraisal**: Altering the way you think about a stressful situation to lower your emotional reaction.
-*   **Adaptability**: Objectively evaluating sudden changes rather than panicking.
-*   **Self-Compassion**: Maintaining self-worth even in the face of professional failure.
+## Interpersonal Skills Focus: Emotional Regulation & Exam Stress
+*   **Cognitive Reappraisal**: Altering the way you think about a stressful exam or presentation to lower your emotional reaction.
+*   **Adaptability**: Objectively evaluating sudden changes (like a surprise quiz) rather than panicking.
+*   **Self-Compassion**: Maintaining self-worth even in the face of academic setbacks or rejected internship applications.
 
 <!-- PRINT_SLIDE -->
 

@@ -37,11 +37,12 @@ Draft your personal performance management plan for this semester.
 <!-- PRINT: PG_PerfManagement -->
 
 
+
 ---
 
 ## Executive Interpersonal Skills: Social Information Processing
-While early theories (Cues-Filtered-Out) believed electronic communication was too "lean" for relationships, modern research proves otherwise.
-*   **Social Information Processing**: We *can* communicate emotional depth online, it just takes longer without nonverbal cues.
+While early theories believed electronic communication was too "lean" for building strong academic networks, modern research proves otherwise.
+*   **Social Information Processing**: We *can* communicate intellectual depth and build rapport online with researchers and industry leaders, it just takes longer without nonverbal cues.
 
 <!-- PRINT_SLIDE -->
 

@@ -49,11 +49,12 @@ Complete the capstone readiness checklist and identify your final gaps before pl
 <!-- PRINT: BCA_FinalAudit -->
 
 
+
 ---
 
 ## Interpersonal Skills Focus: Receiving Feedback Gracefully
-When you receive constructive criticism (even if it feels destructive), suppress your ego.
-Use *active listening* to understand their perspective. Paraphrase their concerns to ensure you comprehend the root issue, and view it strictly as an opportunity for professional growth. Defensiveness stunts your career.
+When you receive constructive criticism from a professor or interviewer (even if it hurts), suppress your ego.
+Use *active listening* to understand their perspective. Paraphrase their concerns to ensure you comprehend the root issue, and view it strictly as an opportunity for professional growth. Defensiveness stunts your career before it even begins.
 
 <!-- PRINT_SLIDE -->
 

@@ -79,12 +79,12 @@ Next week, we will explore the Gig Economy and how to start **Freelancing & Cons
 
 
 
+
 ---
 
-## Interpersonal Skills Focus: The Pitfalls of Online Deception
-The lack of visual cues makes EMC a breeding ground for misunderstanding and deceit.
-*   **Nonverbal Cues**: In texts, we rely entirely on ALL CAPS, bold text, and emoticons to convey tone.
-*   **Writing Style**: Your grammar and syntax in an email paint a picture of your professionalism. "whaddup? u there?" is not appropriate for work.
+## Interpersonal Skills Focus: The Pitfalls of Online Communication
+The lack of visual cues makes EMC a breeding ground for misunderstanding.
+*   **Writing Style**: Your grammar and syntax in an email to a professor paints a picture of your professionalism. "whaddup? u there?" is not appropriate for college. Use proper salutations (e.g., "Dear Prof. Smith,").
 
 <!-- PRINT_SLIDE -->
 

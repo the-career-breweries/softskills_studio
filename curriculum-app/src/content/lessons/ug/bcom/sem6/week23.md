@@ -67,12 +67,13 @@ The key to surviving an advanced interview is **composure**. Interviewers don't 
 Next week is Week 24—our final session of the B.Com soft skills curriculum. We will put everything together in a **Final Practice & Review**!
 
 
+
 ---
 
-## Interpersonal Skills Focus: Timing & Control in Feedback
-*   **Well-Timed**: Deliver feedback shortly after the event, not six months later at an annual review.
-*   **Controllable**: Only criticize things the employee actually has the power to change. Punishing someone for a train delay builds resentment, not productivity.
-*   **Ensure Understanding**: Have the recipient rephrase the feedback to guarantee the message was received accurately.
+## Interpersonal Skills Focus: Timing & Control in Peer Feedback
+*   **Well-Timed**: Deliver feedback shortly after the practice presentation, not five minutes before the final grading.
+*   **Controllable**: Only criticize things your teammate actually has the power to change. 
+*   **Ensure Understanding**: Have them rephrase the feedback to guarantee the message was received accurately.
 
 <!-- PRINT_SLIDE -->
 

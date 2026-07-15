@@ -36,11 +36,12 @@ Deliver a 2-minute, highly structured oral brief on a complex business topic to 
 <!-- PRINT: PG_OralBrief -->
 
 
+
 ---
 
 ## Executive Interpersonal Skills: Advanced Conflict Resolution
-Conflict is not inherently bad; *constructive* conflict generates creative problem-solving. *Destructive* conflict polarizes teams.
-*   **The Win-Win Strategy**: Requires absolute belief that cooperation trumps competition, and that status does not entitle one party to impose solutions.
+Conflict in high-level research teams or intensive PG projects is not inherently bad; *constructive* conflict generates creative problem-solving. *Destructive* conflict polarizes the cohort.
+*   **The Win-Win Strategy**: Requires absolute belief that cooperation trumps competition, and that prior academic status does not entitle one student to impose solutions on the group.
 
 <!-- PRINT_SLIDE -->
 

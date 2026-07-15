@@ -56,13 +56,14 @@ You will be evaluated this week on:
 *   **Timing:** Did you stay within the 2-3 minute limit?
 
 
+
 ---
 
 ## Interpersonal Skills Focus: Overcoming Listening Barriers
-*Avoid Selective Listening*—where you tune out until you hear something you agree with!
-*   **Physical Barriers**: Noise, poor connection, or visual distractions.
-*   **Psychological Barriers**: Prejudgment, defensiveness, or emotional triggers.
-*   **Mental Wander**: The brain processes information much faster than people speak, leaving "free time" for your mind to drift. Actively summarize what you hear to stay engaged.
+*Avoid Selective Listening*—where you tune out until the professor mentions the exam!
+*   **Physical Barriers**: Noise in the classroom, poor internet connection during online classes, or visual distractions.
+*   **Psychological Barriers**: Prejudgment, defensiveness, or exam stress.
+*   **Mental Wander**: The brain processes information much faster than people speak, leaving "free time" for your mind to drift. Actively take notes to stay engaged.
 
 <!-- PRINT_SLIDE -->
 

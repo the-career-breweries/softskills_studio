@@ -18,9 +18,12 @@ flowchart LR
     B -- Passes cutoff --> D[Resume Screening]
     D --> E[Technical / HR Interview]
     
-    style B fill:#fef7e0,stroke:#f29900,color:#0f172a
-    style C fill:#fce8e8,stroke:#a13544,color:#0f172a
-    style D fill:#e6f4ea,stroke:#437a22,color:#0f172a
+    style B fill:#fef7e0,stroke:#f29900
+,color:#0f172a
+    style C fill:#fce8e8,stroke:#a13544
+,color:#0f172a
+    style D fill:#e6f4ea,stroke:#437a22
+,color:#0f172a
 ```
 
 ---
@@ -69,13 +72,14 @@ Aptitude tests are purely about practice. They test speed and pattern recognitio
 Next week, we will cover **Workplace Tools**—ensuring that the digital files you submit to employers are formatted to corporate standards.
 
 
+
 ---
 
 ## Interpersonal Skills Focus: The Value of Constructive Feedback
-The true test of a leader is their ability to both deliver and receive critical feedback.
-Feedback is not just about correcting mistakes; it is a vital form of recognition that motivates employees.
-*   **Positive Feedback**: Readily accepted, reinforces good behavior.
-*   **Negative Feedback**: Meets high resistance. It must be delivered carefully, preferably supported by hard, objective data.
+The true test of a growing professional is their ability to both deliver and receive critical feedback.
+Feedback is not just about correcting mistakes; it is vital for your development.
+*   **Positive Feedback**: Readily accepted, reinforces your strengths.
+*   **Negative Feedback**: Meets high resistance. When evaluating peers, it must be delivered carefully, preferably supported by objective examples from their work.
 
 <!-- PRINT_SLIDE -->
 

@@ -36,12 +36,12 @@ Take a complex financial concept (e.g., WACC, Deferred Tax Assets) and explain i
 <!-- PRINT: PG_ConceptExplain -->
 
 
+
 ---
 
-## Executive Interpersonal Skills: Overcoming Resistance to Change
-When implementing new systems, resistance is logical. 
-Do not accuse or bulldoze. Use *empathic listening* to bring their resistance into the open ("I understand this transition is difficult...").
-Acknowledge objections fairly to lower defenses and build alliance.
+## Executive Interpersonal Skills: Overcoming Resistance to Ideas
+When proposing a new thesis methodology or challenging established ideas in a seminar, resistance is logical. 
+Do not accuse or bulldoze. Use *empathic listening* to bring their critiques into the open ("I understand this approach seems unconventional..."). Acknowledge objections fairly to lower defenses and build academic alliances.
 
 <!-- PRINT_SLIDE -->
 

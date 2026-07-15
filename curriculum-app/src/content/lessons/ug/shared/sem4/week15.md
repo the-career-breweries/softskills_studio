@@ -57,15 +57,16 @@ You will be evaluated this week on:
 *   **Confidence:** Did you deliver your answer smoothly without excessive filler words?
 
 
+
 ---
 
 ## Interpersonal Skills Focus: Time Management (SMART Goals)
-Time is your most valuable non-renewable resource. Master it using the **SMART** framework:
-*   **S**pecific: Set clear, defined goals.
-*   **M**easurable: Quantify your success.
-*   **A**chievable: Break massive projects into attainable micro-steps.
-*   **R**elevant: Ensure your actions align with organizational objectives.
-*   **T**ime-Bound: Discipline yourself with strict deadlines.
+Time is your most valuable resource during college. Master it using the **SMART** framework:
+*   **S**pecific: Set clear, defined study goals.
+*   **M**easurable: Track your progress (e.g., "I will finish 3 practice papers").
+*   **A**chievable: Break massive assignments into attainable micro-steps.
+*   **R**elevant: Ensure your efforts align with your final career objectives.
+*   **T**ime-Bound: Discipline yourself with strict deadlines before the actual due date.
 
 <!-- PRINT_SLIDE -->
 

@@ -56,13 +56,14 @@ You will be evaluated this week on:
 *   **Clarity:** Were your contributions clear and relevant to the agenda?
 
 
+
 ---
 
-## Interpersonal Skills Focus: Conducting Productive Meetings
-Meetings can consume thousands of dollars of productive time. Follow these rules:
-1.  **Prepare**: Define a strict agenda and invite only essential personnel.
-2.  **Conduct**: Keep discussion on track and follow parliamentary procedures if necessary.
-3.  **Close**: Distribute *minutes* (a written summary of action items and responsibilities) immediately after.
+## Interpersonal Skills Focus: Conducting Productive Study Meetings
+Group study sessions can easily devolve into wasting time. Follow these rules:
+1.  **Prepare**: Define a strict agenda (e.g., "Today we outline Chapter 3").
+2.  **Conduct**: Keep discussion on track and gently guide peers back to the topic if they get distracted.
+3.  **Close**: Ensure everyone knows exactly what their action items are for the next meeting.
 
 <!-- PRINT_SLIDE -->
 

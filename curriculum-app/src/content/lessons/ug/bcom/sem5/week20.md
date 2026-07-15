@@ -57,12 +57,13 @@ Congratulations on completing Semester 5! You have now mapped out traditional an
 In Semester 6, we will shift entirely to **Interview Defense and Final Readiness**—preparing you to step out of college and into the workforce!
 
 
+
 ---
 
 ## Interpersonal Skills Focus: Netiquette (Online Etiquette)
-*   **Avoid "Reply All"**: Unless absolutely necessary, do not clutter your colleagues' inboxes.
-*   **Emotions under Control**: The instantaneous nature of IMs can lead to regrettable outbursts. Step away before sending an angry message.
-*   **Respect Virtual Space**: Do not assume your colleagues are available 24/7 just because their dot is green.
+*   **Avoid "Reply All"**: Unless absolutely necessary, do not clutter your classmates' or professors' inboxes.
+*   **Emotions under Control**: The instantaneous nature of group chats can lead to regrettable outbursts over group work. Step away before sending an angry message.
+*   **Respect Virtual Space**: Do not assume your peers or instructors are available 24/7 just because it is the weekend.
 
 <!-- PRINT_SLIDE -->
 

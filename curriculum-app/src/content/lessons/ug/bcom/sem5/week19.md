@@ -64,13 +64,13 @@ Freelancing is the ultimate test of your soft skills—you must communicate clea
 Next week, we will put all our theoretical knowledge to the test by analyzing a real-world **Industry Case Study**!
 
 
+
 ---
 
 ## Interpersonal Skills Focus: Media Richness Theory
-Not all communication channels are created equal. You must choose the right medium for the message.
-*   **Rich Channels** (Video calls, Face-to-face): Best for complex negotiations, emotional discussions, and resolving severe conflicts.
-*   **Lean Channels** (Emails, Memos, Texts): Best for routine, unambiguous data transfer. 
-*   *Rule of Thumb*: Never fire someone or break terrible news over a lean channel!
+Not all communication channels are created equal. You must choose the right medium for your message.
+*   **Rich Channels** (Office hours, Face-to-face): Best for complex questions about an assignment, emotional discussions, or resolving conflicts with peers.
+*   **Lean Channels** (Emails, LMS Messages): Best for routine, unambiguous data transfer (e.g., submitting a paper). 
 
 <!-- PRINT_SLIDE -->
 

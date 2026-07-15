@@ -128,13 +128,14 @@ Please submit the worksheet before the end of the session. We will evaluate it b
 | **Actionability** | No clear plan for managing bad habits. | Specific, realistic step provided to manage the bad habit. |
 
 
+
 ---
 
 ## Interpersonal Skills Focus: The Communication Process
 Communication isn't just speaking; it has evolved into a complex **Transactional Model**:
 *   **Action**: A linear transfer of meaning from sender to receiver.
-*   **Interaction**: Incorporates feedback and context, becoming a two-way street.
-*   **Transaction**: Simultaneous, concurrent sharing of ideas and feelings. You are both sender and receiver at the exact same time.
+*   **Interaction**: Incorporates feedback and context, becoming a two-way street (e.g., Q&A with your professor).
+*   **Transaction**: Simultaneous, concurrent sharing of ideas and feelings. In a group project, you are both sender and receiver at the exact same time.
 
 <!-- PRINT_SLIDE -->
 

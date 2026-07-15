@@ -33,11 +33,12 @@ Draft a concise, high-impact business memo summarizing the financial viability o
 <!-- PRINT: PG_AnalyticalWriting -->
 
 
+
 ---
 
-## Executive Interpersonal Skills: Enterprise Content Management
-To scale productivity, executives must deploy the correct collaboration frameworks:
-*   **Content Management Systems (CMS)**: Tightly controlled workflows for official public-facing data. Ensuring brand consistency and legal compliance.
+## Executive Interpersonal Skills: Research Content Management
+To scale academic productivity, postgraduates must deploy the correct collaboration frameworks:
+*   **Content Management**: Tightly controlled workflows using tools like GitHub, Google Workspace, or Mendeley for managing shared research data and ensuring version control.
 
 <!-- PRINT_SLIDE -->
 

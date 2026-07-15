@@ -48,13 +48,14 @@ Apply basic system design principles to architecture a simple URL shortener like
 <!-- PRINT: BCA_SystemDesign -->
 
 
+
 ---
 
-## Interpersonal Skills Focus: Delivering Actionable Criticism
-If you must deliver negative feedback, follow these rules:
-1.  **Focus on Specific Behaviors**: Don't say "You have a bad attitude." Say "You were 30 minutes late to the client meeting."
-2.  **Keep it Impersonal**: Criticize the *job-related action*, not the *person*.
-3.  **Goal-Oriented**: Feedback should help the recipient achieve their goals, not just to let you "vent."
+## Interpersonal Skills Focus: Peer Evaluation & Criticism
+When providing feedback on a classmate's project, follow these rules:
+1.  **Focus on Specific Behaviors**: Don't say "Your part of the presentation was bad." Say "The slides on market analysis needed more recent data."
+2.  **Keep it Impersonal**: Criticize the *work*, not the *person*.
+3.  **Goal-Oriented**: Feedback should help your peer improve their grade, not just to let you "vent."
 
 <!-- PRINT_SLIDE -->
 
