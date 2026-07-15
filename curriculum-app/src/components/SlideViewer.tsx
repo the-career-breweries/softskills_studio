@@ -185,6 +185,13 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
                             {children}
                           </code>
                         );
+                      },
+                      a({ node, children, href, ...props }: any) {
+                        return (
+                          <a href={href} target="_blank" rel="noopener noreferrer" {...props}>
+                            {children}
+                          </a>
+                        );
                       }
                     }}
                   >
