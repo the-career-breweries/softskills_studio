@@ -78,54 +78,7 @@ A strategy without execution is a hallucination.
 
 ---
 
-## 3. The Strategic One-Pager (Resume)
-
-![Feedback](/assets/feedback.jpg)
-
-Before you execute in Semester 4, your foundational marketing document must be locked in.
-A resume is not a list of past duties. It is a strategic one-pager designed to predict your future value.
-
-Your resume must be tailored precisely to the path you just chose.
-
----
-
-### Corporate: The Executive Resume
-
-![Operations](/assets/operations.jpg)
-
-**The Goal:** Pass the ATS (Applicant Tracking System) and impress the hiring manager.
-
-*   **Format:** Clean, traditional, standard ATS-friendly template. No flashy graphics.
-*   **Focus:** Metric-driven bullet points (e.g., "Increased X by Y% through Z").
-*   **Narrative:** Show a trajectory of increasing responsibility and leadership within structured environments.
-
----
-
-### Entrepreneurial: The Founder's Bio
-
-![Global](/assets/global.jpg)
-
-**The Goal:** Build credibility for investors, early hires, and early adopters.
-
-*   **Format:** A compelling narrative profile (often used on LinkedIn, pitch decks, and About Us pages).
-*   **Focus:** Vision, risk tolerance, unique insights into the market problem, and past evidence of extreme hustle or resilience.
-*   **Narrative:** "Why am I the inevitable person to solve this specific problem?"
-
----
-
-### Consultant: The Subject Matter Expert Profile
-
-![Communication](/assets/communication.jpg)
-
-**The Goal:** Establish authority and justify premium pricing to clients.
-
-*   **Format:** A professional dossier or deep-dive LinkedIn profile.
-*   **Focus:** Specific niches, methodologies, frameworks, and heavily detailed case studies (Problem -> Intervention -> Result).
-*   **Narrative:** Positioning yourself as a peer and advisor to executives, not just a pair of extra hands.
-
----
-
-### Resume Architecture & The STAR Method
+## 3. Resume Architecture & The STAR Method
 
 ![Strategy](/assets/strategy.jpg)
 
