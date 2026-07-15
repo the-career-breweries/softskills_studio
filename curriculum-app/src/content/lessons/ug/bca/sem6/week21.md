@@ -1,5 +1,8 @@
 # BCA Semester 6: Coding Interviews (DSA)
 
+![Technology](/assets/technology.jpg)
+
+
 Welcome to your final semester! Semester 6 is entirely focused on landing a job. For tech roles, that means passing the dreaded technical interview.
 
 The gatekeeper for most top tech companies is the Data Structures and Algorithms (DSA) interview.
@@ -22,6 +25,9 @@ flowchart LR
 
 ## 2. Core Data Structures to Master
 
+![Technology](/assets/technology.jpg)
+
+
 You do not need to invent new algorithms; you just need to know when to apply existing ones.
 
 1. **Arrays & Strings:** Two-pointers, Sliding Window.
@@ -33,6 +39,9 @@ You do not need to invent new algorithms; you just need to know when to apply ex
 
 ## 3. The LeetCode Grind
 
+![Strategy](/assets/strategy.jpg)
+
+
 Practicing random questions is inefficient. Follow structured patterns.
 
 **The Strategy:**
@@ -43,6 +52,9 @@ Practicing random questions is inefficient. Follow structured patterns.
 ---
 
 ## Activity: The Whiteboard Simulation
+
+![Operations](/assets/operations.jpg)
+
 
 Practice solving a basic algorithm problem while explaining your thought process out loud.
 

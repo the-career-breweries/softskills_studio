@@ -80,6 +80,9 @@ Fill out the form to explicitly define:
 
 # Evaluation Rubric
 
+![Technology](/assets/technology.jpg)
+
+
 Your learning plan will be evaluated on:
 * **Practicality:** Is this a routine you can actually stick to, or is it overly ambitious?
 * **Attention to Detail:** Did you clearly identify your distractions and provide a concrete solution for them?

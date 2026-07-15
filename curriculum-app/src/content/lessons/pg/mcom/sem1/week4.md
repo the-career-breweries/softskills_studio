@@ -1,5 +1,8 @@
 # M.Com Semester 1: Analytical Listening
 
+![Finance](/assets/finance.jpg)
+
+
 When investigating financial discrepancies or conducting an audit, what the client *doesn't* say is often the key to the whole case. Analytical listening is a forensic skill.
 
 ---
@@ -22,11 +25,17 @@ flowchart LR
 
 ## 2. Listening to the Board
 
+![Finance](/assets/finance.jpg)
+
+
 When sitting in a board meeting, you must listen globally. How is the CEO reacting to the CFO's projections? Reading the room allows you to tailor your own financial updates to the current mood.
 
 ---
 
 ## Activity: The Analytical Listening Task
+
+![Finance](/assets/finance.jpg)
+
 
 Participate in an exercise where you must deduce the hidden financial agenda of a speaker.
 
@@ -38,6 +47,9 @@ Participate in an exercise where you must deduce the hidden financial agenda of 
 ---
 
 ## Executive Interpersonal Skills: Hyperpersonal Networking
+
+![Leadership](/assets/leadership.jpg)
+
 Paradoxically, online networking (e.g., LinkedIn) can become highly effective for students. 
 This occurs because you can selectively present your best professional self and carefully edit your outreach messages, bypassing the awkwardness of initial face-to-face cold networking.
 

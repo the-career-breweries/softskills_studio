@@ -1,5 +1,8 @@
 # MBA Semester 2: Interview Design & Response
 
+![Career](/assets/career.jpg)
+
+
 In your first year, you learned how to answer interview questions. Now, as an MBA, you must learn how to *design* interviews and respond to high-level behavioral probing.
 
 ---
@@ -25,6 +28,9 @@ flowchart LR
 
 ## 2. Designing the Interview
 
+![Leadership](/assets/leadership.jpg)
+
+
 Soon, you will be the one conducting the interviews. 
 How do you design a question to test for "resilience" without asking "Are you resilient?" (to which everyone says yes).
 You ask: "Tell me about a time you worked on a project for months, and it was suddenly canceled by leadership."
@@ -32,6 +38,9 @@ You ask: "Tell me about a time you worked on a project for months, and it was su
 ---
 
 ## Activity: Mock Response Lab
+
+![Career](/assets/career.jpg)
+
 
 Participate in a rapid-fire STAR-style behavioral interview lab, acting as both the interviewer and the candidate.
 

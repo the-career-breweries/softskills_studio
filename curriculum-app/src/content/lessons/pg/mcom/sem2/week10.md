@@ -1,5 +1,8 @@
 # M.Com Semester 2: Interview Design & Response
 
+![Finance](/assets/finance.jpg)
+
+
 Whether you are interviewing for a role at a Big 4 accounting firm or aiming for a Corporate Finance position, you will face rigorous behavioral and technical probing.
 
 ---
@@ -24,6 +27,9 @@ flowchart LR
 ---
 
 ## Activity: Mock Response Lab
+
+![Finance](/assets/finance.jpg)
+
 
 Participate in a rapid-fire STAR-style behavioral interview lab tailored for senior finance and accounting roles.
 

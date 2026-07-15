@@ -61,6 +61,9 @@ You will be evaluated this week on:
 ---
 
 ## Interpersonal Skills Focus: The Dangers of Groupthink
+
+![Technology](/assets/technology.jpg)
+
 **Groupthink** occurs when peer pressure causes team members to withhold contrary opinions during a project. 
 It results in ill-advised decisions because no one wanted to "rock the boat" or argue with the group's alpha. 
 *How to avoid it*: Always encourage "devil's advocates" in your study groups and foster a climate where dissenting opinions are celebrated.

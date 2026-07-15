@@ -1,5 +1,8 @@
 # M.Com Semester 1: Self-Management & Accountability
 
+![Finance](/assets/finance.jpg)
+
+
 The financial calendar is relentless. Month-end closes, quarter-end reporting, and tax season will break you if you do not have pristine self-management systems.
 
 ---
@@ -24,11 +27,17 @@ flowchart LR
 
 ## 2. Extreme Ownership in Compliance
 
+![Technology](/assets/technology.jpg)
+
+
 If a junior analyst makes a data entry error that makes it into the final board report, the manager takes the blame. That is extreme ownership. You own the systems that allowed the error to pass.
 
 ---
 
 ## Activity: Performance Management Plan
+
+![Leadership](/assets/leadership.jpg)
+
 
 Draft a personal time and energy management plan for high-stress reporting periods.
 

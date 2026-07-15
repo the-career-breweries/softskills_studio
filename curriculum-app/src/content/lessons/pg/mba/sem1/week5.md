@@ -1,5 +1,8 @@
 # MBA Semester 1: Professional Speaking & Executive Presence
 
+![Leadership](/assets/leadership.jpg)
+
+
 Executive presence is the aura of confidence, poise, and authenticity that commands respect in a room. It is not about being the loudest; it is about being the most impactful.
 
 ---
@@ -22,6 +25,9 @@ flowchart LR
 
 ## 2. Voice Modulation and Pacing
 
+![Strategy](/assets/strategy.jpg)
+
+
 A monotone voice puts boardrooms to sleep. 
 *   **Pacing:** Speak slower than you think you should. Silence is powerful.
 *   **Pitch:** Avoid "up-talk" (ending statements like questions).
@@ -30,6 +36,9 @@ A monotone voice puts boardrooms to sleep.
 ---
 
 ## Activity: The Structured Oral Brief
+
+![Leadership](/assets/leadership.jpg)
+
 
 Deliver a 2-minute, highly structured oral brief on a complex business topic to the class, focusing on executive presence.
 

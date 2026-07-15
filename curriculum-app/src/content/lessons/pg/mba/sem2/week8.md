@@ -1,5 +1,8 @@
 # MBA Semester 2: Analytical Writing
 
+![Leadership](/assets/leadership.jpg)
+
+
 Business writing is vastly different from academic writing. No CEO has the time to read a 10-page thesis. They want the bottom line on page one, paragraph one.
 
 ---
@@ -20,6 +23,9 @@ flowchart LR
 
 ## 2. Clarity and Brevity
 
+![Technology](/assets/technology.jpg)
+
+
 *   **Active Voice:** Use active voice ("We cut costs by 10%") rather than passive voice ("Costs were cut by 10% by us").
 *   **Formatting:** Use bullet points, bold text for emphasis, and short paragraphs. Dense blocks of text will be ignored.
 *   **The 'So What?' Test:** For every sentence you write, ask yourself "So what?". If it doesn't drive the decision forward, delete it.
@@ -27,6 +33,9 @@ flowchart LR
 ---
 
 ## Activity: Professional Note Writing
+
+![Career](/assets/career.jpg)
+
 
 Draft a concise, high-impact business memo recommending a strategic shift for a fictitious company.
 
@@ -38,6 +47,9 @@ Draft a concise, high-impact business memo recommending a strategic shift for a 
 ---
 
 ## Executive Interpersonal Skills: Research Content Management
+
+![Leadership](/assets/leadership.jpg)
+
 To scale academic productivity, postgraduates must deploy the correct collaboration frameworks:
 *   **Content Management**: Tightly controlled workflows using tools like GitHub, Google Workspace, or Mendeley for managing shared research data and ensuring version control.
 

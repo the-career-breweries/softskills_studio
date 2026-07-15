@@ -1,5 +1,8 @@
 # BBA Semester 6: Advanced Interview Defense
 
+![Career](/assets/career.jpg)
+
+
 In Semester 4, you learned the basics of interviewing: how to introduce yourself and how to use the STAR method.
 
 Now that you are preparing for actual placements, the interviews will get harder. You will face **Panel Interviews**, **Stress Interviews**, and **Technical Deep-Dives**. This week is about *defending* your resume and keeping your composure under pressure.
@@ -7,6 +10,9 @@ Now that you are preparing for actual placements, the interviews will get harder
 ---
 
 ## 1. The Panel Interview
+
+![Leadership](/assets/leadership.jpg)
+
 
 A panel interview involves two or more interviewers (often a mix of HR and Technical Managers). 
 
@@ -18,6 +24,9 @@ When one person asks a question, start your answer by looking directly at them. 
 ---
 
 ## 2. Defending Your Resume
+
+![Technology](/assets/technology.jpg)
+
 
 In a technical round, interviewers will look for weaknesses in your resume. If you claim to know "Advanced Excel," they *will* ask you to explain a VLOOKUP or a Pivot Table. 
 
@@ -33,6 +42,9 @@ This shows you are honest, but also a problem solver.
 
 ## 3. The Stress Interview
 
+![Career](/assets/career.jpg)
+
+
 Sometimes an interviewer will act dismissive, bored, or aggressive. They might say, *"I don't think your grades are good enough for this role."*
 
 **The Goal:** They are testing your emotional regulation.
@@ -43,6 +55,9 @@ Sometimes an interviewer will act dismissive, bored, or aggressive. They might s
 
 ## 4. The Technical Curveballs
 
+![Finance](/assets/finance.jpg)
+
+
 For BBA students, expect rapid-fire technical questions to test if your foundation is solid:
 *   *"Walk me through the three financial statements."*
 *   *"If depreciation goes up by $10, how does it affect the cash flow statement?"*
@@ -51,6 +66,9 @@ For BBA students, expect rapid-fire technical questions to test if your foundati
 ---
 
 ## Activity: The Hot Seat (Mock Panel)
+
+![Career](/assets/career.jpg)
+
 
 Today, we will conduct a Mock Panel Interview. Three students will act as the panel (HR, Technical Manager, Senior Partner) and interview one candidate. 
 
@@ -62,6 +80,9 @@ The panel is instructed to ask tough, probing questions about the candidate's re
 
 ## Summary and Next Steps
 
+![Career](/assets/career.jpg)
+
+
 The key to surviving an advanced interview is **composure**. Interviewers don't expect you to know everything; they want to see how you handle *not* knowing something.
 
 Next week is Week 24—our final session of the BBA soft skills curriculum. We will put everything together in a **Final Practice & Review**!
@@ -72,6 +93,9 @@ Next week is Week 24—our final session of the BBA soft skills curriculum. We w
 ---
 
 ## Interpersonal Skills Focus: Timing & Control in Peer Feedback
+
+![Strategy](/assets/strategy.jpg)
+
 *   **Well-Timed**: Deliver feedback shortly after the practice presentation, not five minutes before the final grading.
 *   **Controllable**: Only criticize things your teammate actually has the power to change. 
 *   **Ensure Understanding**: Have them rephrase the feedback to guarantee the message was received accurately.

@@ -61,6 +61,9 @@ You will be evaluated this week on:
 ---
 
 ## Interpersonal Skills Focus: Campus to Corporate Etiquette
+
+![Career](/assets/career.jpg)
+
 Your academic grades get you the interview, but your interpersonal etiquette secures the job offer.
 *   **Appearance**: Your attire sends a powerful nonverbal signal. Dress modestly, cleanly, and professionally for campus placements.
 *   **Social Settings**: At networking events, remember that the primary goal is *building connections*. Avoid controversial topics and focus on learning about their industry.

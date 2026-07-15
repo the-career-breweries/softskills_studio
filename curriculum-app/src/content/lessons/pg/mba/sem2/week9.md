@@ -1,5 +1,8 @@
 # MBA Semester 2: Meetings & Leadership
 
+![Leadership](/assets/leadership.jpg)
+
+
 Executives spend up to 50% of their working lives in meetings. A poorly run meeting destroys morale and wastes thousands of dollars in billable hours. A well-run meeting is a force multiplier.
 
 ---
@@ -23,6 +26,9 @@ flowchart LR
 
 ## 2. Chairing the Meeting
 
+![Strategy](/assets/strategy.jpg)
+
+
 As the chair, you are the conductor. You are responsible for the energy and the outcome.
 *   Park off-topic issues in a "Parking Lot" to be discussed later.
 *   Interrupt politely but firmly if the conversation loops.
@@ -31,6 +37,9 @@ As the chair, you are the conductor. You are responsible for the energy and the 
 ---
 
 ## Activity: Mock Meeting Leadership
+
+![Leadership](/assets/leadership.jpg)
+
 
 Chair a 10-minute mock meeting with a disruptive participant and a tight agenda.
 
@@ -42,6 +51,9 @@ Chair a 10-minute mock meeting with a disruptive participant and a tight agenda.
 ---
 
 ## Executive Interpersonal Skills: Enterprise Wikis
+
+![Leadership](/assets/leadership.jpg)
+
 *   **Knowledge Bases**: Fluid, community-driven hubs (like Notion or shared wikis) for internal research accumulation. 
 They democratize information within your cohort but require strict organization to prevent data loss or plagiarism.
 

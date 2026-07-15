@@ -61,6 +61,9 @@ You will be evaluated this week on:
 ---
 
 ## Interpersonal Skills Focus: Telephone & Virtual Etiquette
+
+![Technology](/assets/technology.jpg)
+
 *   **Tone of Voice**: Use an upbeat tone. State your name clearly on voicemails to recruiters.
 *   **Active Participation**: Avoid multitasking during online classes or virtual interviews. Instructors and recruiters can tell when you are distracted.
 *   **Mobile Phones**: Never use your mobile phone during a lecture or networking event unless it is an absolute emergency. It signals disrespect.

@@ -1,5 +1,8 @@
 # M.Com Semester 2: Discussion Facilitation
 
+![Finance](/assets/finance.jpg)
+
+
 In corporate finance, you will frequently lead cross-functional budget meetings. You will have department heads fighting for limited capital. Your role as facilitator is to guide them toward a budget that aligns with the overall corporate strategy.
 
 ---
@@ -22,6 +25,9 @@ flowchart LR
 ---
 
 ## Activity: The Facilitated Group Round
+
+![Finance](/assets/finance.jpg)
+
 
 Act as the neutral finance facilitator for a 15-minute departmental budget dispute.
 

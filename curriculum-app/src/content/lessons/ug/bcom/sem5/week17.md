@@ -1,5 +1,8 @@
 # B.Com Semester 5: Traditional Career Paths
 
+![Career](/assets/career.jpg)
+
+
 Welcome to Semester 5! As you enter the final year of your B.Com, it is time to transition from general soft skills into **Specialized Career Readiness**. 
 
 This week, we will analyze the most common "Traditional" pathways chosen by B.Com graduates and map out the exact milestones required to succeed in them.
@@ -7,6 +10,9 @@ This week, we will analyze the most common "Traditional" pathways chosen by B.Co
 ---
 
 ## The Big Three Traditional Paths
+
+![Finance](/assets/finance.jpg)
+
 
 For decades, the standard progression for a B.Com graduate has fallen into one of three major buckets. While the landscape is changing, these remain highly respected and structured routes:
 
@@ -99,6 +105,9 @@ flowchart LR
 
 ## Activity: Traditional Career Map
 
+![Technology](/assets/technology.jpg)
+
+
 Let's put this into practice. It's time to select one of these paths (even if just as a backup plan) and map out your immediate next steps.
 
 <!-- PRINT: BComTraditionalPaths -->
@@ -106,6 +115,9 @@ Let's put this into practice. It's time to select one of these paths (even if ju
 ---
 
 ## Summary and Next Steps
+
+![Technology](/assets/technology.jpg)
+
 
 Traditional career paths are "traditional" for a reason—they offer stability, prestige, and clear progression. However, they also come with high entry barriers and intense competition.
 

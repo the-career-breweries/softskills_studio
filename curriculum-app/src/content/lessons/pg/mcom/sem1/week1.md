@@ -1,5 +1,8 @@
 # M.Com Semester 1: Professional Orientation in Finance
 
+![Finance](/assets/finance.jpg)
+
+
 Welcome to the Master of Commerce. Your undergraduate degree taught you how to record financial transactions. Your master's degree will teach you how to interpret them, communicate them to stakeholders, and use them to drive corporate strategy.
 
 ---
@@ -23,6 +26,9 @@ flowchart LR
 
 ## 2. Defining Your Professional Baseline
 
+![Finance](/assets/finance.jpg)
+
+
 Assess your current capabilities. Are you purely technical, or can you lead a conversation about financial strategy?
 
 **Key Questions:**
@@ -32,6 +38,9 @@ Assess your current capabilities. Are you purely technical, or can you lead a co
 ---
 
 ## Activity: The Baseline Reflection
+
+![Finance](/assets/finance.jpg)
+
 
 Complete your professional baseline reflection, focusing on your financial communication gaps.
 

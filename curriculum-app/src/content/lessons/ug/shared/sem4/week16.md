@@ -61,6 +61,9 @@ You will be evaluated this week on:
 ---
 
 ## Interpersonal Skills Focus: Emotional Regulation & Exam Stress
+
+![Career](/assets/career.jpg)
+
 *   **Cognitive Reappraisal**: Altering the way you think about a stressful exam or presentation to lower your emotional reaction.
 *   **Adaptability**: Objectively evaluating sudden changes (like a surprise quiz) rather than panicking.
 *   **Self-Compassion**: Maintaining self-worth even in the face of academic setbacks or rejected internship applications.

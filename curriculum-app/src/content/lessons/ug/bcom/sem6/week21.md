@@ -1,5 +1,8 @@
 # B.Com Semester 6: Psychometric Assessments
 
+![Career](/assets/career.jpg)
+
+
 Welcome to Semester 6! You are in the final stretch. This semester is entirely dedicated to **Interview Defense and Final Readiness**. We are shifting from learning to *proving*.
 
 Before you even reach the interview stage in most modern companies (especially banks, MNCs, and Big 4 firms), you must pass a **Psychometric Assessment**.
@@ -27,6 +30,9 @@ flowchart LR
 
 ## 2. The Three Pillars of Aptitude Tests
 
+![Technology](/assets/technology.jpg)
+
+
 Most assessments for commerce graduates are broken down into three timed sections:
 
 | Section | What it Tests | Example Question Types | Strategy |
@@ -41,6 +47,9 @@ Most assessments for commerce graduates are broken down into three timed section
 
 ## 3. The Behavioural / Personality Test
 
+![Career](/assets/career.jpg)
+
+
 Some companies also include a personality test (e.g., the Myers-Briggs or Big Five). There are technically no "wrong" answers, but companies *are* looking for specific traits.
 
 **What they look for in a B.Com hire:**
@@ -54,6 +63,9 @@ Some companies also include a personality test (e.g., the Myers-Briggs or Big Fi
 
 ## Activity: Demo Psychometric Assessment
 
+![Strategy](/assets/strategy.jpg)
+
+
 Today, we will take a timed, 30-minute mock aptitude test. This is designed to be difficult and fast-paced to simulate a real Big 4 assessment.
 
 Use the worksheet below to track your performance and identify your weak spots.
@@ -63,6 +75,9 @@ Use the worksheet below to track your performance and identify your weak spots.
 ---
 
 ## Summary and Next Steps
+
+![Technology](/assets/technology.jpg)
+
 
 Aptitude tests are purely about practice. They test speed and pattern recognition, which can only be built through repetition. 
 

@@ -17,6 +17,9 @@ This week is all about hitting the pause button and understanding *who you are r
 
 # Why Start With Self-Awareness?
 
+![Strategy](/assets/strategy.jpg)
+
+
 The transition from high school to college can feel overwhelming. Everything is new—new friends, new routines, new expectations.
 
 When you understand your own personality and habits, navigating these changes becomes so much easier.
@@ -24,6 +27,9 @@ When you understand your own personality and habits, navigating these changes be
 ---
 
 # Navigating Your New Environment
+
+![Strategy](/assets/strategy.jpg)
+
 Self-awareness helps you right now, today:
 
 * **In the classroom:** Do you learn better by taking detailed notes, or by participating in discussions?
@@ -33,6 +39,9 @@ Self-awareness helps you right now, today:
 ---
 
 # The Johari Window: Applied
+
+![Technology](/assets/technology.jpg)
+
 
 <!-- PRINT: JohariWindow -->
 
@@ -47,6 +56,9 @@ Let's look at a tool called the Johari Window. Think of it as a mirror for your 
 
 # Quadrant 1: The Open Area
 
+![Global Business](/assets/global.jpg)
+
+
 Take 2 minutes to reflect independently. 
 
 In the **Open Area** quadrant of your worksheet, write down 3 traits, skills, or behaviors that you confidently project to the world.
@@ -60,6 +72,9 @@ In the **Open Area** quadrant of your worksheet, write down 3 traits, skills, or
 
 # Quadrant 2: The Hidden Area
 
+![Strategy](/assets/strategy.jpg)
+
+
 Now, let's look inward. Take 2 minutes for a solo reflection. 
 
 In the **Hidden Area** quadrant, write down 1 personal weakness or fear that you actively try to hide from your classmates or peers. **This stays private.**
@@ -72,6 +87,9 @@ In the **Hidden Area** quadrant, write down 1 personal weakness or fear that you
 ---
 
 # Quadrant 3: The Blind Spot (First Impression Audit)
+
+![Finance](/assets/finance.jpg)
+
 
 We are going to do a quick **First Impression Audit** to help you discover a blind spot.
 
@@ -92,6 +110,9 @@ Pair up with someone you don't know well. Follow these exact steps:
 
 # Quadrant 4: The Unknown Area
 
+![Strategy](/assets/strategy.jpg)
+
+
 You might be wondering: *How do I fill out the Unknown Area?*
 
 **You can't.** Not today.
@@ -103,6 +124,9 @@ We will revisit this quadrant right before you graduate!
 ---
 
 # Today's Learning Task
+
+![Strategy](/assets/strategy.jpg)
+
 ## The Self-Profile Worksheet
 
 <!-- PRINT: SelfProfile -->
@@ -118,6 +142,9 @@ Take 15 minutes to complete this worksheet. Don't write what you think the profe
 ---
 
 # Evaluation & Next Steps
+
+![Technology](/assets/technology.jpg)
+
 
 Please submit the worksheet before the end of the session. We will evaluate it based on the following rubric:
 

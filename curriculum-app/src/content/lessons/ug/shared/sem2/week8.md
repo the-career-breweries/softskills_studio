@@ -61,6 +61,9 @@ You will be evaluated this week on:
 ---
 
 ## Interpersonal Skills Focus: Overcoming Listening Barriers
+
+![Strategy](/assets/strategy.jpg)
+
 *Avoid Selective Listening*—where you tune out until the professor mentions the exam!
 *   **Physical Barriers**: Noise in the classroom, poor internet connection during online classes, or visual distractions.
 *   **Psychological Barriers**: Prejudgment, defensiveness, or exam stress.

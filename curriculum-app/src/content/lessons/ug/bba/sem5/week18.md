@@ -1,5 +1,8 @@
 # BBA Semester 5: Modern Career Paths
 
+![Technology](/assets/technology.jpg)
+
+
 Last week, we explored the traditional routes of HR, Marketing, and Operations. These paths are proven and structured, but the business landscape is evolving.
 
 This week, we will focus on modern, tech-enabled roles that BBA graduates can transition into, leveraging their foundational business knowledge combined with new digital skills.
@@ -7,6 +10,9 @@ This week, we will focus on modern, tech-enabled roles that BBA graduates can tr
 ---
 
 ## The Big Three Modern Paths
+
+![Marketing](/assets/marketing.jpg)
+
 
 1. **Product Manager:** Sitting at the intersection of business, technology, and user experience.
 2. **Digital Marketing & Growth Hacking:** Data-driven customer acquisition and brand scaling.
@@ -75,6 +81,9 @@ flowchart LR
 
 ## Activity: Modern Roles Research
 
+![Strategy](/assets/strategy.jpg)
+
+
 Pick one modern path and identify three companies actively hiring for entry-level positions in that domain.
 
 <!-- PRINT: BBAModernRoles -->
@@ -87,6 +96,9 @@ Pick one modern path and identify three companies actively hiring for entry-leve
 ---
 
 ## Interpersonal Skills Focus: The Pitfalls of Online Communication
+
+![Strategy](/assets/strategy.jpg)
+
 The lack of visual cues makes EMC a breeding ground for misunderstanding.
 *   **Writing Style**: Your grammar and syntax in an email to a professor paints a picture of your professionalism. "whaddup? u there?" is not appropriate for college. Use proper salutations (e.g., "Dear Prof. Smith,").
 

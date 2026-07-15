@@ -1,5 +1,8 @@
 # BBA Semester 5: Industry Case Study
 
+![Strategy](/assets/strategy.jpg)
+
+
 Welcome to the final week of Semester 5! Up until now, you have learned about traditional paths, modern roles, and freelancing. 
 
 This week, we will apply those concepts to a core BBA competency: **Analyzing a Business Case Study**.
@@ -23,6 +26,9 @@ flowchart LR
 
 ## Structuring Your Response
 
+![Technology](/assets/technology.jpg)
+
+
 When presenting a case study, structure is everything. Use the **STAR** method (Situation, Task, Action, Result) or the **McKinsey MECE** principle (Mutually Exclusive, Collectively Exhaustive) to ensure your points don't overlap and no gaps exist.
 
 1. **Executive Summary:** A 1-minute overview of your entire recommendation.
@@ -34,6 +40,9 @@ When presenting a case study, structure is everything. Use the **STAR** method (
 
 ## Case Study: "The Dwindling Coffee Chain"
 
+![Marketing](/assets/marketing.jpg)
+
+
 **Context:** A mid-sized coffee chain is losing market share to premium artisan cafes and cheap fast-food coffee. Their customer base is aging, and their stores look outdated.
 
 **The Task:** As a marketing consultant, you have a limited budget to revitalize the brand. 
@@ -43,6 +52,9 @@ When presenting a case study, structure is everything. Use the **STAR** method (
 ---
 
 ## Activity: Case Study Presentation
+
+![Strategy](/assets/strategy.jpg)
+
 
 Prepare a 3-slide presentation outlining your solution for the coffee chain case study.
 
@@ -54,6 +66,9 @@ Prepare a 3-slide presentation outlining your solution for the coffee chain case
 ---
 
 ## Interpersonal Skills Focus: Netiquette (Online Etiquette)
+
+![Leadership](/assets/leadership.jpg)
+
 *   **Avoid "Reply All"**: Unless absolutely necessary, do not clutter your classmates' or professors' inboxes.
 *   **Emotions under Control**: The instantaneous nature of group chats can lead to regrettable outbursts over group work. Step away before sending an angry message.
 *   **Respect Virtual Space**: Do not assume your peers or instructors are available 24/7 just because it is the weekend.

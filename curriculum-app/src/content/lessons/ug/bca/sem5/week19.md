@@ -1,5 +1,8 @@
 # BCA Semester 5: Cyber & Cloud 
 
+![Technology](/assets/technology.jpg)
+
+
 As software eats the world, two critical infrastructures support it: Cloud Computing (where the software lives) and Cybersecurity (how it stays safe).
 
 ---
@@ -24,6 +27,9 @@ flowchart LR
 
 ## 2. Cybersecurity & Ethical Hacking
 
+![Technology](/assets/technology.jpg)
+
+
 Cybersecurity is not just about hacking into mainframes like in the movies; it is about risk management, patching vulnerabilities, and network monitoring.
 
 **High-Demand Roles:**
@@ -35,6 +41,9 @@ Cybersecurity is not just about hacking into mainframes like in the movies; it i
 
 ## 3. DevOps: The Bridge
 
+![Technology](/assets/technology.jpg)
+
+
 DevOps sits between Software Development and IT Operations. It focuses on automating the deployment of code.
 
 **The DevOps Toolkit:**
@@ -45,6 +54,9 @@ DevOps sits between Software Development and IT Operations. It focuses on automa
 ---
 
 ## Activity: Cloud Architecture
+
+![Technology](/assets/technology.jpg)
+
 
 Design a basic cloud architecture for a scalable web application.
 

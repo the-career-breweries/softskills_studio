@@ -1,5 +1,8 @@
 # M.Com Semester 1: Advanced Self-Awareness
 
+![Finance](/assets/finance.jpg)
+
+
 In finance, overconfidence can lead to catastrophic risk. Deep self-awareness and an understanding of your own biases are critical for anyone managing capital or audits.
 
 ---
@@ -23,11 +26,17 @@ flowchart LR
 
 ## 2. Identifying Growth Gaps
 
+![Leadership](/assets/leadership.jpg)
+
+
 What separates an accountant from a CFO? The growth gap usually involves soft skills: negotiation, empathy, public speaking, and crisis management. 
 
 ---
 
 ## Activity: The Competency Profile
+
+![Finance](/assets/finance.jpg)
+
 
 Map out your strengths and the critical growth gaps required for a leadership role in finance or academia.
 

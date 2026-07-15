@@ -1,5 +1,8 @@
 # BBA Semester 5: Traditional Career Paths
 
+![Career](/assets/career.jpg)
+
+
 Welcome to Semester 5! This semester is about shifting from academic theory to corporate reality. 
 
 For BBA graduates, the traditional career pathways are generally focused on core management functions rather than specialized accounting (like B.Com).
@@ -7,6 +10,9 @@ For BBA graduates, the traditional career pathways are generally focused on core
 ---
 
 ## The Core BBA Pathways
+
+![Marketing](/assets/marketing.jpg)
+
 
 1. **Human Resources (HR):** Recruitment, employee relations, payroll, and training.
 2. **Marketing & Sales:** Business development, brand management, field sales, and market research.
@@ -74,6 +80,9 @@ flowchart LR
 ---
 
 ## Activity: BBA Career Map
+
+![Career](/assets/career.jpg)
+
 
 Identify which of the three traditional pillars aligns best with your strengths.
 

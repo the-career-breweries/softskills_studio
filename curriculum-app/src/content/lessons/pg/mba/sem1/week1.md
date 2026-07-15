@@ -1,5 +1,8 @@
 # MBA Semester 1: Professional Orientation
 
+![Career](/assets/career.jpg)
+
+
 Welcome to your MBA. An MBA is not just an extension of your undergraduate studies; it is a fundamental shift in your professional identity. 
 
 You are no longer just an individual contributor learning theories. You are training to be a leader, a strategist, and a decision-maker in the corporate world.
@@ -24,6 +27,9 @@ flowchart LR
 
 ## 2. Defining Your Professional Baseline
 
+![Leadership](/assets/leadership.jpg)
+
+
 Before you can lead a company, you must know where you stand today. Your "Professional Baseline" is an honest assessment of your current business acumen, communication skills, and leadership potential.
 
 **Key Questions to Ask Yourself:**
@@ -34,6 +40,9 @@ Before you can lead a company, you must know where you stand today. Your "Profes
 ---
 
 ## Activity: The Baseline Reflection
+
+![Career](/assets/career.jpg)
+
 
 Complete your professional baseline reflection. This will serve as the foundation for your growth over the next two years.
 
