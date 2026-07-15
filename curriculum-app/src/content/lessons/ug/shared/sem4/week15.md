@@ -1,7 +1,7 @@
 # Welcome to Semester 4: Week 15
 ## Answers and Behavior
 
-
+![Week 15 Title](/images/slides/ug_week15.jpg)
 
 Knowing the theory of an interview is one thing; performing under pressure is another. Today, we focus on how to structure your answers and how to behave in the interview room.
 

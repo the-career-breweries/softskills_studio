@@ -1,7 +1,7 @@
 # Welcome to Semester 4: Week 16
 ## Digital Communication
 
-
+![Week 16 Title](/images/slides/ug_week16.jpg)
 
 Congratulations on reaching the final week of the foundational UG Soft Skills curriculum! We conclude by mastering the environments where most modern work actually happens: email, Slack/Teams, and digital workspaces.
 

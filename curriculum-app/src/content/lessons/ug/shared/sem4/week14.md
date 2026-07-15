@@ -1,7 +1,7 @@
 # Welcome to Semester 4: Week 14
 ## Interview Basics
 
-
+![Week 14 Title](/images/slides/ug_week14.jpg)
 
 The interview is the gateway to your career. It is not an interrogation; it is a conversation to determine mutual fit. This week, we cover the fundamentals of interview preparation.
 

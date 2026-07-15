@@ -1,7 +1,7 @@
 # Welcome to Semester 4: Week 13
 ## Career Awareness
 
-
+![Week 13 Title](/images/slides/ug_week13.jpg)
 
 Welcome to the final semester of the foundational curriculum! We are now shifting our focus entirely to employability and career readiness. This week, we start by mapping out where you actually want to go.
 
