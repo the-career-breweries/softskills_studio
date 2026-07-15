@@ -34,6 +34,7 @@ Draft a concise, high-impact business memo summarizing the financial viability o
 
 
 
+
 ---
 
 ## Executive Interpersonal Skills: Research Content Management

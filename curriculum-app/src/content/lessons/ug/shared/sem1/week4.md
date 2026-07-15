@@ -54,10 +54,21 @@ This week is about practical application. You will be evaluated on:
 
 
 
+
 ---
 
 ## Interpersonal Skills Focus: Communication & Campus Placements
 The P21 Framework identifies Communication as one of the **Four C's** of 21st Century Learning. 
+
+```mermaid
+mindmap
+  root((P21 Skills))
+    Communication
+    Collaboration
+    Critical Thinking
+    Creativity
+```
+
 Recruiters at campus placements specifically seek students who can:
 *   Identify desired outcomes before speaking in group discussions.
 *   Craft clear, confident messages during interviews.

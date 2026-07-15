@@ -34,6 +34,7 @@ Draft a concise, high-impact business memo recommending a strategic shift for a 
 
 
 
+
 ---
 
 ## Executive Interpersonal Skills: Research Content Management

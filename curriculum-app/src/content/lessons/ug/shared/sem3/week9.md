@@ -57,9 +57,13 @@ You will be evaluated this week on:
 
 
 
+
 ---
 
 ## Interpersonal Skills Focus: Characteristics of Effective Student Teams
+
+![Teamwork](/assets/teamwork.jpg)
+
 Collaboration is a core skill you must master before graduation.
 *   **Shared Purpose**: A clear objective aligned with the assignment goals.
 *   **Trust & Openness**: Honest communication about who is doing what work.

@@ -41,10 +41,20 @@ Complete your professional baseline reflection. This will serve as the foundatio
 
 
 
+
 ---
 
 ## Executive Interpersonal Skills: The Transactional Model in Academia
 As a postgraduate, your understanding of communication must transcend basic transmission. 
+
+```mermaid
+flowchart LR
+    A((Researcher)) <-->|Continuous Feedback| B((Examiner))
+    
+    style A fill:#0f172a,stroke:#818cf8,stroke-width:2px,color:#ffffff
+    style B fill:#0f172a,stroke:#c084fc,stroke-width:2px,color:#ffffff
+```
+
 Based on *Systems Theory*, every element in a seminar or thesis defense interconnectedly impacts the other. A change in your micro-expression alters the examiner's decoding in real-time, which instantly alters their subsequent questions.
 
 <!-- PRINT_SLIDE -->

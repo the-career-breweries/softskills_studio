@@ -57,13 +57,22 @@ You will be evaluated this week on:
 
 
 
+
 ---
 
 ## Interpersonal Skills Focus: Navigating Group Dynamics
 Every student in a group project naturally assumes a role. Which one are you?
-*   **Task-Facilitating Roles**: Initiating research, coordinating schedules, setting deadlines. (Highly Productive)
-*   **Team-Maintenance Roles**: Encouraging peers, harmonizing disagreements, compromising. (Highly Productive)
-*   **Self-Oriented Roles**: Controlling the entire project, withdrawing (freeloading), or seeking attention. (Dysfunctional & Destructive)
+
+```mermaid
+pie title Group Roles
+    "Task-Facilitating (Productive)" : 45
+    "Team-Maintenance (Productive)" : 40
+    "Self-Oriented (Destructive)" : 15
+```
+
+*   **Task-Facilitating Roles**: Initiating research, coordinating schedules, setting deadlines.
+*   **Team-Maintenance Roles**: Encouraging peers, harmonizing disagreements, compromising.
+*   **Self-Oriented Roles**: Controlling the entire project, withdrawing (freeloading), or seeking attention.
 
 <!-- PRINT_SLIDE -->
 

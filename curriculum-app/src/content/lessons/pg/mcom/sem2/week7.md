@@ -29,9 +29,18 @@ Act as the neutral finance facilitator for a 15-minute departmental budget dispu
 
 
 
+
 ---
 
 ## Executive Interpersonal Skills: Evaluating Collaborative Styles
+
+```mermaid
+pie title Team Dynamics
+    "Highly Motivated Peers" : 45
+    "Adequate Contributors" : 40
+    "Struggling Peers" : 15
+```
+
 Future leaders must learn to tailor their approach to different peers during PG projects:
 *   **Highly Motivated Peers**: Need frequent, subtle brainstorming sessions to maintain high growth without feeling micromanaged.
 *   **Adequate Contributors**: Need clear role definition; they are reliable when given specific tasks.

@@ -35,9 +35,13 @@ Map out your strengths and the critical growth gaps required for a leadership ro
 
 
 
+
 ---
 
 ## Executive Interpersonal Skills: Communibiological vs. Social Learning
+
+![Body Language](/assets/body_language.jpg)
+
 *   **Communibiological Approach**: Suggests that communication behaviors (like public speaking anxiety) are heavily genetically inherited.
 *   **Social Learning Theory**: Counters this by proving that regardless of genetic disposition, students can adapt, observe, and learn to modify their behaviors.
 *   *The Postgraduate Takeaway*: You cannot blame "biology" for poor presentation skills. Competence is a learned, practiced discipline.

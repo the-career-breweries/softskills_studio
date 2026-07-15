@@ -37,9 +37,18 @@ Act as the neutral facilitator for a complex, 15-minute business case discussion
 
 
 
+
 ---
 
 ## Executive Interpersonal Skills: Evaluating Collaborative Styles
+
+```mermaid
+pie title Team Dynamics
+    "Highly Motivated Peers" : 45
+    "Adequate Contributors" : 40
+    "Struggling Peers" : 15
+```
+
 Future leaders must learn to tailor their approach to different peers during PG projects:
 *   **Highly Motivated Peers**: Need frequent, subtle brainstorming sessions to maintain high growth without feeling micromanaged.
 *   **Adequate Contributors**: Need clear role definition; they are reliable when given specific tasks.

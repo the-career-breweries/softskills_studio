@@ -28,9 +28,10 @@ Chair a 10-minute mock quarterly financial review with a department head who has
 
 
 
+
 ---
 
-## Executive Interpersonal Skills: Shared Academic Knowledge
+## Executive Interpersonal Skills: Enterprise Wikis
 *   **Knowledge Bases**: Fluid, community-driven hubs (like Notion or shared wikis) for internal research accumulation. 
 They democratize information within your cohort but require strict organization to prevent data loss or plagiarism.
 

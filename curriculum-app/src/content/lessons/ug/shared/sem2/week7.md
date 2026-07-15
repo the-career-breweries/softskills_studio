@@ -57,15 +57,22 @@ You will be evaluated this week on:
 
 
 
+
 ---
 
 ## Interpersonal Skills Focus: The Active Listening Process
 Listening in lectures and internships is a highly complex, active process with five distinct phases:
-1.  **Receiving**: Physically hearing the message.
-2.  **Decoding**: Assigning meaning based on your own knowledge.
-3.  **Remembering**: Capturing it in short-term, then long-term memory (taking good notes helps!).
-4.  **Evaluating**: Applying critical thinking to separate fact from opinion.
-5.  **Responding**: Providing verbal or nonverbal feedback (like nodding during a lecture).
+
+```mermaid
+flowchart LR
+    A[Receiving] --> B[Decoding] --> C[Remembering] --> D[Evaluating] --> E[Responding]
+    
+    style A fill:#fef7e0,stroke:#f29900,color:#0f172a
+    style C fill:#e6f4ea,stroke:#437a22,color:#0f172a
+    style E fill:#fce8e8,stroke:#a13544,color:#0f172a
+```
+
+*Avoid Selective Listening*—where you tune out until the professor mentions the exam!
 
 <!-- PRINT_SLIDE -->
 

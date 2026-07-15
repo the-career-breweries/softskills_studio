@@ -59,14 +59,28 @@ You will be evaluated this week on:
 
 
 
+
 ---
 
 ## Interpersonal Skills Focus: Proxemics (The Science of Space)
 Physical distance heavily influences comfort and power dynamics, especially in academic and networking settings:
-*   **Intimate Space** (0 - 1.5 ft): Reserved for close friends.
-*   **Personal Space** (1.5 - 4 ft): Ideal for one-on-one networking or asking a professor a question.
-*   **Social Space** (4 - 12 ft): Best for group projects or study circles.
-*   **Public Space** (12+ ft): Used for classroom presentations and public speaking.
+
+```mermaid
+flowchart TD
+    A[Intimate: 0-1.5 ft] --> B[Personal: 1.5-4 ft]
+    B --> C[Social: 4-12 ft]
+    C --> D[Public: 12+ ft]
+    
+    style A fill:#312e81,stroke:#818cf8,color:#fff
+    style B fill:#4c1d95,stroke:#c084fc,color:#fff
+    style C fill:#1e1b4b,stroke:#818cf8,color:#fff
+    style D fill:#0f172a,stroke:#c084fc,color:#fff
+```
+
+*   **Intimate Space**: Reserved for close friends.
+*   **Personal Space**: Ideal for one-on-one networking or asking a professor a question.
+*   **Social Space**: Best for group projects or study circles.
+*   **Public Space**: Used for classroom presentations and public speaking.
 
 <!-- PRINT_SLIDE -->
 

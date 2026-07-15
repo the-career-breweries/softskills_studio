@@ -57,6 +57,7 @@ You will be evaluated this week on:
 
 
 
+
 ---
 
 ## Interpersonal Skills Focus: The Dangers of Groupthink

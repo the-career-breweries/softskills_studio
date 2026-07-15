@@ -36,10 +36,18 @@ Draft a personal time and energy management plan for high-stress reporting perio
 
 
 
+
 ---
 
 ## Executive Interpersonal Skills: Social Information Processing
 While early theories believed electronic communication was too "lean" for building strong academic networks, modern research proves otherwise.
+
+```mermaid
+flowchart TD
+    A[Initial Email Outreach] --> B[Extended Text Dialogue]
+    B --> C[Strong Academic Rapport]
+```
+
 *   **Social Information Processing**: We *can* communicate intellectual depth and build rapport online with researchers and industry leaders, it just takes longer without nonverbal cues.
 
 <!-- PRINT_SLIDE -->

@@ -50,6 +50,7 @@ Prepare a 3-slide presentation outlining your solution for the coffee chain case
 
 
 
+
 ---
 
 ## Interpersonal Skills Focus: Netiquette (Online Etiquette)

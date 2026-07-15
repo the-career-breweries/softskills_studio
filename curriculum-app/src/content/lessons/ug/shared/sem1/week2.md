@@ -86,9 +86,13 @@ Your learning plan will be evaluated on:
 
 
 
+
 ---
 
 ## Interpersonal Skills Focus: The First 4 C's of Effective Communication
+
+![Communication](/assets/communication.jpg)
+
 To be highly effective in your studies and future career, every message must adhere to these standards:
 1.  **Clarity**: Simple, precise language tailored to your audience.
 2.  **Correctness**: Grammatically flawless and factually accurate.

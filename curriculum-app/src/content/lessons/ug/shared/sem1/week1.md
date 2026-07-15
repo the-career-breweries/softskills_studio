@@ -129,10 +129,22 @@ Please submit the worksheet before the end of the session. We will evaluate it b
 
 
 
+
 ---
 
 ## Interpersonal Skills Focus: The Communication Process
 Communication isn't just speaking; it has evolved into a complex **Transactional Model**:
+
+```mermaid
+flowchart LR
+    A((Sender /
+Receiver)) <-->|Messages & Feedback| B((Sender /
+Receiver))
+    
+    style A fill:#0f172a,stroke:#818cf8,stroke-width:2px,color:#ffffff
+    style B fill:#0f172a,stroke:#c084fc,stroke-width:2px,color:#ffffff
+```
+
 *   **Action**: A linear transfer of meaning from sender to receiver.
 *   **Interaction**: Incorporates feedback and context, becoming a two-way street (e.g., Q&A with your professor).
 *   **Transaction**: Simultaneous, concurrent sharing of ideas and feelings. In a group project, you are both sender and receiver at the exact same time.

@@ -39,9 +39,13 @@ Participate in a rapid-fire STAR-style behavioral interview lab, acting as both 
 
 
 
+
 ---
 
 ## Executive Interpersonal Skills: Navigating Virtual Workspaces
+
+![Digital Communication](/assets/digital_communication.jpg)
+
 *   **Shared Workspaces**: Digital environments that break geographical boundaries, allowing simultaneous thesis editing and networking with global peers. 
 As a postgraduate, you must foster an inclusive culture inside these digital walls to build a powerful alumni network.
 

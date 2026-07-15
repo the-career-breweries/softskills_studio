@@ -57,9 +57,13 @@ You will be evaluated this week on:
 
 
 
+
 ---
 
 ## Interpersonal Skills Focus: The Power of Body Language
+
+![Body Language](/assets/body_language.jpg)
+
 Did you know that up to 65% of any communication is non-verbal? Your body speaks long before you say a word in an interview.
 *   **Eye Contact**: Shows confidence, genuineness, and holds the interviewer's attention.
 *   **Facial Expressions**: Must be controlled depending on the setting (e.g., staying composed during a stressful viva voce).

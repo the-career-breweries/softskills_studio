@@ -34,6 +34,7 @@ Participate in an exercise where you must deduce the hidden financial agenda of 
 
 
 
+
 ---
 
 ## Executive Interpersonal Skills: Hyperpersonal Networking

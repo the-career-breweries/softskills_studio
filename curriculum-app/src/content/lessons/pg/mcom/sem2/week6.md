@@ -37,6 +37,7 @@ Take a complex financial concept (e.g., WACC, Deferred Tax Assets) and explain i
 
 
 
+
 ---
 
 ## Executive Interpersonal Skills: Overcoming Resistance to Ideas

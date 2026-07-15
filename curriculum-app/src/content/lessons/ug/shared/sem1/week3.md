@@ -55,6 +55,7 @@ Your participation today will be evaluated on:
 
 
 
+
 ---
 
 ## Interpersonal Skills Focus: The Final 3 C's of Effective Communication

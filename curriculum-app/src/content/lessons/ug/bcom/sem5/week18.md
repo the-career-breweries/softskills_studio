@@ -80,6 +80,7 @@ Next week, we will explore the Gig Economy and how to start **Freelancing & Cons
 
 
 
+
 ---
 
 ## Interpersonal Skills Focus: The Pitfalls of Online Communication

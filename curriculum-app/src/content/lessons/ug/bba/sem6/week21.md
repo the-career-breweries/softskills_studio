@@ -73,11 +73,14 @@ Next week, we will cover **Workplace Tools**—ensuring that the digital files y
 
 
 
+
 ---
 
 ## Interpersonal Skills Focus: The Value of Constructive Feedback
+
+![Feedback & Growth](/assets/feedback.jpg)
+
 The true test of a growing professional is their ability to both deliver and receive critical feedback.
-Feedback is not just about correcting mistakes; it is vital for your development.
 *   **Positive Feedback**: Readily accepted, reinforces your strengths.
 *   **Negative Feedback**: Meets high resistance. When evaluating peers, it must be delivered carefully, preferably supported by objective examples from their work.
 

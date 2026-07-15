@@ -58,9 +58,13 @@ You will be evaluated this week on:
 
 
 
+
 ---
 
 ## Interpersonal Skills Focus: Time Management (SMART Goals)
+
+![Time Management](/assets/time_management.jpg)
+
 Time is your most valuable resource during college. Master it using the **SMART** framework:
 *   **S**pecific: Set clear, defined study goals.
 *   **M**easurable: Track your progress (e.g., "I will finish 3 practice papers").
