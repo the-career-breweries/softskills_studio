@@ -919,7 +919,7 @@ td strong {
 }
 
 .mermaid-diagram foreignObject * {
-  color: var(--text-main);
+  color: inherit !important;
   font-size: 20px !important;
   font-weight: 600 !important;
 }
