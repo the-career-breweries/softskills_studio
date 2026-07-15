@@ -42,6 +42,7 @@ Learning to take feedback objectively is a core executive trait.
 ---
 
 ## Today's Deliverable
+<!-- PRINT_SLIDE -->
 
 By the end of this session, you must submit a **Revision Brief**:
 1. What was the harshest feedback you received?

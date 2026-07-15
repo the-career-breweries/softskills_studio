@@ -25,6 +25,45 @@ The MBA offers broad optionality, which can lead to analysis paralysis. You must
 
 ---
 
+### The Corporate Ladder
+
+![Career](/assets/career.jpg)
+
+**The Objective:** Reaching the C-Suite of a Fortune 500 company.
+
+**What to Expect:**
+*   You are entering a structured, highly political environment.
+*   Success is not just about competence; it's about visibility and strategic alignment.
+*   You will need to master power mapping, cross-functional alliance building, and corporate diplomacy.
+
+---
+
+### The Entrepreneurial Venture
+
+![Strategy](/assets/strategy.jpg)
+
+**The Objective:** Building a scalable business from the ground up.
+
+**What to Expect:**
+*   You are entering a chaotic, high-risk environment with no safety net.
+*   Success requires extreme agility, relentless customer validation, and the ability to pivot rapidly.
+*   You will need to master pitching, fundraising, Go-To-Market (GTM) strategies, and managing burn rate.
+
+---
+
+### The Consultant / Specialist
+
+![Communication](/assets/communication.jpg)
+
+**The Objective:** Becoming a highly sought-after domain expert and advisor.
+
+**What to Expect:**
+*   You are entering a client-driven environment where reputation is everything.
+*   Success requires deep niche expertise and the ability to manage complex stakeholder psychology.
+*   You will need to master scope management, executive communication, and thought leadership.
+
+---
+
 ## 2. Sowing the First Seed
 
 ![Marketing](/assets/marketing.jpg)
@@ -42,9 +81,9 @@ A strategy without execution is a hallucination.
 ## 3. The Accountability Contract
 
 ![Technology](/assets/technology.jpg)
+<!-- PRINT_SLIDE -->
 
-
-Commitment requires stakes.
+Commitment requires stakes. This is your official Accountability Contract.
 
 **The Task:**
 1.  Complete the respective assignment for your chosen path above.
