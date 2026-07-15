@@ -103,6 +103,15 @@ const mbaSem4Weeks: WeekData[] = [
   { week: 20, semester: 4, level: 4, theme: 'The Launchpad', focus: 'Alumni transition, lifelong learning', task: 'Future self letter', rubric: 'Vision, maturity' },
 ];
 
+const mcomSem3Weeks: WeekData[] = [
+  // Semester 3 (Level 3: Weeks 11-15) - M.Com Specific
+  { week: 11, semester: 3, level: 3, theme: 'Financial Storytelling', focus: 'Translating data for non-finance stakeholders', task: 'Data narrative presentation', rubric: 'Clarity, conciseness' },
+  { week: 12, semester: 3, level: 3, theme: 'Analytical Communication & Pushback', focus: 'Delivering bad news, managing scope', task: 'Roleplay: Budget denial', rubric: 'Tact, firmness' },
+  { week: 13, semester: 3, level: 3, theme: 'The Ethics of Finance', focus: 'Compliance pressure and whistleblowing', task: 'Ethics simulation', rubric: 'Integrity, risk assessment' },
+  { week: 14, semester: 3, level: 3, theme: 'Negotiation for Finance', focus: 'Hard-bargaining skills', task: 'Vendor contract negotiation', rubric: 'Leverage use, outcome' },
+  { week: 15, semester: 3, level: 3, theme: 'The Financial Specialist Persona', focus: 'Niche branding and networking', task: 'Resume and networking plan', rubric: 'Specialization depth' },
+];
+
 const generatePgLevel4 = (stream: string): WeekData[] => {
   return [
     // Semester 4 (Level 4: Weeks 16-20)
@@ -126,7 +135,7 @@ export const curriculumData: { ug: ProgramCurriculum, pg: ProgramCurriculum } = 
   pg: {
     programName: 'PG',
     streams: [
-      { streamName: 'M.Com', weeks: [...pgSem12Weeks, ...pgSem3Weeks, ...generatePgLevel4('M.Com')] },
+      { streamName: 'M.Com', weeks: [...pgSem12Weeks, ...mcomSem3Weeks, ...generatePgLevel4('M.Com')] },
       { streamName: 'MBA', weeks: [...pgSem12Weeks, ...mbaSem3Weeks, ...mbaSem4Weeks] },
       { streamName: 'MCA', weeks: [...pgSem12Weeks, ...pgSem3Weeks, ...generatePgLevel4('MCA')] },
     ]
