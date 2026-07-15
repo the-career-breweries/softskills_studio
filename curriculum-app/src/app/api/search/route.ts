@@ -22,6 +22,12 @@ export async function GET(request: Request) {
       { title: 'Top 10 MBA Programs for Consulting', link: 'https://www.gmac.com/', snippet: 'A comprehensive ranking of the best business schools for those aiming for top-tier consulting roles...' },
       { title: 'Product Management vs Project Management', link: 'https://www.productschool.com/', snippet: 'Understanding the key differences and which career path aligns better with your skills and goals...' },
     ];
+  } else if (lowerQuery.includes('mba') || lowerQuery.includes('master') || lowerQuery.includes('business administration')) {
+    results = [
+      { title: 'The Rise of AI in Strategy Consulting 2024', link: 'https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai', snippet: 'How top-tier MBA graduates are leveraging generative AI to accelerate market research and due diligence...' },
+      { title: 'Corporate Finance: The Shift from Tech to Energy', link: 'https://www.bloomberg.com/markets', snippet: 'Investment banking and corporate finance roles for MBA grads are seeing a massive shift towards green energy sectors...' },
+      { title: 'Entrepreneurship Through Acquisition (ETA)', link: 'https://hbr.org/2024/02/should-you-buy-a-business-or-start-one', snippet: 'Why more MBA students are choosing to buy existing small businesses instead of launching volatile startups...' },
+    ];
   } else {
     results = [
       { title: 'The Future of Work: 2024 Career Trends', link: 'https://www.weforum.org/reports/the-future-of-jobs-report-2023/', snippet: 'Explore the macro trends shaping the global job market, from remote work policies to AI integration...' },
