@@ -11,13 +11,13 @@ You must recognize how your own mind might deceive you when analyzing data:
 *   **Anchoring:** Relying too heavily on the first piece of information offered (e.g., in a salary negotiation or a valuation).
 
 ### The Johari Window in Teamwork
-`mermaid
+```mermaid
 flowchart LR
     A[Seek Peer Review] --> B(Reduce Blind Spots)
     C[Disclose Assumptions] --> D(Reduce Hidden Errors)
     B --> E[Higher Quality Audits & Trust]
     D --> E
-`
+```
 
 ---
 

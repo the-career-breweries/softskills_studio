@@ -12,12 +12,12 @@ Never call a meeting if an email will suffice. If a meeting is necessary, adhere
 *   **The Output:** Every agenda item must end with an Action Item (Who is doing what, by when?).
 
 ### Meeting Lifecycle
-`mermaid
+```mermaid
 flowchart LR
     A[Pre-read & Agenda] --> B[Focused Discussion]
     B --> C[Decision Making]
     C --> D[Action Items & Ownership]
-`
+```
 
 ---
 

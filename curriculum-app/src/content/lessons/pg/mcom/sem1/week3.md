@@ -12,13 +12,13 @@ During audit season, you cannot simply "work harder." You must work smarter.
 *   **Energy Management:** Recognize diminishing returns. An exhausted analyst makes billion-dollar decimal errors.
 
 ### The Accountability Loop
-`mermaid
+```mermaid
 flowchart LR
     A[Define Reporting Deadlines] --> B[Execute Daily Reconciliation]
     B --> C[Audit & Verify]
     C --> D[Reflect on Bottlenecks]
     D --> A
-`
+```
 
 ---
 

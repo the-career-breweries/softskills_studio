@@ -12,12 +12,12 @@ The biggest mistake finance professionals make is assuming everyone else underst
 *   **The Stakeholder Lens:** How does this regulatory change affect our supply chain? How do we explain this margin drop to investors?
 
 ### The M.Com Transformation
-`mermaid
+```mermaid
 flowchart LR
     A[Technical Accounting Skill] --> B[Business Acumen & Context]
     B --> C[Strategic Financial Communication]
     C --> D[Finance Leadership Identity]
-`
+```
 
 ---
 

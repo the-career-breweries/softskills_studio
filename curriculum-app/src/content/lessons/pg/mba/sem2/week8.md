@@ -9,12 +9,12 @@ Business writing is vastly different from academic writing. No CEO has the time 
 The Executive Summary is the most important part of any business document. It must stand alone. If the reader reads *only* the executive summary, they should know exactly what the problem is, what you propose, and what it costs.
 
 ### The Anatomy of a Business Memo
-`mermaid
+```mermaid
 flowchart LR
     A[BLUF: Bottom Line Up Front] --> B[Background / Context]
     B --> C[Analysis & Alternatives]
     C --> D[Recommendation & Next Steps]
-`
+```
 
 ---
 

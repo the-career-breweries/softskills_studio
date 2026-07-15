@@ -14,12 +14,12 @@ Structure every answer using the STAR method:
 *   **R - Result:** "I identified a systematic double-counting error, saving the client from a major compliance penalty."
 
 ### The STAR Flow in Finance
-`mermaid
+```mermaid
 flowchart LR
     A[The Financial Problem] --> B[Your Specific Responsibility]
     B --> C[Your Analytical Action]
     C --> D[The Quantifiable Business Impact]
-`
+```
 
 ---
 

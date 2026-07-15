@@ -11,12 +11,12 @@ Executive presence is the aura of confidence, poise, and authenticity that comma
 *   **Appearance:** How you look. This goes beyond wearing a suit; it is about posture, eye contact, and grooming.
 
 ### The Communication Pyramid
-`mermaid
+```mermaid
 flowchart LR
     A[The Core Message] --> B[Supporting Data & Logic]
     B --> C[Vocal Tone & Pacing]
     C --> D[Body Language & Posture]
-`
+```
 
 ---
 

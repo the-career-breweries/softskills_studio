@@ -12,13 +12,13 @@ Time management is about scheduling your 24 hours. Energy management is about op
 *   **Energy Management:** Recognizing when you are most productive (morning vs. night) and protecting that time for deep, strategic thinking.
 
 ### The Accountability Loop
-`mermaid
+```mermaid
 flowchart LR
     A[Set Clear Goals] --> B[Execute Daily Systems]
     B --> C[Measure Outcomes]
     C --> D[Reflect and Adjust]
     D --> A
-`
+```
 
 ---
 

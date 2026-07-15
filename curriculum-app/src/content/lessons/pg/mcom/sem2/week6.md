@@ -9,7 +9,7 @@ Finance is the language of business, but many business leaders do not speak it f
 Do not walk a CEO through the 40 tabs of your Excel model. Start with the bottom line.
 
 ### The Financial Pyramid Structure
-`mermaid
+```mermaid
 flowchart LR
     A[Core Financial Recommendation] --> B[Impact on Revenue]
     A --> C[Impact on Costs/Margins]
@@ -17,7 +17,7 @@ flowchart LR
     B --> E[Supporting Model Data]
     C --> F[Supporting Model Data]
     D --> G[Compliance/Market Data]
-`
+```
 
 ---
 

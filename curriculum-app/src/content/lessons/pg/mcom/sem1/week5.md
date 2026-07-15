@@ -12,12 +12,12 @@ If you look nervous while presenting a risk assessment, the board will panic. Yo
 *   **Eye Contact:** Look at the decision-makers, not at your spreadsheet.
 
 ### The Financial Communication Pyramid
-`mermaid
+```mermaid
 flowchart LR
     A[The Bottom Line / Recommendation] --> B[Key Financial Drivers]
     B --> C[Risk Assessment]
     C --> D[Supporting Data / Appendices]
-`
+```
 
 ---
 

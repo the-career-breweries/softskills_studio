@@ -13,12 +13,12 @@ Most people do not listen to understand; they listen to reply.
 *   **Level 3: Global Listening.** You are reading the room. You notice not just what the speaker says, but how the rest of the room reacts to it.
 
 ### The Analytical Listening Process
-`mermaid
+```mermaid
 flowchart LR
     A[Receive Information] --> B[Identify Hidden Assumptions]
     B --> C[Cross-Reference with Data]
     C --> D[Formulate Strategic Question]
-`
+```
 
 ---
 

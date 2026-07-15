@@ -11,13 +11,13 @@ A finance facilitator must remain objective. You represent the data and the comp
 *   **Synthesize:** "So, Marketing believes $500k will yield a 10% increase in leads, while Sales believes the same amount in headcount will increase close rates by 15%. Let's look at the historical data."
 
 ### The Budget Facilitation Loop
-`mermaid
+```mermaid
 flowchart LR
     A[Request Department Proposals] --> B[Challenge Assumptions objectively]
     B --> C[Align with Corporate ROI]
     C --> D[Synthesize & Agree on Allocation]
     D --> A
-`
+```
 
 ---
 

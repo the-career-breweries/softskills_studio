@@ -12,13 +12,13 @@ A facilitator is a neutral guide. Your goal is the *process*, not the *content*.
 *   **Synthesize:** Periodically summarize what has been agreed upon and what is still outstanding.
 
 ### The Facilitation Loop
-`mermaid
+```mermaid
 flowchart LR
     A[Ask Open Question] --> B[Actively Listen]
     B --> C[Draw Connections]
     C --> D[Synthesize & Summarize]
     D --> A
-`
+```
 
 ---
 

@@ -9,12 +9,12 @@ Academic papers in finance are dense. Professional financial memos must be sharp
 If you are proposing an acquisition, the board wants the valuation, the risks, and the strategic rationale on page one.
 
 ### The Anatomy of a Financial Proposal
-`mermaid
+```mermaid
 flowchart LR
     A[BLUF: The Deal & Price] --> B[Strategic Rationale]
     B --> C[Valuation Metrics & Synergies]
     C --> D[Key Risks & Mitigation]
-`
+```
 
 ---
 

@@ -14,12 +14,12 @@ You must structure every answer using the STAR method:
 *   **R - Result:** What was the quantifiable outcome?
 
 ### The STAR Flow
-`mermaid
+```mermaid
 flowchart LR
     A[Situation 10%] --> B[Task 10%]
     B --> C[Action 60%]
     C --> D[Result 20%]
-`
+```
 
 ---
 

@@ -11,12 +11,12 @@ When chairing a financial review, the numbers dictate the agenda.
 *   **The Clock:** Financial debates can rabbit-hole into microscopic details. As the chair, you must pull the conversation back up to the macro level.
 
 ### Financial Meeting Lifecycle
-`mermaid
+```mermaid
 flowchart LR
     A[Distribute Pre-read Models] --> B[Focus on Variances & Exceptions]
     B --> C[Strategic Decision Making]
     C --> D[Assign Financial Action Items]
-`
+```
 
 ---
 

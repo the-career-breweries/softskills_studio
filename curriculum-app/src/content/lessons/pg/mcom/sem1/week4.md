@@ -11,12 +11,12 @@ Auditors and consultants must listen with a critical ear.
 *   **Defensiveness:** Which questions cause the stakeholder to become agitated or evasive?
 
 ### The Forensic Listening Process
-`mermaid
+```mermaid
 flowchart LR
     A[Receive Explanation] --> B[Identify Missing Variables]
     B --> C[Cross-Reference with Ledgers]
     C --> D[Formulate Probing Question]
-`
+```
 
 ---
 

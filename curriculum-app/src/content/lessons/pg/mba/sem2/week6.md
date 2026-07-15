@@ -10,7 +10,7 @@ Consulting firms like McKinsey use the Pyramid Principle to structure their comm
 Instead of building up to a conclusion (like a mystery novel), you start with the conclusion, followed by the supporting arguments, and finally the granular data.
 
 ### The Pyramid Structure
-`mermaid
+```mermaid
 flowchart LR
     A[Core Recommendation / Conclusion] --> B[Supporting Argument 1]
     A --> C[Supporting Argument 2]
@@ -18,7 +18,7 @@ flowchart LR
     B --> E[Data / Evidence]
     C --> F[Data / Evidence]
     D --> G[Data / Evidence]
-`
+```
 
 ---
 
