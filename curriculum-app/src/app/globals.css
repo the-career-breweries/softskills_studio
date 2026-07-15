@@ -598,25 +598,30 @@ html, body {
     visibility: hidden;
   }
   
-  .is-printing-worksheet .print-only,
-  .is-printing-worksheet .print-only * {
-    visibility: visible;
+  .print-only,
+  .print-only * {
+    visibility: visible !important;
   }
   
-  .is-printing-worksheet .print-only {
-    display: block;
+  .print-only {
+    display: block !important;
     position: absolute;
     left: 0;
     top: 0;
     width: 100%;
   }
 
-  .lesson-container:not(.is-printing-worksheet) .lesson-body,
-  .lesson-container:not(.is-printing-worksheet) .lesson-body * {
+  .is-printing-slide .slide-content,
+  .is-printing-slide .slide-content * {
+    visibility: visible !important;
+  }
+
+  .lesson-container .lesson-body,
+  .lesson-container .lesson-body * {
     visibility: visible;
   }
 
-  .lesson-container:not(.is-printing-worksheet) .lesson-body {
+  .lesson-container .lesson-body {
     position: absolute;
     left: 0;
     top: 0;
