@@ -55,10 +55,16 @@ DevOps sits between Software Development and IT Operations. It focuses on automa
 
 ## Activity: Cloud Architecture
 
-
-
-
 Design a basic cloud architecture for a scalable web application.
+
+### Scalable Cloud Architecture Roadmap
+```mermaid
+flowchart LR
+    A[Client Request] --> B[Load Balancer]
+    B --> C[Compute / Web Servers]
+    C --> D[Database & Storage]
+    C --> E[Caching Layer]
+```
 
 <!-- PRINT: BCA_CloudArch -->
 

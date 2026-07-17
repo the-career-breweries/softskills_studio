@@ -1301,6 +1301,9 @@ html, body {
   width: 100% !important;
   height: 100% !important;
   white-space: normal !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1.2 !important;
 }
 
 .mermaid-diagram foreignObject * {

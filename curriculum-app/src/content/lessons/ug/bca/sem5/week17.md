@@ -49,21 +49,32 @@ flowchart LR
 
 ## 3. Full-Stack Development
 
-
-
-
 A full-stack developer is a "jack of all trades" who can build both the frontend and the backend. They are highly valued in startups.
 
 **The Reality:** Most full-stack developers usually have a strong preference or deep expertise in *either* the front or the back, but can operate competently in both.
+
+### The Full-Stack Roadmap
+```mermaid
+flowchart LR
+    A[Frontend Foundations] --> B[Backend & Databases]
+    B --> C[DevOps & Deployment]
+    C --> D[Full-Stack Engineer]
+```
 
 ---
 
 ## Activity: Tech Stack Selection
 
+Analyze your interests and select a primary pathway (Frontend, Backend, or Full-Stack). Map out the next 3 technologies you need to learn.
 
-
-
-Analyze your interests and select a primary pathway (Frontend or Backend). Map out the next 3 technologies you need to learn.
+### Pathway Decision Matrix
+```mermaid
+flowchart TD
+    Start[What do you enjoy building most?]
+    Start --> |Visuals & Interfaces| Front[Frontend Pathway]
+    Start --> |Logic & Data| Back[Backend Pathway]
+    Start --> |End-to-End Systems| Full[Full-Stack Pathway]
+```
 
 <!-- PRINT: BCA_SWEPath -->
 

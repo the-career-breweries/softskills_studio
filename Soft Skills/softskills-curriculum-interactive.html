@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Soft Skills Curriculum | UG / PG Interactive</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root, [data-theme="light"] {
+      --text-xs: clamp(0.75rem, 0.7rem + 0.25vw, 0.875rem);
+      --text-sm: clamp(0.875rem, 0.8rem + 0.35vw, 1rem);
+      --text-base: clamp(1rem, 0.95rem + 0.25vw, 1.125rem);
+      --text-lg: clamp(1.125rem, 1rem + 0.75vw, 1.45rem);
+      --text-xl: clamp(1.5rem, 1.2rem + 1.25vw, 2.2rem);
+      --text-2xl: clamp(2rem, 1.2rem + 2.5vw, 3.4rem);
+      --space-1: 0.25rem; --space-2: 0.5rem; --space-3: 0.75rem; --space-4: 1rem; --space-5: 1.25rem;
+      --space-6: 1.5rem; --space-8: 2rem; --space-10: 2.5rem; --space-12: 3rem; --space-16: 4rem;
+      --color-bg: #f7f6f2;
+      --color-surface: #fbfbf9;
+      --color-surface-2: #f1efe9;
+      --color-border: #d6d2ca;
+      --color-divider: #e3dfd8;
+      --color-text: #27241d;
+      --color-text-muted: #69655f;
+      --color-primary: #01696f;
+      --color-primary-hover: #0c4e54;
+      --color-primary-soft: #dcebea;
+      --color-accent: #a13544;
+      --color-good: #437a22;
+      --color-shadow: 0 14px 32px rgba(30,25,18,.08);
+      --radius-sm: .5rem; --radius-md: .85rem; --radius-lg: 1.2rem; --radius-xl: 1.6rem;
+      --content: 1180px;
+    }
+    [data-theme="dark"] {
+      --color-bg: #171614;
+      --color-surface: #1d1b19;
+      --color-surface-2: #252320;
+      --color-border: #38342f;
+      --color-divider: #2d2a27;
+      --color-text: #ece7de;
+      --color-text-muted: #b2aba1;
+      --color-primary: #61a8af;
+      --color-primary-hover: #86c3c8;
+      --color-primary-soft: #253537;
+      --color-accent: #e27c8b;
+      --color-good: #88c36a;
+      --color-shadow: 0 16px 40px rgba(0,0,0,.28);
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: Inter, system-ui, sans-serif;
+      background: linear-gradient(180deg, var(--color-bg) 0%, var(--color-surface-2) 100%);
+      color: var(--color-text);
+      line-height: 1.6;
+    }
+    h1,h2,h3,h4 { margin: 0; line-height: 1.15; }
+    p { margin: 0; color: var(--color-text-muted); }
+    .wrap { max-width: var(--content); margin: 0 auto; padding: 0 var(--space-4); }
+    .topbar {
+      position: sticky; top: 0; z-index: 20;
+      backdrop-filter: blur(14px);
+      background: color-mix(in srgb, var(--color-bg) 82%, transparent);
+      border-bottom: 1px solid var(--color-divider);
+    }
+    .topbar-inner {
+      display: flex; align-items: center; justify-content: space-between;
+      gap: var(--space-4); min-height: 74px;
+    }
+    .brand { display: flex; gap: .9rem; align-items: center; }
+    .logo {
+      width: 42px; height: 42px; border-radius: 12px; background: var(--color-primary-soft);
+      display: grid; place-items: center; color: var(--color-primary);
+      border: 1px solid var(--color-border);
+    }
+    .brand-title { font-size: var(--text-sm); font-weight: 700; letter-spacing: .04em; text-transform: uppercase; }
+    .controls { display: flex; align-items: center; gap: .75rem; flex-wrap: wrap; }
+    select, button {
+      font: inherit; border-radius: 999px; border: 1px solid var(--color-border);
+      background: var(--color-surface); color: var(--color-text);
+      min-height: 44px; padding: .7rem 1rem;
+    }
+    button { cursor: pointer; }
+    .hero { padding: var(--space-12) 0 var(--space-8); }
+    .eyebrow {
+      display: inline-flex; align-items: center; gap: .5rem; padding: .45rem .9rem; border-radius: 999px;
+      background: var(--color-primary-soft); color: var(--color-primary); font-size: var(--text-xs); font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
+      margin-bottom: var(--space-4);
+    }
+    .hero-grid {
+      display: grid; grid-template-columns: 1.25fr .9fr; gap: var(--space-8); align-items: start;
+    }
+    .hero h1 {
+      font-family: "Instrument Serif", Georgia, serif;
+      font-size: var(--text-2xl);
+      font-weight: 400;
+      max-width: 14ch;
+      margin-bottom: var(--space-4);
+    }
+    .hero p.lead { max-width: 70ch; font-size: var(--text-base); }
+    .stats { display: grid; grid-template-columns: repeat(2,1fr); gap: var(--space-4); }
+    .card {
+      background: var(--color-surface);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius-lg);
+      box-shadow: var(--color-shadow);
+    }
+    .stat { padding: var(--space-5); }
+    .stat .num { font-size: 1.7rem; font-weight: 800; color: var(--color-text); }
+    .stat .lbl { font-size: var(--text-sm); color: var(--color-text-muted); }
+    .section { padding: var(--space-8) 0; }
+    .section-head { display: flex; align-items: end; justify-content: space-between; gap: var(--space-4); margin-bottom: var(--space-5); }
+    .section-head h2 { font-size: var(--text-xl); }
+    .section-head p { max-width: 70ch; }
+    .tabs { display: flex; gap: .75rem; flex-wrap: wrap; margin-bottom: var(--space-4); }
+    .tab {
+      border-radius: 999px; padding: .75rem 1rem; border: 1px solid var(--color-border);
+      background: transparent; color: var(--color-text-muted); font-weight: 600;
+    }
+    .tab.active { background: var(--color-primary); color: #fff; border-color: var(--color-primary); }
+    .grid-2 { display: grid; grid-template-columns: 1.1fr .9fr; gap: var(--space-5); }
+    .panel { padding: var(--space-5); }
+    .panel h3 { margin-bottom: .35rem; font-size: 1.1rem; }
+    .pill-row { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: var(--space-4); }
+    .pill {
+      padding: .55rem .8rem; background: var(--color-surface-2); border-radius: 999px;
+      border: 1px solid var(--color-border); font-size: var(--text-xs); color: var(--color-text-muted);
+    }
+    table { width: 100%; border-collapse: collapse; }
+    .table-wrap { overflow-x: auto; border-radius: var(--radius-lg); }
+    th, td { text-align: left; padding: .95rem .9rem; vertical-align: top; border-bottom: 1px solid var(--color-divider); font-size: .95rem; }
+    th { background: var(--color-surface-2); color: var(--color-text); position: sticky; top: 0; }
+    tr:hover td { background: color-mix(in srgb, var(--color-primary-soft) 35%, transparent); }
+    .hours { font-weight: 800; color: var(--color-primary); white-space: nowrap; }
+    .rubric-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: var(--space-5); }
+    .rubric-list { display: grid; gap: .75rem; margin-top: var(--space-4); }
+    .rubric-item {
+      padding: .9rem 1rem; border-radius: var(--radius-md); background: var(--color-surface-2); border: 1px solid var(--color-border);
+    }
+    .rubric-item strong { display: block; color: var(--color-text); margin-bottom: .25rem; }
+    .note {
+      margin-top: var(--space-4); padding: 1rem 1.1rem; border-left: 4px solid var(--color-primary);
+      background: var(--color-primary-soft); border-radius: 0 var(--radius-md) var(--radius-md) 0; color: var(--color-text);
+    }
+    .footer { padding: var(--space-10) 0 var(--space-12); }
+    .small { font-size: var(--text-sm); color: var(--color-text-muted); }
+    .hidden { display: none; }
+    @media (max-width: 980px) {
+      .hero-grid, .grid-2, .rubric-grid { grid-template-columns: 1fr; }
+      .stats { grid-template-columns: repeat(2,1fr); }
+    }
+    @media (max-width: 640px) {
+      .topbar-inner { align-items: flex-start; padding: .75rem 0; }
+      .controls { width: 100%; }
+      .controls select { flex: 1; min-width: 170px; }
+      .stats { grid-template-columns: 1fr; }
+      th, td { min-width: 160px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap topbar-inner">
+      <div class="brand">
+        <div class="logo" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8">
+            <path d="M5 4h10a4 4 0 0 1 4 4v12H9a4 4 0 0 0-4 4V4z"></path>
+            <path d="M9 20V8a4 4 0 0 1 4-4"></path>
+          </svg>
+        </div>
+        <div>
+          <div class="brand-title">Soft Skills Curriculum Studio</div>
+          <div class="small">Interactive 50-hour UG / PG syllabus planner</div>
+        </div>
+      </div>
+      <div class="controls">
+        <label class="small" for="programSelect">Programme</label>
+        <select id="programSelect" aria-label="Select programme">
+          <option value="ug">UG Curriculum</option>
+          <option value="pg">PG Curriculum</option>
+        </select>
+        <button id="themeToggle" aria-label="Switch theme">🌙</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="wrap hero-grid">
+        <div>
+          <div class="eyebrow">Institution-ready curriculum</div>
+          <h1 id="heroTitle">Undergraduate Soft Skills and Employability Curriculum</h1>
+          <p class="lead" id="heroLead">A structured 50-hour curriculum designed for foundational confidence-building, communication practice, professional habits, and entry-level career readiness for undergraduate learners.</p>
+          <div class="pill-row" id="heroPills"></div>
+        </div>
+        <div class="stats">
+          <div class="card stat"><div class="num">50</div><div class="lbl">Total learning hours</div></div>
+          <div class="card stat"><div class="num">20</div><div class="lbl">Weekly sessions at 2.5 hours average equivalent or adaptable 4-hour blocks</div></div>
+          <div class="card stat"><div class="num" id="levelCount">2</div><div class="lbl">Progression levels</div></div>
+          <div class="card stat"><div class="num">4-point</div><div class="lbl">Integrated evaluation rubric</div></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>Curriculum structure</h2>
+            <p id="structureIntro">The UG pathway is organised to move from self-awareness and classroom participation to communication confidence, workplace basics, and interview preparation.</p>
+          </div>
+        </div>
+        <div class="grid-2">
+          <article class="card panel">
+            <h3 id="structureTitle">UG structure model</h3>
+            <p id="structureDesc">Level 1 establishes confidence, learning behaviour, and communication basics. Level 2 shifts toward employability tasks such as writing, presentations, collaboration, and interviews.</p>
+            <div class="pill-row" id="structurePills"></div>
+          </article>
+          <article class="card panel">
+            <h3>Assessment architecture</h3>
+            <div class="rubric-list">
+              <div class="rubric-item"><strong>Continuous practice</strong><span id="assessment1">Attendance, engagement, task submission, and visible weekly effort.</span></div>
+              <div class="rubric-item"><strong>Performance tasks</strong><span id="assessment2">Speaking, discussion, writing, digital tasks, and professional behaviour demonstrations.</span></div>
+              <div class="rubric-item"><strong>Final readiness</strong><span id="assessment3">Portfolio quality, practical review, and interview or presentation performance.</span></div>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>Weekly curriculum</h2>
+            <p id="tableIntro">Each week combines a theme, a practical output, and a linked evaluation focus so the course stays measurable and implementable.</p>
+          </div>
+          <div class="tabs" role="tablist" aria-label="Curriculum view">
+            <button class="tab active" data-view="weekly">Weekly table</button>
+            <button class="tab" data-view="rubrics">Rubrics</button>
+          </div>
+        </div>
+
+        <div id="weeklyView">
+          <div class="card table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Week</th>
+                  <th>Hours</th>
+                  <th>Theme</th>
+                  <th>Core focus</th>
+                  <th>Learning task</th>
+                  <th>Evaluation rubric</th>
+                </tr>
+              </thead>
+              <tbody id="weeklyTableBody"></tbody>
+            </table>
+          </div>
+          <div class="note" id="weeklyNote"></div>
+        </div>
+
+        <div id="rubricsView" class="hidden">
+          <div class="rubric-grid">
+            <article class="card panel">
+              <h3>4-point rubric scale</h3>
+              <div class="rubric-list" id="scaleList"></div>
+            </article>
+            <article class="card panel">
+              <h3>Common scoring dimensions</h3>
+              <div class="rubric-list" id="dimensionList"></div>
+            </article>
+          </div>
+          <div class="grid-2" style="margin-top:1.25rem;">
+            <article class="card panel">
+              <h3>Checkpoint weeks</h3>
+              <div class="rubric-list" id="checkpointList"></div>
+            </article>
+            <article class="card panel">
+              <h3>Expected portfolio outputs</h3>
+              <div class="rubric-list" id="portfolioList"></div>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section footer">
+      <div class="wrap">
+        <div class="card panel">
+          <h3>Design note</h3>
+          <p id="footerText">This interactive HTML integrates the syllabus structure, 50-hour weekly curriculum, and evaluation rubrics into a single presentation-ready interface for curriculum review, departmental discussion, or BOS preparation.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    const curriculumData = {
+      ug: {
+        heroTitle: 'Undergraduate Soft Skills and Employability Curriculum',
+        heroLead: 'A structured 50-hour curriculum designed for foundational confidence-building, communication practice, professional habits, and entry-level career readiness for undergraduate learners.',
+        heroPills: ['Foundational confidence', 'Communication practice', 'Professional habits', 'Entry-level employability'],
+        structureIntro: 'The UG pathway is organised to move from self-awareness and classroom participation to communication confidence, workplace basics, and interview preparation.',
+        structureTitle: 'UG structure model',
+        structureDesc: 'Level 1 establishes confidence, learning behaviour, and communication basics. Level 2 shifts toward employability tasks such as writing, presentations, collaboration, and interviews.',
+        structurePills: ['Level 1: Awareness and participation', 'Level 2: Employability and readiness'],
+        assessment1: 'Attendance, engagement, task submission, and visible weekly effort.',
+        assessment2: 'Speaking, discussion, writing, digital tasks, and professional behaviour demonstrations.',
+        assessment3: 'Portfolio quality, practical review, and interview or presentation performance.',
+        tableIntro: 'Each week combines a theme, a practical output, and a linked evaluation focus so the course stays measurable and implementable.',
+        weeklyNote: 'UG implementation note: this version keeps tasks guided, instructor-supported, and confidence-oriented so students from mixed English backgrounds can participate meaningfully from the first weeks.',
+        footerText: 'This interactive HTML integrates the syllabus structure, 50-hour weekly curriculum, and evaluation rubrics into a single presentation-ready interface for curriculum review, departmental discussion, or BOS preparation.',
+        weeks: [
+          [1,4,'Course orientation','Course purpose, expectations, learner identity','Intro reflection and goal setting','Participation, clarity of goals, readiness to engage'],
+          [2,4,'Self-awareness','Strengths, interests, habits','Self-profile worksheet','Completeness, honesty, insight'],
+          [3,4,'Learning habits','Study routines, attention, time use','Personal learning plan','Practicality, consistency, self-discipline'],
+          [4,4,'Listening skills','Active listening, response discipline','Listening drill and recap','Accuracy, attention, response quality'],
+          [5,4,'Speaking comfort','Short sharing, voice confidence','Pair talk and short oral response','Fluency, confidence, relevance'],
+          [6,4,'Soft skills basics','Grooming, attitude, presence, etiquette','Soft-skills checklist','Awareness, application, professionalism'],
+          [7,4,'Articulation','Clarity, pronunciation, sentence building','Speaking practice set','Clarity, pace, accuracy'],
+          [8,4,'Group discussion I','Basics of group discussion','Structured GD round','Participation, listening, relevance'],
+          [9,4,'Group discussion II','Idea flow, teamwork, respectful disagreement','Advanced GD round','Logical contribution, teamwork, confidence'],
+          [10,4,'Micro presentation','Opening, body, closing, delivery','2–3 minute presentation','Structure, expression, stage presence'],
+          [11,4,'Writing skills I','Paragraphs, formal writing, academic tone','Short writing assignment','Coherence, grammar, relevance'],
+          [12,4,'Writing skills II','Resume basics, email basics','Resume draft and email draft','Format, accuracy, professionalism'],
+          [13,4,'Body language','Posture, eye contact, gestures','Non-verbal communication practice','Eye contact, posture, gesture control'],
+          [14,4,'Meetings and teamwork','Speaking in meetings, interruption handling','Mock meeting activity','Collaboration, turn-taking, clarity'],
+          [15,4,'Career awareness','Career paths, interests, aspirations','Career mapping sheet','Thoughtfulness, realism, alignment'],
+          [16,4,'Interview basics','Interview process, preparation, openings','Interview prep worksheet','Understanding, preparation, confidence'],
+          [17,4,'Answers and behavior','Answer strategy, examples, professional conduct','Mock answer practice','Relevance, structure, confidence'],
+          [18,4,'Digital communication','Official mail, online etiquette','Professional email task','Tone, format, correctness'],
+          [19,4,'Workplace tools','Word processing, presentation tools, file discipline','Digital submission task','Accuracy, formatting, file handling'],
+          [20,4,'Final practice and review','Resume, speaking, GD, interview readiness','Final practical demonstration','Overall readiness, performance, improvement']
+        ],
+        scale: [
+          ['4 – Excellent','Performs independently, clearly, confidently, and correctly.'],
+          ['3 – Good','Performs with minor errors; task is mostly complete and effective.'],
+          ['2 – Satisfactory','Performs partially; needs support or correction.'],
+          ['1 – Needs improvement','Shows limited understanding or incomplete work.']
+        ],
+        dimensions: ['Participation and attendance','Task completion and submission quality','Communication quality and clarity','Professional attitude and responsiveness'],
+        checkpoints: ['Week 5: speaking comfort checkpoint','Week 10: micro presentation checkpoint','Week 12: writing and professional documents checkpoint','Week 15: career mapping checkpoint','Week 20: final practical review'],
+        portfolio: ['Self-profile','Learning journal or reflection sheets','Speaking sample','Group discussion record','Presentation file','Writing sample','Resume','Professional email','Career map','Interview readiness sheet']
+      },
+      pg: {
+        heroTitle: 'Postgraduate Advanced Professional Communication and Leadership Curriculum',
+        heroLead: 'An upgraded 50-hour curriculum for postgraduate learners focused on analytical communication, professional judgment, facilitation, research-aligned expression, leadership behaviour, and advanced career readiness.',
+        heroPills: ['Advanced communication', 'Leadership and facilitation', 'Analytical writing', 'Professional judgment'],
+        structureIntro: 'The PG pathway is upgraded from skill awareness to applied professional performance, with stronger emphasis on independent expression, strategic communication, leadership, and decision quality.',
+        structureTitle: 'PG structure model',
+        structureDesc: 'Level 1 builds advanced self-management, communication maturity, and analytical clarity. Level 2 moves into leadership communication, workplace judgment, professional documents, seminars, and interview defence.',
+        structurePills: ['Level 1: Professional maturity', 'Level 2: Leadership and advanced readiness'],
+        assessment1: 'Consistent participation, initiative, reflective depth, and peer contribution.',
+        assessment2: 'Seminar speaking, analytical writing, facilitation, case discussion, and professional communication tasks.',
+        assessment3: 'Portfolio strength, mock panel interview, career positioning, and final presentation defence.',
+        tableIntro: 'Each PG week is designed to generate a more advanced output, with higher expectations of independence, coherence, leadership behaviour, and applied workplace judgment.',
+        weeklyNote: 'PG implementation note: this version intentionally raises the quality bar from participation to professional performance, asking students to analyse, facilitate, decide, and defend their views with greater maturity.',
+        footerText: 'This interactive HTML combines UG and PG pathways in one interface so academic leaders can compare foundational and upgraded curriculum depth before formal adoption.',
+        weeks: [
+          [1,4,'Professional orientation','Course expectations, academic-professional identity, personal standards','Professional baseline reflection','Clarity, seriousness, goal quality'],
+          [2,4,'Advanced self-awareness','Strengths, growth gaps, behavioural patterns','Professional competency profile','Depth, insight, accuracy'],
+          [3,4,'Self-management','Time, energy, discipline, accountability systems','Performance management plan','Practicality, ownership, consistency'],
+          [4,4,'Listening and interpretation','Critical listening, inference, response quality','Analytical listening task','Accuracy, interpretation, response discipline'],
+          [5,4,'Professional speaking presence','Voice, confidence, message control','Structured oral brief','Fluency, confidence, executive presence'],
+          [6,4,'Behaviour and professionalism','Presence, etiquette, judgement, reliability','Professional conduct audit','Awareness, professionalism, application'],
+          [7,4,'Analytical articulation','Structured speaking, evidence-based explanation','Concept explanation task','Clarity, logic, precision'],
+          [8,4,'Discussion and facilitation I','Moderated discussion and topic framing','Facilitated group round','Participation quality, moderation, relevance'],
+          [9,4,'Discussion and facilitation II','Conflict handling, negotiation, viewpoint management','Case discussion facilitation','Judgement, teamwork, composure'],
+          [10,4,'Seminar presentation','Seminar structure, argument flow, audience handling','5-minute seminar talk','Structure, articulation, authority'],
+          [11,4,'Analytical writing I','Professional note writing, structured argument','Analytical writing task','Coherence, grammar, analytical depth'],
+          [12,4,'Analytical writing II','CV refinement, statement writing, professional email','CV + formal email + statement draft','Positioning, accuracy, professionalism'],
+          [13,4,'Body language and executive presence','Posture, eye contact, poise, controlled gestures','Presence review task','Poise, eye contact, confidence signals'],
+          [14,4,'Meetings, facilitation, and leadership','Chairing meetings, interruption handling, closure','Mock meeting leadership task','Leadership, clarity, process control'],
+          [15,4,'Career strategy','Role pathways, aspiration mapping, realistic positioning','Career strategy sheet','Thoughtfulness, realism, alignment'],
+          [16,4,'Interview design and preparation','Interview mapping, personal narrative, evidence preparation','Interview strategy sheet','Preparation quality, role fit, clarity'],
+          [17,4,'Interview response mastery','STAR-style response, judgement questions, behavioural examples','Mock response lab','Structure, relevance, confidence'],
+          [18,4,'Digital professionalism','Email etiquette, online presence, meeting etiquette','Professional communication task','Tone, correctness, digital maturity'],
+          [19,4,'Workplace communication tools','Presentation design, file discipline, collaboration tools','Professional document submission','Quality, formatting, task discipline'],
+          [20,4,'Capstone review and defence','Portfolio presentation, mock panel, readiness review','Final defence and viva-style review','Overall readiness, quality of defence, professional maturity']
+        ],
+        scale: [
+          ['4 – Excellent','Demonstrates independent, mature, precise, and persuasive performance with professional polish.'],
+          ['3 – Good','Demonstrates strong performance with minor gaps in depth, polish, or consistency.'],
+          ['2 – Satisfactory','Demonstrates partial competence but needs guidance, refinement, or stronger evidence.'],
+          ['1 – Needs improvement','Demonstrates weak preparation, limited clarity, or insufficient professional application.']
+        ],
+        dimensions: ['Initiative and quality of participation','Depth and completeness of task output','Analytical clarity and communication quality','Professional maturity, judgment, and leadership behaviour'],
+        checkpoints: ['Week 5: executive speaking checkpoint','Week 10: seminar presentation checkpoint','Week 12: professional writing and positioning checkpoint','Week 15: career strategy checkpoint','Week 20: capstone defence and mock panel review'],
+        portfolio: ['Professional competency profile','Reflective growth log','Analytical speaking sample','Facilitation record','Seminar presentation deck','Analytical writing sample','Refined CV','Formal email and statement drafts','Career strategy sheet','Mock interview defence record']
+      }
+    };
+
+    const programSelect = document.getElementById('programSelect');
+    const weeklyTableBody = document.getElementById('weeklyTableBody');
+    const heroPills = document.getElementById('heroPills');
+    const structurePills = document.getElementById('structurePills');
+    const scaleList = document.getElementById('scaleList');
+    const dimensionList = document.getElementById('dimensionList');
+    const checkpointList = document.getElementById('checkpointList');
+    const portfolioList = document.getElementById('portfolioList');
+    const tabs = document.querySelectorAll('.tab');
+    const weeklyView = document.getElementById('weeklyView');
+    const rubricsView = document.getElementById('rubricsView');
+    const themeToggle = document.getElementById('themeToggle');
+
+    function fillPills(target, items) {
+      target.innerHTML = items.map(item => `<span class="pill">${item}</span>`).join('');
+    }
+    function fillList(target, items, strong = false) {
+      target.innerHTML = items.map(item => {
+        if (Array.isArray(item)) return `<div class="rubric-item"><strong>${item[0]}</strong><span>${item[1]}</span></div>`;
+        return `<div class="rubric-item">${strong ? `<strong>${item}</strong>` : item}</div>`;
+      }).join('');
+    }
+    function renderTable(rows) {
+      weeklyTableBody.innerHTML = rows.map(r => `
+        <tr>
+          <td>${r[0]}</td>
+          <td class="hours">${r[1]}</td>
+          <td>${r[2]}</td>
+          <td>${r[3]}</td>
+          <td>${r[4]}</td>
+          <td>${r[5]}</td>
+        </tr>
+      `).join('');
+    }
+    function render(program) {
+      const d = curriculumData[program];
+      document.getElementById('heroTitle').textContent = d.heroTitle;
+      document.getElementById('heroLead').textContent = d.heroLead;
+      document.getElementById('structureIntro').textContent = d.structureIntro;
+      document.getElementById('structureTitle').textContent = d.structureTitle;
+      document.getElementById('structureDesc').textContent = d.structureDesc;
+      document.getElementById('assessment1').textContent = d.assessment1;
+      document.getElementById('assessment2').textContent = d.assessment2;
+      document.getElementById('assessment3').textContent = d.assessment3;
+      document.getElementById('tableIntro').textContent = d.tableIntro;
+      document.getElementById('weeklyNote').textContent = d.weeklyNote;
+      document.getElementById('footerText').textContent = d.footerText;
+      fillPills(heroPills, d.heroPills);
+      fillPills(structurePills, d.structurePills);
+      renderTable(d.weeks);
+      fillList(scaleList, d.scale);
+      fillList(dimensionList, d.dimensions);
+      fillList(checkpointList, d.checkpoints);
+      fillList(portfolioList, d.portfolio);
+    }
+
+    tabs.forEach(tab => {
+      tab.addEventListener('click', () => {
+        tabs.forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+        const view = tab.dataset.view;
+        weeklyView.classList.toggle('hidden', view !== 'weekly');
+        rubricsView.classList.toggle('hidden', view !== 'rubrics');
+      });
+    });
+
+    programSelect.addEventListener('change', e => render(e.target.value));
+    themeToggle.addEventListener('click', () => {
+      const root = document.documentElement;
+      const next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      root.setAttribute('data-theme', next);
+      themeToggle.textContent = next === 'dark' ? '☀️' : '🌙';
+    });
+
+    render('ug');
+  </script>
+</body>
+</html>

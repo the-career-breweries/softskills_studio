@@ -1124,92 +1124,221 @@ export default function PrintTemplates({ templateId }: PrintTemplatesProps) {
       )}
 
       {templateId === 'BCA_SWEPath' && (
-        <div className="print-worksheet">
-          {renderHeader('Software Engineering Pathways')}
-          <p className="print-instructions">Select your primary pathway (Frontend, Backend, or Full-Stack) and map out the required tech stack.</p>
-          
-          <div className="self-profile-form">
-            <div className="form-section">
-              <h3>1. Primary Pathway</h3>
-              <p className="form-prompt">Which SWE pathway are you focusing on?</p>
-              <div className="dotted-line"></div>
-            </div>
-
-            <div className="form-section">
-              <h3>2. Core Tech Stack</h3>
-              <p className="form-prompt">List the top 3 technologies you need to master for this role:</p>
-              <div className="dotted-line"></div>
-              <div className="dotted-line"></div>
-              <div className="dotted-line"></div>
-            </div>
-            
-            <div className="form-section">
-              <h3>3. The First Project</h3>
-              <p className="form-prompt">What is the very first project you will build using this stack?</p>
-              <div className="dotted-line"></div>
-              <div className="dotted-line"></div>
+        <>
+          {/* Page 1: Frontend Roadmap */}
+          <div className="print-worksheet" style={{ pageBreakAfter: 'always' }}>
+            {renderHeader('Frontend Development Roadmap')}
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem', marginTop: '3rem', alignItems: 'center', fontFamily: '"Outfit", sans-serif' }}>
+              <div style={{ padding: '1.5rem 3rem', border: '3px solid #4f46e5', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold' }}>HTML/CSS/JS Basics</div>
+              <div style={{ fontSize: '3rem', color: '#4f46e5', lineHeight: '1' }}>↓</div>
+              <div style={{ padding: '1.5rem 3rem', border: '3px solid #4f46e5', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold' }}>React.js / State Management</div>
+              <div style={{ fontSize: '3rem', color: '#4f46e5', lineHeight: '1' }}>↓</div>
+              <div style={{ padding: '1.5rem 3rem', border: '3px solid #4f46e5', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold' }}>API Integration & Web Performance</div>
+              <div style={{ fontSize: '3rem', color: '#4f46e5', lineHeight: '1' }}>↓</div>
+              <div style={{ padding: '1.5rem 3rem', backgroundColor: '#4f46e5', color: 'white', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold' }}>Frontend Engineer</div>
             </div>
           </div>
-        </div>
+
+          {/* Page 2: Backend Roadmap */}
+          <div className="print-worksheet" style={{ pageBreakAfter: 'always' }}>
+            {renderHeader('Backend Development Roadmap')}
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem', marginTop: '3rem', alignItems: 'center', fontFamily: '"Outfit", sans-serif' }}>
+              <div style={{ padding: '1.5rem 3rem', border: '3px solid #4f46e5', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold' }}>Programming Language Mastery</div>
+              <div style={{ fontSize: '3rem', color: '#4f46e5', lineHeight: '1' }}>↓</div>
+              <div style={{ padding: '1.5rem 3rem', border: '3px solid #4f46e5', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold' }}>Database Design & SQL</div>
+              <div style={{ fontSize: '3rem', color: '#4f46e5', lineHeight: '1' }}>↓</div>
+              <div style={{ padding: '1.5rem 3rem', border: '3px solid #4f46e5', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold' }}>API Development & Security</div>
+              <div style={{ fontSize: '3rem', color: '#4f46e5', lineHeight: '1' }}>↓</div>
+              <div style={{ padding: '1.5rem 3rem', backgroundColor: '#4f46e5', color: 'white', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold' }}>Backend Engineer</div>
+            </div>
+          </div>
+
+          {/* Page 3: Full-Stack Roadmap */}
+          <div className="print-worksheet" style={{ pageBreakAfter: 'always' }}>
+            {renderHeader('Full-Stack Development Roadmap')}
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem', marginTop: '3rem', alignItems: 'center', fontFamily: '"Outfit", sans-serif' }}>
+              <div style={{ padding: '1.5rem 3rem', border: '3px solid #4f46e5', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold' }}>Frontend Foundations</div>
+              <div style={{ fontSize: '3rem', color: '#4f46e5', lineHeight: '1' }}>↓</div>
+              <div style={{ padding: '1.5rem 3rem', border: '3px solid #4f46e5', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold' }}>Backend & Databases</div>
+              <div style={{ fontSize: '3rem', color: '#4f46e5', lineHeight: '1' }}>↓</div>
+              <div style={{ padding: '1.5rem 3rem', border: '3px solid #4f46e5', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold' }}>DevOps & Deployment</div>
+              <div style={{ fontSize: '3rem', color: '#4f46e5', lineHeight: '1' }}>↓</div>
+              <div style={{ padding: '1.5rem 3rem', backgroundColor: '#4f46e5', color: 'white', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold' }}>Full-Stack Engineer</div>
+            </div>
+          </div>
+
+          {/* Page 4: Decision Roadmap */}
+          <div className="print-worksheet" style={{ pageBreakAfter: 'always' }}>
+            {renderHeader('Pathway Decision Matrix')}
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '3rem', marginTop: '3rem', alignItems: 'center', fontFamily: '"Outfit", sans-serif' }}>
+              <div style={{ padding: '1.5rem 4rem', backgroundColor: '#f8fafc', border: '4px solid #0f172a', borderRadius: '16px', fontSize: '1.8rem', fontWeight: '900', textAlign: 'center' }}>
+                What do you enjoy building most?
+              </div>
+              
+              <div style={{ display: 'flex', gap: '2rem', width: '100%', justifyContent: 'center', marginTop: '2rem' }}>
+                {/* Frontend Path */}
+                <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '1.5rem', width: '30%' }}>
+                  <div style={{ padding: '1.5rem', border: '3px dashed #94a3b8', borderRadius: '12px', textAlign: 'center', fontSize: '1.3rem', fontWeight: '600', minHeight: '120px', display: 'flex', alignItems: 'center' }}>
+                    Visuals, User Interfaces & Interactivity
+                  </div>
+                  <div style={{ fontSize: '3rem', color: '#4f46e5', lineHeight: '1' }}>↓</div>
+                  <div style={{ padding: '1.2rem 2rem', backgroundColor: '#4f46e5', color: 'white', borderRadius: '12px', fontWeight: 'bold', fontSize: '1.3rem', width: '100%', textAlign: 'center' }}>
+                    Choose Frontend
+                  </div>
+                </div>
+
+                {/* Backend Path */}
+                <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '1.5rem', width: '30%' }}>
+                  <div style={{ padding: '1.5rem', border: '3px dashed #94a3b8', borderRadius: '12px', textAlign: 'center', fontSize: '1.3rem', fontWeight: '600', minHeight: '120px', display: 'flex', alignItems: 'center' }}>
+                    Logic, Data & Architecture
+                  </div>
+                  <div style={{ fontSize: '3rem', color: '#4f46e5', lineHeight: '1' }}>↓</div>
+                  <div style={{ padding: '1.2rem 2rem', backgroundColor: '#4f46e5', color: 'white', borderRadius: '12px', fontWeight: 'bold', fontSize: '1.3rem', width: '100%', textAlign: 'center' }}>
+                    Choose Backend
+                  </div>
+                </div>
+
+                {/* Full-Stack Path */}
+                <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '1.5rem', width: '30%' }}>
+                  <div style={{ padding: '1.5rem', border: '3px dashed #94a3b8', borderRadius: '12px', textAlign: 'center', fontSize: '1.3rem', fontWeight: '600', minHeight: '120px', display: 'flex', alignItems: 'center' }}>
+                    End-to-End Systems & Startups
+                  </div>
+                  <div style={{ fontSize: '3rem', color: '#4f46e5', lineHeight: '1' }}>↓</div>
+                  <div style={{ padding: '1.2rem 2rem', backgroundColor: '#4f46e5', color: 'white', borderRadius: '12px', fontWeight: 'bold', fontSize: '1.3rem', width: '100%', textAlign: 'center' }}>
+                    Choose Full-Stack
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Page 5: Activity */}
+          <div className="print-worksheet">
+            {renderHeader('Software Engineering Pathways Worksheet')}
+            <p className="print-instructions">Select your primary pathway (Frontend, Backend, or Full-Stack) and map out the required tech stack.</p>
+            
+            <div className="self-profile-form">
+              <div className="form-section">
+                <h3>1. Primary Pathway</h3>
+                <p className="form-prompt">Which SWE pathway are you focusing on?</p>
+                <div className="dotted-line"></div>
+              </div>
+
+              <div className="form-section">
+                <h3>2. Core Tech Stack</h3>
+                <p className="form-prompt">List the top 3 technologies you need to master for this role:</p>
+                <div className="dotted-line"></div>
+                <div className="dotted-line"></div>
+                <div className="dotted-line"></div>
+              </div>
+              
+              <div className="form-section">
+                <h3>3. The First Project</h3>
+                <p className="form-prompt">What is the very first project you will build using this stack?</p>
+                <div className="dotted-line"></div>
+                <div className="dotted-line"></div>
+              </div>
+            </div>
+          </div>
+        </>
       )}
 
       {templateId === 'BCA_DataScience' && (
-        <div className="print-worksheet">
-          {renderHeader('Data Science Pipeline')}
-          <p className="print-instructions">Outline a basic data pipeline for a predictive business problem.</p>
-          
-          <div className="self-profile-form">
-            <div className="form-section">
-              <h3>1. The Business Problem</h3>
-              <p className="form-prompt">What is the core issue you are trying to predict or solve?</p>
-              <div className="dotted-line"></div>
-            </div>
-
-            <div className="form-section">
-              <h3>2. Data Requirements</h3>
-              <p className="form-prompt">What specific datasets or features will you need to train your model?</p>
-              <div className="dotted-line"></div>
-              <div className="dotted-line"></div>
-            </div>
-            
-            <div className="form-section">
-              <h3>3. Algorithm Choice</h3>
-              <p className="form-prompt">Which algorithm or model structure might be best suited for this, and why?</p>
-              <div className="dotted-line"></div>
-              <div className="dotted-line"></div>
+        <>
+          {/* Page 1: The Data Pipeline Roadmap */}
+          <div className="print-worksheet" style={{ pageBreakAfter: 'always' }}>
+            {renderHeader('The Data Pipeline Roadmap')}
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem', marginTop: '3rem', alignItems: 'center', fontFamily: '"Outfit", sans-serif' }}>
+              <div style={{ padding: '1.5rem 3rem', border: '3px solid #4f46e5', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold' }}>Data Collection</div>
+              <div style={{ fontSize: '3rem', color: '#4f46e5', lineHeight: '1' }}>↓</div>
+              <div style={{ padding: '1.5rem 3rem', border: '3px solid #4f46e5', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold' }}>Data Cleaning</div>
+              <div style={{ fontSize: '3rem', color: '#4f46e5', lineHeight: '1' }}>↓</div>
+              <div style={{ padding: '1.5rem 3rem', border: '3px solid #4f46e5', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold' }}>Feature Engineering</div>
+              <div style={{ fontSize: '3rem', color: '#4f46e5', lineHeight: '1' }}>↓</div>
+              <div style={{ padding: '1.5rem 3rem', border: '3px solid #4f46e5', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold' }}>Model Training</div>
+              <div style={{ fontSize: '3rem', color: '#4f46e5', lineHeight: '1' }}>↓</div>
+              <div style={{ padding: '1.5rem 3rem', backgroundColor: '#4f46e5', color: 'white', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold' }}>Deployment & Monitoring</div>
             </div>
           </div>
-        </div>
+
+          {/* Page 2: Activity Worksheet */}
+          <div className="print-worksheet">
+            {renderHeader('Data Science Pipeline Worksheet')}
+            <p className="print-instructions">Outline a basic data pipeline for a predictive business problem.</p>
+            
+            <div className="self-profile-form">
+              <div className="form-section">
+                <h3>1. The Business Problem</h3>
+                <p className="form-prompt">What is the core issue you are trying to predict or solve?</p>
+                <div className="dotted-line"></div>
+              </div>
+
+              <div className="form-section">
+                <h3>2. Data Requirements</h3>
+                <p className="form-prompt">What specific datasets or features will you need to train your model?</p>
+                <div className="dotted-line"></div>
+                <div className="dotted-line"></div>
+              </div>
+              
+              <div className="form-section">
+                <h3>3. Algorithm Choice</h3>
+                <p className="form-prompt">Which algorithm or model structure might be best suited for this, and why?</p>
+                <div className="dotted-line"></div>
+                <div className="dotted-line"></div>
+              </div>
+            </div>
+          </div>
+        </>
       )}
 
       {templateId === 'BCA_CloudArch' && (
-        <div className="print-worksheet">
-          {renderHeader('Cloud Architecture Design')}
-          <p className="print-instructions">Design a basic scalable cloud architecture for a web application.</p>
-          
-          <div className="self-profile-form">
-            <div className="form-section">
-              <h3>1. Compute & Traffic</h3>
-              <p className="form-prompt">How will you handle incoming user traffic and distribute the load?</p>
-              <div className="dotted-line"></div>
-              <div className="dotted-line"></div>
-            </div>
-
-            <div className="form-section">
-              <h3>2. Data Storage</h3>
-              <p className="form-prompt">Where will user data and media files (images/videos) be stored?</p>
-              <div className="dotted-line"></div>
-              <div className="dotted-line"></div>
-            </div>
-            
-            <div className="form-section">
-              <h3>3. Security Measures</h3>
-              <p className="form-prompt">List two security protocols or layers you will implement:</p>
-              <div className="dotted-line"></div>
-              <div className="dotted-line"></div>
+        <>
+          {/* Page 1: The Cloud Architecture Roadmap */}
+          <div className="print-worksheet" style={{ pageBreakAfter: 'always' }}>
+            {renderHeader('Scalable Cloud Architecture Roadmap')}
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem', marginTop: '3rem', alignItems: 'center', fontFamily: '"Outfit", sans-serif' }}>
+              <div style={{ padding: '1.5rem 3rem', border: '3px solid #4f46e5', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold' }}>Client Request</div>
+              <div style={{ fontSize: '3rem', color: '#4f46e5', lineHeight: '1' }}>↓</div>
+              <div style={{ padding: '1.5rem 3rem', border: '3px solid #4f46e5', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold' }}>Load Balancer</div>
+              <div style={{ fontSize: '3rem', color: '#4f46e5', lineHeight: '1' }}>↓</div>
+              <div style={{ padding: '1.5rem 3rem', border: '3px solid #4f46e5', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold' }}>Compute / Web Servers</div>
+              <div style={{ fontSize: '3rem', color: '#4f46e5', lineHeight: '1' }}>↓</div>
+              <div style={{ display: 'flex', gap: '2rem' }}>
+                <div style={{ padding: '1.5rem 3rem', backgroundColor: '#4f46e5', color: 'white', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold', textAlign: 'center' }}>Database & Storage</div>
+                <div style={{ padding: '1.5rem 3rem', backgroundColor: '#4f46e5', color: 'white', borderRadius: '12px', fontSize: '1.5rem', fontWeight: 'bold', textAlign: 'center' }}>Caching Layer</div>
+              </div>
             </div>
           </div>
-        </div>
+
+          {/* Page 2: Worksheet */}
+          <div className="print-worksheet">
+            {renderHeader('Cloud Architecture Design')}
+            <p className="print-instructions">Design a basic scalable cloud architecture for a web application.</p>
+            
+            <div className="self-profile-form">
+              <div className="form-section">
+                <h3>1. Compute & Traffic</h3>
+                <p className="form-prompt">How will you handle incoming user traffic and distribute the load?</p>
+                <div className="dotted-line"></div>
+                <div className="dotted-line"></div>
+              </div>
+
+              <div className="form-section">
+                <h3>2. Data Storage</h3>
+                <p className="form-prompt">Where will user data and media files (images/videos) be stored?</p>
+                <div className="dotted-line"></div>
+                <div className="dotted-line"></div>
+              </div>
+              
+              <div className="form-section">
+                <h3>3. Security Measures</h3>
+                <p className="form-prompt">List two security protocols or layers you will implement:</p>
+                <div className="dotted-line"></div>
+                <div className="dotted-line"></div>
+              </div>
+            </div>
+          </div>
+        </>
       )}
 
       {templateId === 'BCA_PortfolioAudit' && (

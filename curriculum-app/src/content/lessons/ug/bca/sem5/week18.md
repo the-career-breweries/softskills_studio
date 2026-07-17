@@ -51,10 +51,16 @@ You cannot build a career in AI without understanding the underlying math. You d
 
 ## Activity: The Data Pipeline
 
-
-
-
 Outline a data pipeline for a specific business problem (e.g., predicting customer churn).
+
+### The Data Pipeline Roadmap
+```mermaid
+flowchart LR
+    A[Data Collection] --> B[Data Cleaning]
+    B --> C[Feature Engineering]
+    C --> D[Model Training]
+    D --> E[Deployment & Monitoring]
+```
 
 <!-- PRINT: BCA_DataScience -->
 
