@@ -5,6 +5,7 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import mermaid from 'mermaid';
 import PrintTemplates from './PrintTemplates';
+import RandomTopicGenerator from './RandomTopicGenerator';
 
 const Mermaid = ({ chart, theme }: { chart: string, theme: 'light' | 'dark' }) => {
   const ref = React.useRef<HTMLDivElement>(null);
@@ -247,8 +248,16 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
                       }
                     }}
                   >
-                    {slides[currentSlide].replace(/<!-- PRINT: (.*?) -->/g, '').replace(/<!-- PRINT_SLIDE -->/g, '')}
+                    {slides[currentSlide]
+                      .replace(/<!-- PRINT: (.*?) -->/g, '')
+                      .replace(/<!-- PRINT_SLIDE -->/g, '')
+                      .replace(/<!-- TOPIC_GENERATOR -->/g, '')}
                   </ReactMarkdown>
+                )}
+                
+                {/* Render Custom Components Based on Markdown Markers */}
+                {slides.length > 0 && slides[currentSlide].includes('<!-- TOPIC_GENERATOR -->') && (
+                  <RandomTopicGenerator />
                 )}
              </div>
           </div>
