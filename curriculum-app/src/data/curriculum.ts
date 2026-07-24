@@ -51,6 +51,8 @@ const generateUgLevel4 = (stream: string): WeekData[] => {
     // Sem 5 (Weeks 17-20)
     { week: 16.5, semester: 5, level: 4, label: 'Bridge Module', theme: 'Sem 1-4 Master Crash Course', focus: 'Self-awareness, GD, Writing, Interview Basics', task: 'Comprehensive Review', rubric: 'Participation' },
     { week: 16.6, semester: 5, level: 4, label: 'Icebreaker', theme: 'The PREP Method Stand-Up', focus: 'Elocution & Structure', task: 'Group Pitch', rubric: 'Structure, Delivery' },
+    { week: 16.7, semester: 5, level: 4, label: 'Workshop 1', theme: 'Resume Building Masterclass', focus: 'ATS optimization, Action Verbs, Formatting', task: 'First Draft of Resume', rubric: 'Clarity, Professionalism' },
+    { week: 16.8, semester: 5, level: 4, label: 'Workshop 2', theme: 'Interview Preparation Strategies', focus: 'Behavioral questions, STAR method, Body Language', task: 'Mock Interview Practice', rubric: 'Confidence, Structure' },
     { week: 17, semester: 5, level: 4, theme: `${stream}: Traditional Career Paths`, focus: 'Entry barriers, exams, courses', task: 'Traditional career map', rubric: 'Accuracy of path details' },
     { week: 18, semester: 5, level: 4, theme: `${stream}: Modern Career Paths`, focus: 'New tech, emerging roles', task: 'Modern roles research', rubric: 'Relevance to current market' },
     { week: 19, semester: 5, level: 4, theme: `${stream}: Freelancing & Consulting`, focus: 'Gig economy, platforms, skills', task: 'Freelance profile draft', rubric: 'Marketability, skill fit' },
