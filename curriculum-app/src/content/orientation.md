@@ -1,7 +1,5 @@
 # 🎉 Welcome to College!
 
-![Welcome Celebration](https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=1200&auto=format&fit=crop)
-
 **Congratulations!** You are starting a brand new, exciting chapter of your life. 
 
 ---

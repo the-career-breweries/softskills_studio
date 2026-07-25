@@ -6,6 +6,7 @@ import remarkGfm from 'remark-gfm';
 import mermaid from 'mermaid';
 import PrintTemplates from './PrintTemplates';
 import RandomTopicGenerator from './RandomTopicGenerator';
+import confetti from 'canvas-confetti';
 
 const Mermaid = ({ chart, theme }: { chart: string, theme: 'light' | 'dark' }) => {
   const ref = React.useRef<HTMLDivElement>(null);
@@ -195,6 +196,20 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
     
     fetchLesson();
   }, [weekData, program, stream, semester]);
+
+  // Confetti effect for Orientation
+  useEffect(() => {
+    if (weekData?.label === 'Orientation' && currentSlide === 0 && !isLoading) {
+      // Fire confetti bomb
+      confetti({
+        particleCount: 150,
+        spread: 100,
+        origin: { y: 0.6 },
+        colors: ['#4f46e5', '#818cf8', '#c7d2fe', '#ffffff', '#fbbf24'],
+        disableForReducedMotion: true
+      });
+    }
+  }, [weekData, currentSlide, isLoading]);
 
   if (!weekData) return null;
 
