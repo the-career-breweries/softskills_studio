@@ -206,7 +206,8 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
         spread: 100,
         origin: { y: 0.6 },
         colors: ['#4f46e5', '#818cf8', '#c7d2fe', '#ffffff', '#fbbf24'],
-        disableForReducedMotion: true
+        disableForReducedMotion: true,
+        zIndex: 9999
       });
     }
   }, [weekData, currentSlide, isLoading]);
