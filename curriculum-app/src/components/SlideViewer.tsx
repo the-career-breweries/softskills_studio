@@ -202,11 +202,25 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
     <div className={`slide-modal-overlay ${isPrintingSlide ? 'is-printing-slide' : ''}`}>
       <div className="slide-container">
         
-        {/* Floating Bottom Left Watermark */}
-        <div style={{ position: 'absolute', bottom: '2rem', left: '3rem', zIndex: 10 }} className="slide-brand-watermark">
-          <strong>S D Sandarsh</strong><br/>
-          Employability & Softskills Trainer<br/>
-          Training & Placement Officer
+        {/* Giant Background Watermark */}
+        <div 
+          style={{ 
+            position: 'absolute', 
+            top: '50%', 
+            left: '50%', 
+            transform: 'translate(-50%, -50%) rotate(-20deg)', 
+            zIndex: 0, 
+            opacity: 0.05,
+            textAlign: 'center',
+            pointerEvents: 'none',
+            color: 'var(--text-main)',
+            width: '100%',
+            userSelect: 'none'
+          }} 
+        >
+          <div style={{ fontSize: '120px', fontWeight: 900, letterSpacing: '-2px', lineHeight: 1 }}>S D Sandarsh</div>
+          <div style={{ fontSize: '40px', fontWeight: 600, marginTop: '20px', opacity: 0.8 }}>Employability & Softskills Trainer</div>
+          <div style={{ fontSize: '40px', fontWeight: 600, opacity: 0.8 }}>Training & Placement Officer</div>
         </div>
 
         {/* Floating Top Right Controls */}
