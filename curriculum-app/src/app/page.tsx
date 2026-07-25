@@ -13,6 +13,7 @@ export default function CurriculumApp() {
   
   const [selectedStream, setSelectedStream] = useState<string>(streams[0].streamName);
   const [showWelcome, setShowWelcome] = useState<boolean>(true);
+  const [showOrientation, setShowOrientation] = useState<boolean>(false);
   
   // Semesters depend on the program
   const maxSemesters = program === 'ug' ? 6 : 4;
@@ -195,8 +196,21 @@ export default function CurriculumApp() {
 
   return (
     <>
-      {showWelcome ? (
-        <WelcomeScreen program={program} onProgramChange={changeProgram} onNext={() => setShowWelcome(false)} />
+      {showWelcome && !showOrientation ? (
+        <WelcomeScreen program={program} onProgramChange={changeProgram} onNext={() => setShowOrientation(true)} />
+      ) : showOrientation ? (
+        <SlideViewer
+          weekData={{ week: 0, theme: 'Welcome to Softskills Studio', focus: 'Orientation & Roadmap', label: 'Orientation' }}
+          program={program}
+          stream={selectedStream}
+          semester={selectedSemester}
+          activeSection={activeSection}
+          theme={theme}
+          onClose={() => {
+            setShowOrientation(false);
+            setShowWelcome(false);
+          }}
+        />
       ) : (
         <div className="lms-container">
           {/* Top Navbar */}

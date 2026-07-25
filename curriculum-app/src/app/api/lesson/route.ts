@@ -14,6 +14,13 @@ export async function GET(request: Request) {
   }
 
   try {
+    // If week is 0, serve the special orientation presentation
+    if (week === '0' || week === 'orientation') {
+      const filePath = path.join(process.cwd(), 'src', 'content', 'orientation.md');
+      const fileContents = await fs.readFile(filePath, 'utf8');
+      return NextResponse.json({ content: fileContents });
+    }
+
     // Determine the path to the markdown file
     // Example: src/content/lessons/ug/bcom/sem1/week1.md
     
