@@ -5,22 +5,51 @@
 
 Welcome to college! You are starting a brand new chapter of your life. 
 
-This week is all about hitting the pause button and understanding *who you are right now* before the chaos of assignments and exams begins.
+---
 
-**What we will cover today:**
-* **The Transition:** Understanding the leap from high school to higher education.
-* **The Baseline:** Establishing where your soft skills currently stand.
-* **The Johari Window:** A psychological tool to map your self-awareness.
-* **The Goal:** Setting a personal development target for Semester 1.
+# Phase 1: Welcome & Self-Discovery
+
+*   **Superpowers & Secret Fears:** 
+    Take out a piece of paper. (Do NOT write your name).
+    1. Write down **1 Superpower** (a personal strength: e.g., 'I am a good listener').
+    2. Write down **1 Secret Fear** about college or your future career (e.g., 'I freeze on stage').
+    
+Pass your paper to the aisle. We will read a few out loud. You are not alone!
 
 ---
 
-# Why Start With Self-Awareness?
+# Phase 2: The Reality Check
 
+**Raise your hand if you think graduating with a degree in three years guarantees you a good job.**
 
+A degree gets your resume looked at. But your communication, your confidence, and your attitude are what actually get you hired. 
 
+My name is **S D Sandarsh**, your Training & Placement Officer, and my job is to make sure you have both.
 
-The transition from high school to college can feel overwhelming. Everything is new—new friends, new routines, new expectations.
+---
+
+# Phase 3: The Solution — Softskills Studio
+
+This is not a lecture class. This is your **laboratory**. 
+
+You don't get stronger by watching someone else lift weights, and you don't build confidence by watching me talk. 
+
+This is a completely **No-Judgment Zone**. Making a mistake, stuttering, or saying the wrong thing is actively encouraged—because it means you are trying.
+
+---
+
+# Phase 4: The Golden Rules
+
+1. **The Back Row is a Myth:** Participation is non-negotiable. Everyone will speak in this class.
+2. **Respect the Effort:** Mistakes are celebrated here. Mocking a classmate who is trying is strictly prohibited. 
+3. **Show Up as a Professional:** Treat this studio like your first corporate job.
+
+---
+
+# Moving Forward: Self-Awareness
+
+Now that we know the rules, let's look inward.
+The transition from high school to college can feel overwhelming. 
 
 When you understand your own personality and habits, navigating these changes becomes so much easier.
 
