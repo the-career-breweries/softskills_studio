@@ -402,60 +402,65 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
                 )}
 
                 {slides.length > 0 && slides[currentSlide].includes('<!-- WELCOME_ANIMATIONS -->') && (
-                  <div className="welcome-animations" style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', pointerEvents: 'none', overflow: 'hidden', zIndex: 0 }}>
+                  <div className="slide-content-wrapper" style={{ position: 'relative', width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
                     <style>
                       {`
+                        @keyframes sway {
+                          0% { transform: rotate(-3deg); }
+                          50% { transform: rotate(3deg); }
+                          100% { transform: rotate(-3deg); }
+                        }
                         @keyframes float1 {
                           0% { transform: translateY(0px) rotate(-5deg); }
-                          50% { transform: translateY(-30px) rotate(5deg); }
+                          50% { transform: translateY(-15px) rotate(5deg); }
                           100% { transform: translateY(0px) rotate(-5deg); }
                         }
-                        @keyframes float2 {
-                          0% { transform: translateY(0px) rotate(5deg) scale(1); }
-                          50% { transform: translateY(30px) rotate(-5deg) scale(1.1); }
-                          100% { transform: translateY(0px) rotate(5deg) scale(1); }
+                        .hanging-decoration {
+                          position: absolute;
+                          top: -10px;
+                          animation: sway 4s ease-in-out infinite;
+                          transform-origin: top center;
+                          filter: drop-shadow(0 5px 15px rgba(0,0,0,0.2));
                         }
-                        @keyframes spinPulse {
-                          0% { transform: scale(1) rotate(0deg); }
-                          50% { transform: scale(1.2) rotate(180deg); }
-                          100% { transform: scale(1) rotate(360deg); }
-                        }
-                        .meme-gif {
+                        .corner-meme {
                           position: absolute;
                           border-radius: 15px;
-                          box-shadow: 0 15px 35px rgba(0,0,0,0.4);
+                          box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+                          width: 200px;
+                          height: 140px;
                           object-fit: cover;
-                          opacity: 0.9;
+                          animation: float1 5s infinite;
+                          opacity: 0.85;
                         }
                         .social-icon {
                           position: absolute;
-                          width: 80px;
-                          height: 80px;
-                          filter: drop-shadow(0 10px 15px rgba(0,0,0,0.3));
+                          width: 60px;
+                          height: 60px;
+                          filter: drop-shadow(0 10px 15px rgba(0,0,0,0.2));
+                          opacity: 0.9;
                         }
                       `}
                     </style>
 
-                    {/* Social Media Icons */}
-                    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" className="social-icon" alt="TikTok" style={{ top: '15%', left: '8%', animation: 'float1 4s infinite' }} />
-                    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" className="social-icon" alt="Instagram" style={{ top: '20%', right: '10%', animation: 'float2 5s infinite' }} />
-                    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" className="social-icon" alt="YouTube" style={{ bottom: '25%', left: '12%', animation: 'spinPulse 6s infinite' }} />
-                    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" className="social-icon" alt="Twitter" style={{ bottom: '15%', right: '15%', animation: 'float1 3.5s infinite' }} />
+                    {/* Party Bunting/Garland across the top */}
+                    <img src="https://cdn-icons-png.flaticon.com/512/3063/3063071.png" style={{ position: 'absolute', top: '-15px', left: '5%', width: '40%', filter: 'drop-shadow(0 5px 10px rgba(0,0,0,0.1))', opacity: 0.8 }} alt="Bunting" />
+                    <img src="https://cdn-icons-png.flaticon.com/512/3063/3063071.png" style={{ position: 'absolute', top: '-15px', right: '5%', width: '40%', filter: 'drop-shadow(0 5px 10px rgba(0,0,0,0.1))', opacity: 0.8 }} alt="Bunting" />
 
-                    {/* Crazy Memes & GIFs */}
-                    {/* Minions */}
-                    <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" className="meme-gif" style={{ top: '10%', left: '20%', width: '220px', height: '150px', animation: 'float2 6s infinite' }} />
-                    {/* Kermit Flailing */}
-                    <img src="https://media.giphy.com/media/13hxeOYjoTWtK8/giphy.gif" className="meme-gif" style={{ top: '5%', right: '25%', width: '200px', height: '180px', animation: 'float1 5s infinite' }} />
-                    {/* Neil deGrasse Tyson Mind Blown */}
-                    <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" className="meme-gif" style={{ bottom: '10%', left: '25%', width: '240px', height: '160px', animation: 'float1 7s infinite' }} />
-                    {/* Jonah Hill Excited */}
-                    <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" className="meme-gif" style={{ bottom: '5%', right: '28%', width: '220px', height: '160px', animation: 'float2 4.5s infinite' }} />
-                    {/* Spongebob Rainbow */}
-                    <img src="https://media.giphy.com/media/SKGo6OYe24EBG/giphy.gif" className="meme-gif" style={{ top: '40%', left: '5%', width: '180px', height: '140px', animation: 'float1 5.5s infinite' }} />
-                    {/* Fireworks */}
-                    <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" className="meme-gif" style={{ top: '35%', right: '3%', width: '250px', height: '150px', animation: 'float2 5s infinite', opacity: 0.7 }} />
+                    {/* Hanging balloons (Top Corners) */}
+                    <img src="https://cdn-icons-png.flaticon.com/512/4762/4762311.png" className="hanging-decoration" style={{ left: '2%', width: '130px' }} alt="Balloons" />
+                    <img src="https://cdn-icons-png.flaticon.com/512/4762/4762311.png" className="hanging-decoration" style={{ right: '2%', width: '130px', animationDelay: '1.5s' }} alt="Balloons" />
+
+                    {/* Social Media Icons (Mid-edges) */}
+                    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" className="social-icon" alt="TikTok" style={{ top: '35%', left: '4%', animation: 'float1 4s infinite' }} />
+                    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" className="social-icon" alt="Instagram" style={{ top: '55%', right: '4%', animation: 'float1 5s infinite 1s' }} />
+                    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" className="social-icon" alt="YouTube" style={{ top: '30%', right: '6%', animation: 'float1 4.5s infinite 2s' }} />
+
+                    {/* Corner Memes (Bottom Edges) */}
+                    <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" className="corner-meme" style={{ bottom: '3%', left: '3%' }} alt="Minions" />
+                    <img src="https://media.giphy.com/media/SKGo6OYe24EBG/giphy.gif" className="corner-meme" style={{ bottom: '3%', right: '3%', animationDelay: '2s' }} alt="Spongebob" />
                     
+                    {/* Bottom Center-ish Fireworks (pushed very low so it doesn't block text) */}
+                    <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" className="corner-meme" style={{ bottom: '-2%', left: '40%', opacity: 0.5, animationDelay: '1s' }} alt="Fireworks" />
                   </div>
                 )}
                 
