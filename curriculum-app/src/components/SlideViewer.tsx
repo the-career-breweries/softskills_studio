@@ -200,15 +200,35 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
   // Confetti effect for Orientation
   useEffect(() => {
     if (weekData?.label === 'Orientation' && currentSlide === 0 && !isLoading) {
-      // Fire confetti bomb
-      confetti({
-        particleCount: 150,
-        spread: 100,
-        origin: { y: 0.6 },
-        colors: ['#4f46e5', '#818cf8', '#c7d2fe', '#ffffff', '#fbbf24'],
-        disableForReducedMotion: true,
-        zIndex: 9999
-      });
+      // Fire continuous fireworks for 3 seconds
+      const duration = 3000;
+      const end = Date.now() + duration;
+
+      const frame = () => {
+        confetti({
+          particleCount: 5,
+          angle: 60,
+          spread: 55,
+          origin: { x: 0, y: 0.8 },
+          colors: ['#4f46e5', '#818cf8', '#c7d2fe', '#fbbf24', '#ef4444'],
+          zIndex: 9999,
+          disableForReducedMotion: true
+        });
+        confetti({
+          particleCount: 5,
+          angle: 120,
+          spread: 55,
+          origin: { x: 1, y: 0.8 },
+          colors: ['#4f46e5', '#818cf8', '#c7d2fe', '#fbbf24', '#ef4444'],
+          zIndex: 9999,
+          disableForReducedMotion: true
+        });
+
+        if (Date.now() < end) {
+          requestAnimationFrame(frame);
+        }
+      };
+      frame();
     }
   }, [weekData, currentSlide, isLoading]);
 
@@ -350,7 +370,7 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
                       },
                       img({ node, alt, src, ...props }: any) {
                         if (src?.includes('notoemoji')) {
-                          return <img src={src} alt={alt} style={{ width: '1.2em', height: '1.2em', verticalAlign: 'middle', display: 'inline-block', margin: '0 0.1em' }} {...props} />;
+                          return <img src={src} alt={alt} style={{ width: '1.2em', height: '1.2em', verticalAlign: 'middle', display: 'inline-block', margin: '0 0.1em', mixBlendMode: 'multiply' }} {...props} />;
                         }
                         return (
                           <img 
@@ -382,11 +402,28 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
                 )}
 
                 {slides.length > 0 && slides[currentSlide].includes('<!-- WELCOME_ANIMATIONS -->') && (
-                  <div className="welcome-animations" style={{ display: 'flex', justifyContent: 'center', gap: '3rem', marginTop: '4rem', alignItems: 'center' }}>
-                    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="120" height="120" alt="Rocket" style={{ animation: 'bounce 2s infinite' }} />
-                    <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" alt="Minions Cheering" style={{ borderRadius: '20px', width: '250px', height: '180px', objectFit: 'cover', boxShadow: '0 10px 30px rgba(0,0,0,0.3)' }} />
-                    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f929/512.gif" width="120" height="120" alt="Star Struck" style={{ animation: 'pulse 2s infinite' }} />
-                    <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Spongebob" style={{ borderRadius: '20px', width: '250px', height: '180px', objectFit: 'cover', boxShadow: '0 10px 30px rgba(0,0,0,0.3)' }} />
+                  <div className="welcome-animations" style={{ display: 'flex', flexDirection: 'column', gap: '2rem', marginTop: '3rem', alignItems: 'center' }}>
+                    
+                    {/* Top Row: Crazy Party Emojis */}
+                    <div style={{ display: 'flex', gap: '3rem', justifyContent: 'center', alignItems: 'center' }}>
+                      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="120" height="120" alt="Rocket" style={{ animation: 'bounce 2s infinite', mixBlendMode: 'multiply' }} />
+                      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f929/512.gif" width="120" height="120" alt="Star Struck" style={{ animation: 'pulse 2s infinite', mixBlendMode: 'multiply' }} />
+                      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="120" height="120" alt="Fire" style={{ animation: 'bounce 2s infinite 1s', mixBlendMode: 'multiply' }} />
+                      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" width="120" height="120" alt="Party" style={{ animation: 'pulse 2s infinite 1s', mixBlendMode: 'multiply' }} />
+                    </div>
+
+                    {/* Bottom Row: Memes and GIFs */}
+                    <div style={{ display: 'flex', gap: '2rem', justifyContent: 'center', flexWrap: 'wrap' }}>
+                      {/* Minions Cheering */}
+                      <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" alt="Minions Cheering" style={{ borderRadius: '20px', width: '220px', height: '160px', objectFit: 'cover', boxShadow: '0 10px 30px rgba(0,0,0,0.3)' }} />
+                      {/* Firecrackers / Fireworks */}
+                      <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Fireworks" style={{ borderRadius: '20px', width: '220px', height: '160px', objectFit: 'cover', boxShadow: '0 10px 30px rgba(0,0,0,0.3)' }} />
+                      {/* Drum Playing Animal */}
+                      <img src="https://media.giphy.com/media/3o85xGv8E9r72Nq1iM/giphy.gif" alt="Drumming" style={{ borderRadius: '20px', width: '220px', height: '160px', objectFit: 'cover', boxShadow: '0 10px 30px rgba(0,0,0,0.3)' }} />
+                      {/* Spongebob */}
+                      <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Spongebob" style={{ borderRadius: '20px', width: '220px', height: '160px', objectFit: 'cover', boxShadow: '0 10px 30px rgba(0,0,0,0.3)' }} />
+                    </div>
+
                   </div>
                 )}
                 
