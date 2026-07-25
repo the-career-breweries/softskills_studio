@@ -2203,14 +2203,18 @@ export default function PrintTemplates({ templateId }: PrintTemplatesProps) {
           <p className="print-instructions">Review both resumes and discuss which one is more effective and why.</p>
           
           <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem', marginTop: '1rem' }}>
-            <div>
+            <div style={{ pageBreakInside: 'avoid' }}>
               <h3 style={{ borderBottom: '2px solid #ccc', paddingBottom: '0.5rem', marginBottom: '1rem' }}>Resume Sample A</h3>
-              <img src="/images/bad-resume.png" style={{ width: '100%', border: '1px solid #eee' }} alt="Resume A" />
+              <div style={{ textAlign: 'center' }}>
+                <img src="/images/bad-resume.png" style={{ maxWidth: '100%', maxHeight: '70vh', width: 'auto', height: 'auto', border: '1px solid #eee' }} alt="Resume A" />
+              </div>
             </div>
             
-            <div style={{ pageBreakBefore: 'always' }}>
+            <div style={{ pageBreakBefore: 'always', pageBreakInside: 'avoid' }}>
               <h3 style={{ borderBottom: '2px solid #ccc', paddingBottom: '0.5rem', marginBottom: '1rem' }}>Resume Sample B</h3>
-              <img src="/images/good-resume.png" style={{ width: '100%', border: '1px solid #eee' }} alt="Resume B" />
+              <div style={{ textAlign: 'center' }}>
+                <img src="/images/good-resume.png" style={{ maxWidth: '100%', maxHeight: '70vh', width: 'auto', height: 'auto', border: '1px solid #eee' }} alt="Resume B" />
+              </div>
             </div>
           </div>
         </div>
