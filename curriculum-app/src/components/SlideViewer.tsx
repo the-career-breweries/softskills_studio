@@ -354,7 +354,6 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
              </div>
           </div>
         )}
-        )}
         
         {/* Hidden print templates container */}
         <div className="print-only">
