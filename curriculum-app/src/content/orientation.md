@@ -1,4 +1,6 @@
-# 🎉 Welcome to College!
+# ![🎉](https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif) Welcome to College!
+
+<!-- WELCOME_ANIMATIONS -->
 
 **Congratulations!** You are starting a brand new, exciting chapter of your life. 
 

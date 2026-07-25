@@ -349,6 +349,9 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
                         return <p {...props}>{children}</p>;
                       },
                       img({ node, alt, src, ...props }: any) {
+                        if (src?.includes('notoemoji')) {
+                          return <img src={src} alt={alt} style={{ width: '1.2em', height: '1.2em', verticalAlign: 'middle', display: 'inline-block', margin: '0 0.1em' }} {...props} />;
+                        }
                         return (
                           <img 
                             src={src} 
@@ -367,13 +370,24 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
                     {slides[currentSlide]
                       .replace(/<!-- PRINT: (.*?) -->/g, '')
                       .replace(/<!-- PRINT_SLIDE -->/g, '')
-                      .replace(/<!-- TOPIC_GENERATOR -->/g, '')}
+                      .replace(/<!-- TOPIC_GENERATOR -->/g, '')
+                      .replace(/<!-- WELCOME_ANIMATIONS -->/g, '')}
                   </ReactMarkdown>
                 )}
                 
                 {/* Render Custom Components Based on Markdown Markers */}
+                
                 {slides.length > 0 && slides[currentSlide].includes('<!-- TOPIC_GENERATOR -->') && (
                   <RandomTopicGenerator />
+                )}
+
+                {slides.length > 0 && slides[currentSlide].includes('<!-- WELCOME_ANIMATIONS -->') && (
+                  <div className="welcome-animations" style={{ display: 'flex', justifyContent: 'center', gap: '3rem', marginTop: '4rem', alignItems: 'center' }}>
+                    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="120" height="120" alt="Rocket" style={{ animation: 'bounce 2s infinite' }} />
+                    <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" alt="Minions Cheering" style={{ borderRadius: '20px', width: '250px', height: '180px', objectFit: 'cover', boxShadow: '0 10px 30px rgba(0,0,0,0.3)' }} />
+                    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f929/512.gif" width="120" height="120" alt="Star Struck" style={{ animation: 'pulse 2s infinite' }} />
+                    <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Spongebob" style={{ borderRadius: '20px', width: '250px', height: '180px', objectFit: 'cover', boxShadow: '0 10px 30px rgba(0,0,0,0.3)' }} />
+                  </div>
                 )}
                 
                 {activeSection && currentSlide === slides.length - 1 && (
