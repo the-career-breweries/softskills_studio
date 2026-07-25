@@ -71,6 +71,15 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
   const [isPrintingSlide, setIsPrintingSlide] = useState(false);
   const [zoomedImage, setZoomedImage] = useState<string | null>(null);
   const [zoomLevel, setZoomLevel] = useState(1);
+  const [pan, setPan] = useState({ x: 0, y: 0 });
+  const [isDragging, setIsDragging] = useState(false);
+  const [hasDragged, setHasDragged] = useState(false);
+  const [dragStart, setDragStart] = useState({ x: 0, y: 0 });
+  
+  useEffect(() => {
+    if (zoomLevel <= 1) setPan({ x: 0, y: 0 });
+  }, [zoomLevel]);
+  
   const hasMermaid = slides.length > 0 && slides[currentSlide]?.includes('```mermaid');
   const hasPrintSlideMarker = slides.length > 0 && slides[currentSlide]?.includes('<!-- PRINT_SLIDE -->');
   
@@ -365,19 +374,19 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
         >
           <div style={{ position: 'absolute', top: '20px', right: '20px', display: 'flex', gap: '1rem', zIndex: 100000 }}>
             <button 
-              onClick={() => setZoomLevel(prev => Math.max(0.5, prev - 0.25))}
+              onClick={(e) => { e.stopPropagation(); setZoomLevel(prev => Math.max(1, prev - 0.5)); }}
               style={{ background: '#333', color: 'white', border: 'none', padding: '10px', borderRadius: '5px', cursor: 'pointer', display: 'flex', alignItems: 'center' }}
             >
               <ZoomOut size={24} />
             </button>
             <button 
-              onClick={() => setZoomLevel(prev => Math.min(3, prev + 0.25))}
+              onClick={(e) => { e.stopPropagation(); setZoomLevel(prev => Math.min(4, prev + 0.5)); }}
               style={{ background: '#333', color: 'white', border: 'none', padding: '10px', borderRadius: '5px', cursor: 'pointer', display: 'flex', alignItems: 'center' }}
             >
               <ZoomIn size={24} />
             </button>
             <button 
-              onClick={() => setZoomedImage(null)}
+              onClick={(e) => { e.stopPropagation(); setZoomedImage(null); setZoomLevel(1); setPan({x:0, y:0}); }}
               style={{ background: '#ef4444', color: 'white', border: 'none', padding: '10px', borderRadius: '5px', cursor: 'pointer', display: 'flex', alignItems: 'center' }}
             >
               <X size={24} />
@@ -386,22 +395,43 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
           
           <div 
             style={{ 
-              width: '100%', height: '100%', overflow: 'auto', 
+              width: '100%', height: '100%', overflow: 'hidden', 
               display: 'flex', alignItems: 'center', justifyContent: 'center',
-              cursor: 'zoom-in'
+              cursor: isDragging ? 'grabbing' : (zoomLevel > 1 ? 'grab' : 'zoom-in')
             }}
-            onClick={() => setZoomLevel(prev => Math.min(3, prev + 0.5))}
+            onMouseDown={(e) => {
+              e.preventDefault();
+              setHasDragged(false);
+              if (zoomLevel > 1) {
+                setIsDragging(true);
+                setDragStart({ x: e.clientX - pan.x, y: e.clientY - pan.y });
+              }
+            }}
+            onMouseMove={(e) => {
+              if (isDragging && zoomLevel > 1) {
+                setHasDragged(true);
+                setPan({ x: e.clientX - dragStart.x, y: e.clientY - dragStart.y });
+              }
+            }}
+            onMouseUp={() => {
+              setIsDragging(false);
+              if (!hasDragged) {
+                 if (zoomLevel < 3) setZoomLevel(prev => prev + 1);
+                 else setZoomLevel(1);
+              }
+            }}
+            onMouseLeave={() => setIsDragging(false)}
           >
             <img 
               src={zoomedImage} 
               alt="Zoomed" 
               style={{ 
-                transform: `scale(${zoomLevel})`, 
-                transition: 'transform 0.2s ease-out',
+                transform: `translate(${pan.x}px, ${pan.y}px) scale(${zoomLevel})`, 
+                transition: isDragging ? 'none' : 'transform 0.2s ease-out',
                 maxWidth: '90%', maxHeight: '90%',
-                objectFit: 'contain'
+                objectFit: 'contain',
+                pointerEvents: 'none'
               }}
-              onClick={(e) => e.stopPropagation()} 
             />
           </div>
         </div>
