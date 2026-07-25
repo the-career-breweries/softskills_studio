@@ -202,8 +202,8 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
     <div className={`slide-modal-overlay ${isPrintingSlide ? 'is-printing-slide' : ''}`}>
       <div className="slide-container">
         
-        {/* Floating Top Left Watermark */}
-        <div style={{ position: 'absolute', top: '2rem', left: '3rem', zIndex: 10 }} className="slide-brand-watermark">
+        {/* Floating Bottom Left Watermark */}
+        <div style={{ position: 'absolute', bottom: '2rem', left: '3rem', zIndex: 10 }} className="slide-brand-watermark">
           <strong>S D Sandarsh</strong><br/>
           Employability & Softskills Trainer<br/>
           Training & Placement Officer
