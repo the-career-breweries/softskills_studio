@@ -43,6 +43,6 @@ This is your **gym**. You don't get stronger by watching someone else lift weigh
 
 ---
 
-# Let's get to work.
+# Let the fun begin!
 
 In three years, you won't just be graduates. You will be professionals ready to command a boardroom.
