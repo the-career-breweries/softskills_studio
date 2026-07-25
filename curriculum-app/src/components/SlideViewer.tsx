@@ -402,28 +402,60 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
                 )}
 
                 {slides.length > 0 && slides[currentSlide].includes('<!-- WELCOME_ANIMATIONS -->') && (
-                  <div className="welcome-animations" style={{ display: 'flex', flexDirection: 'column', gap: '2rem', marginTop: '3rem', alignItems: 'center' }}>
+                  <div className="welcome-animations" style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', pointerEvents: 'none', overflow: 'hidden', zIndex: 0 }}>
+                    <style>
+                      {`
+                        @keyframes float1 {
+                          0% { transform: translateY(0px) rotate(-5deg); }
+                          50% { transform: translateY(-30px) rotate(5deg); }
+                          100% { transform: translateY(0px) rotate(-5deg); }
+                        }
+                        @keyframes float2 {
+                          0% { transform: translateY(0px) rotate(5deg) scale(1); }
+                          50% { transform: translateY(30px) rotate(-5deg) scale(1.1); }
+                          100% { transform: translateY(0px) rotate(5deg) scale(1); }
+                        }
+                        @keyframes spinPulse {
+                          0% { transform: scale(1) rotate(0deg); }
+                          50% { transform: scale(1.2) rotate(180deg); }
+                          100% { transform: scale(1) rotate(360deg); }
+                        }
+                        .meme-gif {
+                          position: absolute;
+                          border-radius: 15px;
+                          box-shadow: 0 15px 35px rgba(0,0,0,0.4);
+                          object-fit: cover;
+                          opacity: 0.9;
+                        }
+                        .social-icon {
+                          position: absolute;
+                          width: 80px;
+                          height: 80px;
+                          filter: drop-shadow(0 10px 15px rgba(0,0,0,0.3));
+                        }
+                      `}
+                    </style>
+
+                    {/* Social Media Icons */}
+                    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" className="social-icon" alt="TikTok" style={{ top: '15%', left: '8%', animation: 'float1 4s infinite' }} />
+                    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" className="social-icon" alt="Instagram" style={{ top: '20%', right: '10%', animation: 'float2 5s infinite' }} />
+                    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" className="social-icon" alt="YouTube" style={{ bottom: '25%', left: '12%', animation: 'spinPulse 6s infinite' }} />
+                    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" className="social-icon" alt="Twitter" style={{ bottom: '15%', right: '15%', animation: 'float1 3.5s infinite' }} />
+
+                    {/* Crazy Memes & GIFs */}
+                    {/* Minions */}
+                    <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" className="meme-gif" style={{ top: '10%', left: '20%', width: '220px', height: '150px', animation: 'float2 6s infinite' }} />
+                    {/* Kermit Flailing */}
+                    <img src="https://media.giphy.com/media/13hxeOYjoTWtK8/giphy.gif" className="meme-gif" style={{ top: '5%', right: '25%', width: '200px', height: '180px', animation: 'float1 5s infinite' }} />
+                    {/* Neil deGrasse Tyson Mind Blown */}
+                    <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" className="meme-gif" style={{ bottom: '10%', left: '25%', width: '240px', height: '160px', animation: 'float1 7s infinite' }} />
+                    {/* Jonah Hill Excited */}
+                    <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" className="meme-gif" style={{ bottom: '5%', right: '28%', width: '220px', height: '160px', animation: 'float2 4.5s infinite' }} />
+                    {/* Spongebob Rainbow */}
+                    <img src="https://media.giphy.com/media/SKGo6OYe24EBG/giphy.gif" className="meme-gif" style={{ top: '40%', left: '5%', width: '180px', height: '140px', animation: 'float1 5.5s infinite' }} />
+                    {/* Fireworks */}
+                    <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" className="meme-gif" style={{ top: '35%', right: '3%', width: '250px', height: '150px', animation: 'float2 5s infinite', opacity: 0.7 }} />
                     
-                    {/* Top Row: Crazy Party Emojis */}
-                    <div style={{ display: 'flex', gap: '3rem', justifyContent: 'center', alignItems: 'center' }}>
-                      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="120" height="120" alt="Rocket" style={{ animation: 'bounce 2s infinite', mixBlendMode: 'multiply' }} />
-                      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f929/512.gif" width="120" height="120" alt="Star Struck" style={{ animation: 'pulse 2s infinite', mixBlendMode: 'multiply' }} />
-                      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="120" height="120" alt="Fire" style={{ animation: 'bounce 2s infinite 1s', mixBlendMode: 'multiply' }} />
-                      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" width="120" height="120" alt="Party" style={{ animation: 'pulse 2s infinite 1s', mixBlendMode: 'multiply' }} />
-                    </div>
-
-                    {/* Bottom Row: Memes and GIFs */}
-                    <div style={{ display: 'flex', gap: '2rem', justifyContent: 'center', flexWrap: 'wrap' }}>
-                      {/* Minions Cheering */}
-                      <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" alt="Minions Cheering" style={{ borderRadius: '20px', width: '220px', height: '160px', objectFit: 'cover', boxShadow: '0 10px 30px rgba(0,0,0,0.3)' }} />
-                      {/* Firecrackers / Fireworks */}
-                      <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Fireworks" style={{ borderRadius: '20px', width: '220px', height: '160px', objectFit: 'cover', boxShadow: '0 10px 30px rgba(0,0,0,0.3)' }} />
-                      {/* Drum Playing Animal */}
-                      <img src="https://media.giphy.com/media/3o85xGv8E9r72Nq1iM/giphy.gif" alt="Drumming" style={{ borderRadius: '20px', width: '220px', height: '160px', objectFit: 'cover', boxShadow: '0 10px 30px rgba(0,0,0,0.3)' }} />
-                      {/* Spongebob */}
-                      <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Spongebob" style={{ borderRadius: '20px', width: '220px', height: '160px', objectFit: 'cover', boxShadow: '0 10px 30px rgba(0,0,0,0.3)' }} />
-                    </div>
-
                   </div>
                 )}
                 
