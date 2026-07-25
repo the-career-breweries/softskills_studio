@@ -1016,9 +1016,6 @@ html, body {
 }
 
 .session-complete-btn {
-  position: absolute;
-  top: -80px;
-  right: 40px;
   background: var(--accent-primary);
   color: white;
   border: none;
