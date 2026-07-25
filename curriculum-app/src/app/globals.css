@@ -939,8 +939,8 @@ html, body {
   object-fit: cover;
 }
 
-.markdown-slide img[alt="Bad Resume Example"],
-.markdown-slide img[alt="Good Resume Example"] {
+.markdown-slide img[alt="Resume Sample A"],
+.markdown-slide img[alt="Resume Sample B"] {
   float: none;
   display: inline-block;
   width: 45%;

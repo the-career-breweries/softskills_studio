@@ -2197,6 +2197,25 @@ export default function PrintTemplates({ templateId }: PrintTemplatesProps) {
         </div>
       )}
 
+      {templateId === 'ResumeComparisonPrintout' && (
+        <div className="print-worksheet">
+          {renderHeader('Resume Comparison Activity')}
+          <p className="print-instructions">Review both resumes and discuss which one is more effective and why.</p>
+          
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem', marginTop: '1rem' }}>
+            <div>
+              <h3 style={{ borderBottom: '2px solid #ccc', paddingBottom: '0.5rem', marginBottom: '1rem' }}>Resume Sample A</h3>
+              <img src="/images/bad-resume.png" style={{ width: '100%', border: '1px solid #eee' }} alt="Resume A" />
+            </div>
+            
+            <div style={{ pageBreakBefore: 'always' }}>
+              <h3 style={{ borderBottom: '2px solid #ccc', paddingBottom: '0.5rem', marginBottom: '1rem' }}>Resume Sample B</h3>
+              <img src="/images/good-resume.png" style={{ width: '100%', border: '1px solid #eee' }} alt="Resume B" />
+            </div>
+          </div>
+        </div>
+      )}
+
       {templateId === 'InterviewPrep' && (
         <div className="print-worksheet">
           {renderHeader('Interview Preparation')}
