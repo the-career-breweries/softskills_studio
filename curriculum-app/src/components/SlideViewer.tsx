@@ -201,9 +201,62 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
   return (
     <div className={`slide-modal-overlay ${isPrintingSlide ? 'is-printing-slide' : ''}`}>
       <div className="slide-container">
-        <button className="close-btn" onClick={onClose} aria-label="Close Presentation">
-          <X size={40} />
-        </button>
+        
+        {/* Floating Top Left Watermark */}
+        <div style={{ position: 'absolute', top: '2rem', left: '3rem', zIndex: 10 }} className="slide-brand-watermark">
+          <strong>S D Sandarsh</strong><br/>
+          Employability & Softskills Trainer<br/>
+          Training & Placement Officer
+        </div>
+
+        {/* Floating Top Right Controls */}
+        <div style={{ position: 'absolute', top: '2rem', right: '2rem', display: 'flex', gap: '1rem', zIndex: 10, alignItems: 'center' }}>
+          {(printTemplateId || hasMermaid || hasPrintSlideMarker) && (
+            <button 
+              onClick={() => {
+                if ((hasMermaid || hasPrintSlideMarker) && !printTemplateId) {
+                  setIsPrintingSlide(true);
+                  setTimeout(() => {
+                    window.print();
+                    setIsPrintingSlide(false);
+                  }, 100);
+                } else {
+                  window.print();
+                }
+              }}
+              className="nav-btn print-btn-trigger"
+              title="Print Slide or Worksheet"
+              style={{ background: 'rgba(0,0,0,0.4)', padding: '0.5rem', borderRadius: '50%' }}
+            >
+              <Printer size={32} />
+            </button>
+          )}
+          <button className="nav-btn" onClick={onClose} aria-label="Close Presentation" style={{ background: 'rgba(0,0,0,0.4)', padding: '0.5rem', borderRadius: '50%' }}>
+            <X size={32} />
+          </button>
+        </div>
+
+        {/* Floating Left Arrow */}
+        {!isLoading && slides.length > 0 && currentSlide > 0 && (
+          <button 
+            onClick={() => setCurrentSlide(prev => Math.max(prev - 1, 0))}
+            className="nav-btn"
+            style={{ position: 'absolute', top: '50%', left: '2rem', transform: 'translateY(-50%)', zIndex: 10, background: 'rgba(0,0,0,0.4)', borderRadius: '50%', padding: '0.5rem' }}
+          >
+            <ChevronLeft size={48} />
+          </button>
+        )}
+
+        {/* Floating Right Arrow */}
+        {!isLoading && slides.length > 0 && currentSlide < slides.length - 1 && (
+          <button 
+            onClick={() => setCurrentSlide(prev => Math.min(prev + 1, slides.length - 1))}
+            className="nav-btn"
+            style={{ position: 'absolute', top: '50%', right: '2rem', transform: 'translateY(-50%)', zIndex: 10, background: 'rgba(0,0,0,0.4)', borderRadius: '50%', padding: '0.5rem' }}
+          >
+            <ChevronRight size={48} />
+          </button>
+        )}
 
         {isLoading ? (
           <div className="slide-content" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
@@ -292,69 +345,15 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
                 {slides.length > 0 && slides[currentSlide].includes('<!-- TOPIC_GENERATOR -->') && (
                   <RandomTopicGenerator />
                 )}
+                
+                {activeSection && currentSlide === slides.length - 1 && (
+                  <button onClick={handleSessionComplete} className="session-complete-btn" style={{ position: 'absolute', bottom: '2rem', right: '2rem' }}>
+                    Mark Session Complete
+                  </button>
+                )}
              </div>
           </div>
         )}
-
-        {!isLoading && slides.length > 0 && (
-          <div className="slide-controls">
-            <div style={{ display: 'flex', alignItems: 'center', gap: '2rem' }}>
-              <button 
-                onClick={() => setCurrentSlide(prev => Math.max(prev - 1, 0))}
-                disabled={currentSlide === 0}
-                className="nav-btn"
-              >
-                <ChevronLeft size={48} />
-              </button>
-              
-              <div className="slide-brand-watermark">
-                <strong>S D Sandarsh</strong><br/>
-                Employability & Softskills Trainer<br/>
-                Training & Placement Officer
-              </div>
-            </div>
-            
-            <div className="slide-indicators">
-              {slides.map((_, i) => (
-                <div key={i} className={`indicator ${i === currentSlide ? 'active' : ''}`} />
-              ))}
-            </div>
-
-            <div style={{ display: 'flex', gap: '1rem' }}>
-              {(printTemplateId || hasMermaid || hasPrintSlideMarker) && (
-                <button 
-                  onClick={() => {
-                    if ((hasMermaid || hasPrintSlideMarker) && !printTemplateId) {
-                      setIsPrintingSlide(true);
-                      setTimeout(() => {
-                        window.print();
-                        setIsPrintingSlide(false);
-                      }, 100);
-                    } else {
-                      window.print();
-                    }
-                  }}
-                  className="nav-btn print-btn-trigger"
-                  title="Print Slide or Worksheet"
-                >
-                  <Printer size={32} />
-                </button>
-              )}
-              <button 
-                onClick={() => setCurrentSlide(prev => Math.min(prev + 1, slides.length - 1))}
-                disabled={currentSlide === slides.length - 1}
-                className="nav-btn"
-              >
-                <ChevronRight size={48} />
-              </button>
-            </div>
-            
-            {activeSection && currentSlide === slides.length - 1 && (
-              <button onClick={handleSessionComplete} className="session-complete-btn">
-                Mark Session Complete
-              </button>
-            )}
-          </div>
         )}
         
         {/* Hidden print templates container */}
