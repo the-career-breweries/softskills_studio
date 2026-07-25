@@ -19,8 +19,8 @@ Before we start building, here is what makes a resume stand out:
 
 # Resume Examples: Full View
 
-![Bad Resume Example](/images/bad-resume.png)
-![Good Resume Example](/images/good-resume.png)
+![Bad Resume Example](/images/bad-resume.jpg)
+![Good Resume Example](/images/good-resume.jpg)
 
 ---
 
