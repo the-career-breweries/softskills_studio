@@ -91,33 +91,18 @@ export default function PrintTemplates({ templateId }: PrintTemplatesProps) {
 
           {/* PAGE 3 */}
           <div style={{ paddingTop: '2rem' }}>
-            {renderHeader('Master Worksheet: The 3-Year Roadmap')}
-            <p className="print-instructions">You don't get stronger by watching someone else lift weights. Set your goals.</p>
+            {renderHeader('Master Worksheet: Your Story')}
+            <p className="print-instructions">If you are a writer, write. If you are an artist, draw or sketch. Do anything. This is a blank canvas of your life.</p>
             
             <div className="self-profile-form">
-              <div className="form-section">
-                <h3>1. The Vision</h3>
-                <p className="form-prompt">Fast forward to graduation day. What does success look like for you? (Be specific about the role, the industry, and your mindset)</p>
-                <div className="blank-space large"></div>
-              </div>
-              <div className="form-section">
-                <h3>2. The Commitment</h3>
-                <p className="form-prompt">I commit to the following three golden rules for this studio:</p>
-                <ol className="print-list" style={{ marginTop: '1rem' }}>
-                  <li style={{ marginBottom: '1.5rem' }}>Participation is non-negotiable. I will step out of my comfort zone.</li>
-                  <li style={{ marginBottom: '1.5rem' }}>I will respect the effort of my peers and celebrate mistakes as learning opportunities.</li>
-                  <li style={{ marginBottom: '1.5rem' }}>I will show up as a professional in punctuality, attendance, and attitude.</li>
-                </ol>
-              </div>
-              <div className="form-section" style={{ marginTop: '3rem', display: 'flex', justifyContent: 'space-between' }}>
-                <div style={{ width: '45%' }}>
-                  <div style={{ borderBottom: '1px solid black', marginBottom: '0.5rem' }}></div>
-                  <div style={{ textAlign: 'center', fontSize: '0.8rem', textTransform: 'uppercase', letterSpacing: '1px' }}>Signature</div>
-                </div>
-                <div style={{ width: '45%' }}>
-                  <div style={{ borderBottom: '1px solid black', marginBottom: '0.5rem' }}></div>
-                  <div style={{ textAlign: 'center', fontSize: '0.8rem', textTransform: 'uppercase', letterSpacing: '1px' }}>Date</div>
-                </div>
+              <div style={{ 
+                border: '2px solid black', 
+                height: '750px', 
+                width: '100%', 
+                marginTop: '2rem',
+                backgroundColor: 'white' 
+              }}>
+                {/* Blank Canvas Box */}
               </div>
             </div>
           </div>
