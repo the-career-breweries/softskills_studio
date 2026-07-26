@@ -53,3 +53,5 @@ This is your **gym**. You don't get stronger by watching someone else lift weigh
 Now that the serious stuff is out of the way, it's time to actually build these skills. Softskills Studio is going to be the most interactive, high-energy class of your week.
 
 In three years, you won't just be graduates. You will be professionals ready to command a boardroom.
+
+<!-- PRINT: OrientationMaster -->

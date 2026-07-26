@@ -20,6 +20,91 @@ export default function PrintTemplates({ templateId }: PrintTemplatesProps) {
 
   return (
     <div className="print-container">
+      {templateId === 'OrientationMaster' && (
+        <div className="print-worksheet">
+          {/* PAGE 1 */}
+          <div style={{ pageBreakAfter: 'always' }}>
+            {renderHeader('Master Worksheet: Self-Discovery')}
+            <p className="print-instructions">Welcome to College! Let's start by mapping out your baseline.</p>
+            
+            <div className="self-profile-form">
+              <div className="form-section">
+                <h3>1. My Superpower</h3>
+                <p className="form-prompt">What is one personal strength you bring to the table? (e.g., I am a good listener, I learn quickly, I am resilient)</p>
+                <div className="blank-space medium"></div>
+              </div>
+              <div className="form-section">
+                <h3>2. My Secret Fear</h3>
+                <p className="form-prompt">What is one thing about college or your future career that makes you nervous? (e.g., Public speaking, managing time, networking)</p>
+                <div className="blank-space medium"></div>
+              </div>
+              <div className="form-section">
+                <h3>3. The Origin Story</h3>
+                <p className="form-prompt">Describe a moment in your life where you had to rely on your superpower.</p>
+                <div className="blank-space large"></div>
+              </div>
+            </div>
+          </div>
+
+          {/* PAGE 2 */}
+          <div style={{ pageBreakAfter: 'always', paddingTop: '2rem' }}>
+            {renderHeader('Master Worksheet: The Reality Check')}
+            <p className="print-instructions">A degree gets your resume looked at. Your skills get you hired.</p>
+            
+            <div className="self-profile-form">
+              <div className="form-section">
+                <h3>1. Skill Assessment</h3>
+                <p className="form-prompt">On a scale of 1-10, where do you currently rate yourself in the following areas?</p>
+                <ul className="print-list" style={{ listStyleType: 'none', paddingLeft: 0, marginTop: '1rem' }}>
+                  <li style={{ marginBottom: '1.5rem' }}><strong>Public Speaking:</strong> _____ / 10</li>
+                  <li style={{ marginBottom: '1.5rem' }}><strong>Team Collaboration:</strong> _____ / 10</li>
+                  <li style={{ marginBottom: '1.5rem' }}><strong>Business Writing:</strong> _____ / 10</li>
+                  <li style={{ marginBottom: '1.5rem' }}><strong>Emotional Intelligence:</strong> _____ / 10</li>
+                </ul>
+              </div>
+              <div className="form-section">
+                <h3>2. The Gap Analysis</h3>
+                <p className="form-prompt">Looking at your lowest score above, what is ONE specific thing you can do this semester to improve it?</p>
+                <div className="blank-space medium"></div>
+              </div>
+            </div>
+          </div>
+
+          {/* PAGE 3 */}
+          <div style={{ paddingTop: '2rem' }}>
+            {renderHeader('Master Worksheet: The 3-Year Roadmap')}
+            <p className="print-instructions">You don't get stronger by watching someone else lift weights. Set your goals.</p>
+            
+            <div className="self-profile-form">
+              <div className="form-section">
+                <h3>1. The Vision</h3>
+                <p className="form-prompt">Fast forward to graduation day. What does success look like for you? (Be specific about the role, the industry, and your mindset)</p>
+                <div className="blank-space large"></div>
+              </div>
+              <div className="form-section">
+                <h3>2. The Commitment</h3>
+                <p className="form-prompt">I commit to the following three golden rules for this studio:</p>
+                <ol className="print-list" style={{ marginTop: '1rem' }}>
+                  <li style={{ marginBottom: '1.5rem' }}>Participation is non-negotiable. I will step out of my comfort zone.</li>
+                  <li style={{ marginBottom: '1.5rem' }}>I will respect the effort of my peers and celebrate mistakes as learning opportunities.</li>
+                  <li style={{ marginBottom: '1.5rem' }}>I will show up as a professional in punctuality, attendance, and attitude.</li>
+                </ol>
+              </div>
+              <div className="form-section" style={{ marginTop: '3rem', display: 'flex', justifyContent: 'space-between' }}>
+                <div style={{ width: '45%' }}>
+                  <div style={{ borderBottom: '1px solid black', marginBottom: '0.5rem' }}></div>
+                  <div style={{ textAlign: 'center', fontSize: '0.8rem', textTransform: 'uppercase', letterSpacing: '1px' }}>Signature</div>
+                </div>
+                <div style={{ width: '45%' }}>
+                  <div style={{ borderBottom: '1px solid black', marginBottom: '0.5rem' }}></div>
+                  <div style={{ textAlign: 'center', fontSize: '0.8rem', textTransform: 'uppercase', letterSpacing: '1px' }}>Date</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
       {templateId === 'ExecutiveSummary' && (
         <div className="print-worksheet">
           {renderHeader('The Executive Summary')}
