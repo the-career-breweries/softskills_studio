@@ -76,6 +76,7 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
   const [isDragging, setIsDragging] = useState(false);
   const [hasDragged, setHasDragged] = useState(false);
   const [dragStart, setDragStart] = useState({ x: 0, y: 0 });
+  const [confettiActive, setConfettiActive] = useState(true);
   
   useEffect(() => {
     if (zoomLevel <= 1) setPan({ x: 0, y: 0 });
@@ -152,6 +153,8 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
         setCurrentSlide(prev => Math.max(prev - 1, 0));
       } else if (e.key === 'Escape' || e.key === 'c' || e.key === 'C') {
         onClose();
+      } else if (e.key === 's' || e.key === 'S') {
+        setConfettiActive(false);
       }
     };
     window.addEventListener('keydown', handleKeyDown);
@@ -197,17 +200,14 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
     fetchLesson();
   }, [weekData, program, stream, semester]);
 
-  // Confetti effect for Orientation
+  // Confetti effect
   useEffect(() => {
-    let animationFrameId: number;
-    let isActive = true;
+    let intervalId: NodeJS.Timeout;
 
-    if (weekData?.label === 'Orientation' && currentSlide === 0 && !isLoading) {
-      const frame = () => {
-        if (!isActive) return;
-
+    if (weekData?.label === 'Orientation' && confettiActive && !isLoading) {
+      intervalId = setInterval(() => {
         confetti({
-          particleCount: 5,
+          particleCount: 15,
           angle: 60,
           spread: 55,
           origin: { x: 0, y: 0.8 },
@@ -216,7 +216,7 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
           disableForReducedMotion: true
         });
         confetti({
-          particleCount: 5,
+          particleCount: 15,
           angle: 120,
           spread: 55,
           origin: { x: 1, y: 0.8 },
@@ -224,20 +224,15 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
           zIndex: 9999,
           disableForReducedMotion: true
         });
-
-        animationFrameId = requestAnimationFrame(frame);
-      };
-      
-      frame();
+      }, 250); // Fire every 250ms to prevent browser crashing while maintaining a continuous stream
     }
 
     return () => {
-      isActive = false;
-      if (animationFrameId) {
-        cancelAnimationFrame(animationFrameId);
+      if (intervalId) {
+        clearInterval(intervalId);
       }
     };
-  }, [weekData, currentSlide, isLoading]);
+  }, [weekData, confettiActive, isLoading]);
 
   if (!weekData) return null;
 
