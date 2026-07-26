@@ -402,65 +402,93 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
                 )}
 
                 {slides.length > 0 && slides[currentSlide].includes('<!-- WELCOME_ANIMATIONS -->') && (
-                  <div className="slide-content-wrapper" style={{ position: 'relative', width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+                  <div className="welcome-animations" style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', pointerEvents: 'none', overflow: 'hidden', zIndex: 0 }}>
                     <style>
                       {`
-                        @keyframes sway {
-                          0% { transform: rotate(-3deg); }
-                          50% { transform: rotate(3deg); }
-                          100% { transform: rotate(-3deg); }
+                        @keyframes float {
+                          0% { transform: translateY(0px) rotate(-2deg); }
+                          50% { transform: translateY(-15px) rotate(2deg); }
+                          100% { transform: translateY(0px) rotate(-2deg); }
                         }
-                        @keyframes float1 {
-                          0% { transform: translateY(0px) rotate(-5deg); }
-                          50% { transform: translateY(-15px) rotate(5deg); }
-                          100% { transform: translateY(0px) rotate(-5deg); }
-                        }
-                        .hanging-decoration {
+                        .sketch-element {
                           position: absolute;
-                          top: -10px;
-                          animation: sway 4s ease-in-out infinite;
-                          transform-origin: top center;
-                          filter: drop-shadow(0 5px 15px rgba(0,0,0,0.2));
-                        }
-                        .corner-meme {
-                          position: absolute;
-                          border-radius: 15px;
-                          box-shadow: 0 10px 25px rgba(0,0,0,0.3);
-                          width: 200px;
-                          height: 140px;
-                          object-fit: cover;
-                          animation: float1 5s infinite;
-                          opacity: 0.85;
-                        }
-                        .social-icon {
-                          position: absolute;
-                          width: 60px;
-                          height: 60px;
+                          animation: float 5s infinite;
+                          object-fit: contain;
                           filter: drop-shadow(0 10px 15px rgba(0,0,0,0.2));
                           opacity: 0.9;
+                        }
+                        .sketch-meme {
+                          position: absolute;
+                          border-radius: 12px;
+                          box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+                          animation: float 6s infinite;
+                          object-fit: cover;
+                          opacity: 0.9;
+                        }
+                        .slang-bubble {
+                          position: absolute;
+                          background: white;
+                          border: 3px solid black;
+                          border-radius: 50%;
+                          padding: 10px 20px;
+                          font-weight: bold;
+                          font-size: 1.2rem;
+                          font-family: 'Comic Sans MS', cursive, sans-serif;
+                          color: black;
+                          animation: float 4s infinite;
+                          box-shadow: 4px 4px 0px rgba(0,0,0,0.2);
                         }
                       `}
                     </style>
 
-                    {/* Party Bunting/Garland across the top */}
-                    <img src="https://cdn-icons-png.flaticon.com/512/3063/3063071.png" style={{ position: 'absolute', top: '-15px', left: '5%', width: '40%', filter: 'drop-shadow(0 5px 10px rgba(0,0,0,0.1))', opacity: 0.8 }} alt="Bunting" />
-                    <img src="https://cdn-icons-png.flaticon.com/512/3063/3063071.png" style={{ position: 'absolute', top: '-15px', right: '5%', width: '40%', filter: 'drop-shadow(0 5px 10px rgba(0,0,0,0.1))', opacity: 0.8 }} alt="Bunting" />
+                    {/* Edge Streamers */}
+                    <img src="https://cdn-icons-png.flaticon.com/512/5063/5063162.png" style={{ position: 'absolute', top: '0', left: '-5%', height: '100%', opacity: 0.3 }} alt="Streamers Left" />
+                    <img src="https://cdn-icons-png.flaticon.com/512/5063/5063162.png" style={{ position: 'absolute', top: '0', right: '-5%', height: '100%', transform: 'scaleX(-1)', opacity: 0.3 }} alt="Streamers Right" />
 
-                    {/* Hanging balloons (Top Corners) */}
-                    <img src="https://cdn-icons-png.flaticon.com/512/4762/4762311.png" className="hanging-decoration" style={{ left: '2%', width: '130px' }} alt="Balloons" />
-                    <img src="https://cdn-icons-png.flaticon.com/512/4762/4762311.png" className="hanging-decoration" style={{ right: '2%', width: '130px', animationDelay: '1.5s' }} alt="Balloons" />
-
-                    {/* Social Media Icons (Mid-edges) */}
-                    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" className="social-icon" alt="TikTok" style={{ top: '35%', left: '4%', animation: 'float1 4s infinite' }} />
-                    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" className="social-icon" alt="Instagram" style={{ top: '55%', right: '4%', animation: 'float1 5s infinite 1s' }} />
-                    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" className="social-icon" alt="YouTube" style={{ top: '30%', right: '6%', animation: 'float1 4.5s infinite 2s' }} />
-
-                    {/* Corner Memes (Bottom Edges) */}
-                    <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" className="corner-meme" style={{ bottom: '3%', left: '3%' }} alt="Minions" />
-                    <img src="https://media.giphy.com/media/SKGo6OYe24EBG/giphy.gif" className="corner-meme" style={{ bottom: '3%', right: '3%', animationDelay: '2s' }} alt="Spongebob" />
+                    {/* Top Left: Confetti Bomb */}
+                    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" className="sketch-element" style={{ top: '5%', left: '15%', width: '120px', mixBlendMode: 'multiply' }} alt="Confetti Bomb" />
                     
-                    {/* Bottom Center-ish Fireworks (pushed very low so it doesn't block text) */}
-                    <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" className="corner-meme" style={{ bottom: '-2%', left: '40%', opacity: 0.5, animationDelay: '1s' }} alt="Fireworks" />
+                    {/* Top Right: Firecrackers */}
+                    <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" className="sketch-meme" style={{ top: '5%', right: '15%', width: '180px', height: '120px', borderRadius: '50%' }} alt="Firecrackers" />
+
+                    {/* Mid Left: Minions */}
+                    <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" className="sketch-meme" style={{ top: '30%', left: '8%', width: '200px', height: '140px', transform: 'rotate(-5deg)' }} alt="Minions" />
+                    
+                    {/* Below Minions: Gen Z Memes (Monkey puppet) */}
+                    <img src="https://media.giphy.com/media/H5C8CevNMbpBqNqFjl/giphy.gif" className="sketch-meme" style={{ top: '55%', left: '10%', width: '180px', height: '140px', animationDelay: '1s', borderRadius: '50%' }} alt="Gen Z Meme" />
+
+                    {/* Mid Center Left: Whip Cream Sprayer */}
+                    <div className="slang-bubble" style={{ top: '45%', left: '28%', borderRadius: '50px', fontSize: '1rem', padding: '15px' }}>Whip<br/>Cream<br/>Sprayer</div>
+
+                    {/* Center Bottom: Cake on Table */}
+                    <div style={{ position: 'absolute', bottom: '15%', left: '50%', transform: 'translateX(-50%)', display: 'flex', flexDirection: 'column', alignItems: 'center', animation: 'float 7s infinite' }}>
+                      <img src="https://cdn-icons-png.flaticon.com/512/3014/3014411.png" style={{ width: '120px', zIndex: 2, marginBottom: '-10px' }} alt="Cake" />
+                      <div style={{ width: '250px', height: '60px', border: '3px solid black', borderBottom: 'none', background: 'rgba(255,255,255,0.7)', borderTopLeftRadius: '5px', borderTopRightRadius: '5px' }}></div>
+                      <div style={{ display: 'flex', justifyContent: 'space-between', width: '230px' }}>
+                        <div style={{ width: '3px', height: '60px', background: 'black' }}></div>
+                        <div style={{ width: '3px', height: '60px', background: 'black' }}></div>
+                      </div>
+                    </div>
+
+                    {/* Mid Right: Garfield */}
+                    <div className="slang-bubble" style={{ top: '40%', right: '28%', borderRadius: '50px' }}>Garfield</div>
+
+                    {/* Mid Right (below Garfield): Party Poppers */}
+                    <div className="slang-bubble" style={{ top: '45%', right: '15%', clipPath: 'polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 25% 100%, 0% 60%, 10% 20%)', borderRadius: '0', background: 'yellow', padding: '30px 20px', textAlign: 'center' }}>Party<br/>Poppers</div>
+
+                    {/* Bottom Right: Mr Bean */}
+                    <div className="slang-bubble" style={{ bottom: '25%', right: '8%', borderRadius: '10px', padding: '20px 30px' }}>Mr. Bean<br/>meme</div>
+
+                    {/* Gen Z Slang Bubbles (Bottom Area) */}
+                    <div className="slang-bubble" style={{ bottom: '20%', left: '15%', animationDelay: '0.5s' }}>67</div>
+                    <div className="slang-bubble" style={{ bottom: '5%', left: '18%', animationDelay: '1s' }}>67 memes</div>
+                    <div className="slang-bubble" style={{ bottom: '2%', left: '30%', animationDelay: '1.5s' }}>Gen Z Slangs</div>
+                    
+                    <div className="slang-bubble" style={{ bottom: '15%', left: '42%', animationDelay: '2s', borderRadius: '30px' }}>jus chill</div>
+                    <div className="slang-bubble" style={{ bottom: '2%', left: '45%', animationDelay: '2.5s', borderRadius: '30px' }}>macha</div>
+                    
+                    <div className="slang-bubble" style={{ bottom: '15%', right: '30%', animationDelay: '0.2s', borderRadius: '30px' }}>ASAP</div>
+                    <div className="slang-bubble" style={{ bottom: '5%', right: '22%', animationDelay: '0.8s', borderRadius: '30px' }}>!!!Tomorrow!!!</div>
                   </div>
                 )}
                 
