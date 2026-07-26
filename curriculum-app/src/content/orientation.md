@@ -1,10 +1,10 @@
 # Welcome to College!
 
-**Congratulations... for making it till here!**
+**Congratulations for making it here!**
 
-Let's begin brand new chapter of our lives.....
+This is the beginning of an exciting new chapter in your life. 
 
-<!-- WELCOME_ANIMATIONS --> 
+Let the fun begin! 🚀
 
 ---
 

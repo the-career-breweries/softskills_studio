@@ -328,9 +328,9 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
                  ⚠️ {error}. Displaying fallback curriculum data.
                </div>
              )}
-             <div className="slide-body" style={{ position: 'relative', backgroundImage: 'radial-gradient(#e5e7eb 1px, transparent 1px)', backgroundSize: '40px 40px' }}>
+             <div className="slide-body">
                 {slides.length > 0 && (
-                  <div style={{ position: 'relative', zIndex: 10, width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+                  <div style={{ position: 'relative', width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
                     <ReactMarkdown 
                     remarkPlugins={[remarkGfm]}
                     components={{
@@ -401,95 +401,6 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
                 
                 {slides.length > 0 && slides[currentSlide].includes('<!-- TOPIC_GENERATOR -->') && (
                   <RandomTopicGenerator />
-                )}
-
-                {slides.length > 0 && slides[currentSlide].includes('<!-- WELCOME_ANIMATIONS -->') && (
-                  <div className="welcome-animations" style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', pointerEvents: 'none', overflow: 'hidden', zIndex: 0 }}>
-                    <style>
-                      {`
-                        @keyframes float {
-                          0% { transform: translateY(0px) rotate(-2deg); }
-                          50% { transform: translateY(-15px) rotate(2deg); }
-                          100% { transform: translateY(0px) rotate(-2deg); }
-                        }
-                        .sketch-element {
-                          position: absolute;
-                          animation: float 5s infinite;
-                          object-fit: contain;
-                          filter: drop-shadow(0 10px 15px rgba(0,0,0,0.2));
-                          opacity: 0.9;
-                        }
-                        .sketch-meme {
-                          position: absolute;
-                          border-radius: 12px;
-                          box-shadow: 0 10px 25px rgba(0,0,0,0.3);
-                          animation: float 6s infinite;
-                          object-fit: cover;
-                          opacity: 0.9;
-                        }
-                        .slang-bubble {
-                          position: absolute;
-                          background: white;
-                          border: 3px solid black;
-                          border-radius: 50%;
-                          padding: 10px 20px;
-                          font-weight: bold;
-                          font-size: 1.2rem;
-                          font-family: 'Comic Sans MS', cursive, sans-serif;
-                          color: black;
-                          animation: float 4s infinite;
-                          box-shadow: 4px 4px 0px rgba(0,0,0,0.2);
-                        }
-                      `}
-                    </style>
-
-                    {/* Faint Confetti Background Pattern to fill white space */}
-                    <div style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', backgroundImage: 'url(https://cdn-icons-png.flaticon.com/512/3159/3159461.png)', backgroundSize: '150px', opacity: 0.15, zIndex: -1, animation: 'float 10s infinite linear' }}></div>
-
-                    {/* Edge Streamers */}
-                    <img src="https://cdn-icons-png.flaticon.com/512/5063/5063162.png" style={{ position: 'absolute', top: '0', left: '-5%', height: '100%', opacity: 0.3 }} alt="Streamers Left" />
-                    <img src="https://cdn-icons-png.flaticon.com/512/5063/5063162.png" style={{ position: 'absolute', top: '0', right: '-5%', height: '100%', transform: 'scaleX(-1)', opacity: 0.3 }} alt="Streamers Right" />
-
-                    {/* Top Left: Confetti Bomb */}
-                    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" className="sketch-element" style={{ top: '5%', left: '15%', width: '120px', mixBlendMode: 'multiply' }} alt="Confetti Bomb" />
-                    
-                    {/* Top Right: Firecrackers */}
-                    <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" className="sketch-meme" style={{ top: '5%', right: '15%', width: '180px', height: '120px', borderRadius: '50%' }} alt="Firecrackers" />
-
-                    {/* Mid Left: Minions */}
-                    <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" className="sketch-meme" style={{ top: '30%', left: '8%', width: '200px', height: '140px', transform: 'rotate(-5deg)' }} alt="Minions" />
-                    
-                    {/* Below Minions: Gen Z Memes (AI Dog) */}
-                    <img src="/images/genz_meme_dog.jpg" className="sketch-meme" style={{ top: '55%', left: '10%', width: '180px', height: '140px', animationDelay: '1s', borderRadius: '50%' }} alt="Gen Z Meme" />
-
-                    {/* Mid Center Left: Whip Cream Sprayer */}
-                    <img src="/images/whip_cream_sprayer.jpg" className="sketch-meme" style={{ top: '45%', left: '28%', width: '140px', height: '140px', borderRadius: '50%' }} alt="Whip Cream" />
-
-                    {/* Center Bottom: Cake on Table */}
-                    <div style={{ position: 'absolute', bottom: '10%', left: '50%', transform: 'translateX(-50%)', display: 'flex', flexDirection: 'column', alignItems: 'center', animation: 'float 7s infinite' }}>
-                      <img src="/images/college_welcome_cake.jpg" className="sketch-meme" style={{ width: '280px', height: '220px', position: 'relative', borderRadius: '20px', boxShadow: '0 20px 40px rgba(0,0,0,0.5)', zIndex: 2 }} alt="Massive Cake" />
-                    </div>
-
-                    {/* Mid Right: Garfield (AI Orange Cat) */}
-                    <img src="/images/orange_party_cat.jpg" className="sketch-meme" style={{ top: '40%', right: '28%', width: '150px', height: '150px', borderRadius: '50%' }} alt="Garfield" />
-
-                    {/* Mid Right (below Garfield): Party Poppers (AI Image) */}
-                    <img src="/images/party_poppers_explosion.jpg" className="sketch-meme" style={{ top: '45%', right: '12%', width: '160px', height: '140px', borderRadius: '15px', animationDelay: '1.5s', zIndex: 5 }} alt="Party Poppers" />
-
-                    {/* Bottom Right: Mr Bean (AI Funny Man) */}
-                    <img src="/images/funny_suit_man.jpg" className="sketch-meme" style={{ bottom: '25%', right: '8%', width: '180px', height: '140px', borderRadius: '15px' }} alt="Funny Man" />
-
-                    {/* Gen Z Slang Bubbles (Bottom Area) */}
-                    <div className="slang-bubble" style={{ bottom: '20%', left: '15%', animationDelay: '0.5s' }}>67</div>
-                    <div className="slang-bubble" style={{ bottom: '5%', left: '18%', animationDelay: '1s' }}>67 memes</div>
-                    <div className="slang-bubble" style={{ bottom: '2%', left: '30%', animationDelay: '1.5s' }}>Gen Z Slangs</div>
-                    
-                    <div className="slang-bubble" style={{ bottom: '15%', left: '42%', animationDelay: '2s', borderRadius: '30px' }}>jus chill</div>
-                    <div className="slang-bubble" style={{ bottom: '2%', left: '45%', animationDelay: '2.5s', borderRadius: '30px' }}>macha</div>
-                    
-                    <div className="slang-bubble" style={{ bottom: '15%', right: '30%', animationDelay: '0.2s', borderRadius: '30px' }}>ASAP</div>
-                    <div className="slang-bubble" style={{ bottom: '5%', right: '22%', animationDelay: '0.8s', borderRadius: '30px' }}>!!!Tomorrow!!!</div>
-                  </div>
                 )}
                 
                 {activeSection && currentSlide === slides.length - 1 && (
