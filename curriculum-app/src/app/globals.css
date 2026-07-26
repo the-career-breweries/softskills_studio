@@ -1122,11 +1122,12 @@ html, body {
   display: none;
 }
 
-@page {
-  margin: 0;
-}
-
 @media print {
+  @page {
+    size: auto;
+    margin: 0mm;
+  }
+
   /* Hide the entire app background and UI */
   body, html, #__next, .lms-container {
     background: white !important;
