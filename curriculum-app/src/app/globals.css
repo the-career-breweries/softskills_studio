@@ -679,7 +679,7 @@ html, body {
 }
 
 @media print {
-  @page { margin: 0.5cm; }
+  @page { margin: 0; }
   
   /* Print visibility logic is handled by display: none on background elements */
   
@@ -699,7 +699,7 @@ html, body {
     font-family: Arial, Helvetica, sans-serif;
     color: black;
     background: white;
-    padding: 1cm;
+    padding: 1.5cm;
     font-size: 12pt;
   }
 
@@ -1166,7 +1166,7 @@ html, body {
   }
 
   /* Hide slide content and controls */
-  .slide-content, .slide-controls, .close-btn {
+  .slide-content, .slide-controls, .close-btn, .nav-btn, .session-complete-btn {
     display: none !important;
   }
 
