@@ -14,6 +14,8 @@ export default function CurriculumApp() {
   const [selectedStream, setSelectedStream] = useState<string>(streams[0].streamName);
   const [showWelcome, setShowWelcome] = useState<boolean>(true);
   const [showOrientation, setShowOrientation] = useState<boolean>(false);
+  const [isUnlocked, setIsUnlocked] = useState<boolean>(false);
+  const [passkey, setPasskey] = useState<string>('');
   
   // Semesters depend on the program
   const maxSemesters = program === 'ug' ? 6 : 4;
@@ -193,6 +195,35 @@ export default function CurriculumApp() {
       setIsSearching(false);
     }
   };
+
+  if (!isUnlocked) {
+    return (
+      <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', height: '100vh', background: 'var(--bg-app)', color: 'var(--text-main)' }}>
+        <h2 style={{ fontSize: '2rem', marginBottom: '1rem' }}>Enter Access Code</h2>
+        <input 
+          type="password" 
+          value={passkey} 
+          onChange={(e) => {
+            setPasskey(e.target.value);
+            if (e.target.value === '2525') setIsUnlocked(true);
+          }} 
+          autoFocus
+          style={{ 
+            padding: '1rem', 
+            fontSize: '2rem', 
+            textAlign: 'center', 
+            letterSpacing: '0.5em', 
+            borderRadius: '12px', 
+            border: '2px solid var(--border-color)', 
+            background: 'var(--surface-glass)',
+            color: 'var(--text-main)',
+            width: '300px',
+            outline: 'none'
+          }}
+        />
+      </div>
+    );
+  }
 
   return (
     <>

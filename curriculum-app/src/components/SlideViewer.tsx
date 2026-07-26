@@ -155,6 +155,8 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
         onClose();
       } else if (e.key === 's' || e.key === 'S') {
         setConfettiActive(false);
+      } else if (e.key === 'b' || e.key === 'B') {
+        setConfettiActive(true);
       }
     };
     window.addEventListener('keydown', handleKeyDown);
