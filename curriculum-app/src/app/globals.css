@@ -679,7 +679,6 @@ html, body {
 }
 
 @media print {
-  @page { margin: 0; }
   
   /* Print visibility logic is handled by display: none on background elements */
   
@@ -1121,6 +1120,10 @@ html, body {
 
 .print-only {
   display: none;
+}
+
+@page {
+  margin: 0 !important;
 }
 
 @media print {
