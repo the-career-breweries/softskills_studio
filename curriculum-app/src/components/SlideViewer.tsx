@@ -454,30 +454,25 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
                     {/* Mid Left: Minions */}
                     <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" className="sketch-meme" style={{ top: '30%', left: '8%', width: '200px', height: '140px', transform: 'rotate(-5deg)' }} alt="Minions" />
                     
-                    {/* Below Minions: Gen Z Memes (Monkey puppet) */}
-                    <img src="https://media.giphy.com/media/H5C8CevNMbpBqNqFjl/giphy.gif" className="sketch-meme" style={{ top: '55%', left: '10%', width: '180px', height: '140px', animationDelay: '1s', borderRadius: '50%' }} alt="Gen Z Meme" />
+                    {/* Below Minions: Gen Z Memes (AI Dog) */}
+                    <img src="/images/genz_meme_dog.jpg" className="sketch-meme" style={{ top: '55%', left: '10%', width: '180px', height: '140px', animationDelay: '1s', borderRadius: '50%' }} alt="Gen Z Meme" />
 
                     {/* Mid Center Left: Whip Cream Sprayer */}
-                    <div className="slang-bubble" style={{ top: '45%', left: '28%', borderRadius: '50px', fontSize: '1rem', padding: '15px' }}>Whip<br/>Cream<br/>Sprayer</div>
+                    <img src="/images/whip_cream_sprayer.jpg" className="sketch-meme" style={{ top: '45%', left: '28%', width: '140px', height: '140px', borderRadius: '50%' }} alt="Whip Cream" />
 
                     {/* Center Bottom: Cake on Table */}
-                    <div style={{ position: 'absolute', bottom: '15%', left: '50%', transform: 'translateX(-50%)', display: 'flex', flexDirection: 'column', alignItems: 'center', animation: 'float 7s infinite' }}>
-                      <img src="https://cdn-icons-png.flaticon.com/512/3014/3014411.png" style={{ width: '120px', zIndex: 2, marginBottom: '-10px' }} alt="Cake" />
-                      <div style={{ width: '250px', height: '60px', border: '3px solid black', borderBottom: 'none', background: 'rgba(255,255,255,0.7)', borderTopLeftRadius: '5px', borderTopRightRadius: '5px' }}></div>
-                      <div style={{ display: 'flex', justifyContent: 'space-between', width: '230px' }}>
-                        <div style={{ width: '3px', height: '60px', background: 'black' }}></div>
-                        <div style={{ width: '3px', height: '60px', background: 'black' }}></div>
-                      </div>
+                    <div style={{ position: 'absolute', bottom: '10%', left: '50%', transform: 'translateX(-50%)', display: 'flex', flexDirection: 'column', alignItems: 'center', animation: 'float 7s infinite' }}>
+                      <img src="/images/college_welcome_cake.jpg" className="sketch-meme" style={{ width: '280px', height: '220px', position: 'relative', borderRadius: '20px', boxShadow: '0 20px 40px rgba(0,0,0,0.5)', zIndex: 2 }} alt="Massive Cake" />
                     </div>
 
-                    {/* Mid Right: Garfield */}
-                    <div className="slang-bubble" style={{ top: '40%', right: '28%', borderRadius: '50px' }}>Garfield</div>
+                    {/* Mid Right: Garfield (AI Orange Cat) */}
+                    <img src="/images/orange_party_cat.jpg" className="sketch-meme" style={{ top: '40%', right: '28%', width: '150px', height: '150px', borderRadius: '50%' }} alt="Garfield" />
 
                     {/* Mid Right (below Garfield): Party Poppers */}
                     <div className="slang-bubble" style={{ top: '45%', right: '15%', clipPath: 'polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 25% 100%, 0% 60%, 10% 20%)', borderRadius: '0', background: 'yellow', padding: '30px 20px', textAlign: 'center' }}>Party<br/>Poppers</div>
 
-                    {/* Bottom Right: Mr Bean */}
-                    <div className="slang-bubble" style={{ bottom: '25%', right: '8%', borderRadius: '10px', padding: '20px 30px' }}>Mr. Bean<br/>meme</div>
+                    {/* Bottom Right: Mr Bean (AI Funny Man) */}
+                    <img src="/images/funny_suit_man.jpg" className="sketch-meme" style={{ bottom: '25%', right: '8%', width: '180px', height: '140px', borderRadius: '15px' }} alt="Funny Man" />
 
                     {/* Gen Z Slang Bubbles (Bottom Area) */}
                     <div className="slang-bubble" style={{ bottom: '20%', left: '15%', animationDelay: '0.5s' }}>67</div>
