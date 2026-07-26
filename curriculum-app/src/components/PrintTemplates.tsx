@@ -48,24 +48,43 @@ export default function PrintTemplates({ templateId }: PrintTemplatesProps) {
 
           {/* PAGE 2 */}
           <div style={{ pageBreakAfter: 'always', paddingTop: '2rem' }}>
-            {renderHeader('Master Worksheet: The Reality Check')}
-            <p className="print-instructions">A degree gets your resume looked at. Your skills get you hired.</p>
+            {renderHeader('Master Worksheet: The Johari Window')}
+            <p className="print-instructions">Understanding self-awareness. Fill out the quadrants below by asking a peer for feedback.</p>
             
-            <div className="self-profile-form">
-              <div className="form-section">
-                <h3>1. Skill Assessment</h3>
-                <p className="form-prompt">On a scale of 1-10, where do you currently rate yourself in the following areas?</p>
-                <ul className="print-list" style={{ listStyleType: 'none', paddingLeft: 0, marginTop: '1rem' }}>
-                  <li style={{ marginBottom: '1.5rem' }}><strong>Public Speaking:</strong> _____ / 10</li>
-                  <li style={{ marginBottom: '1.5rem' }}><strong>Team Collaboration:</strong> _____ / 10</li>
-                  <li style={{ marginBottom: '1.5rem' }}><strong>Business Writing:</strong> _____ / 10</li>
-                  <li style={{ marginBottom: '1.5rem' }}><strong>Emotional Intelligence:</strong> _____ / 10</li>
-                </ul>
+            <div className="self-profile-form" style={{ marginTop: '2rem' }}>
+              <div style={{ display: 'grid', gridTemplateColumns: 'auto 1fr 1fr', gridTemplateRows: 'auto 1fr 1fr', gap: '10px', height: '500px' }}>
+                {/* Headers */}
+                <div></div>
+                <div style={{ textAlign: 'center', fontWeight: 'bold', fontSize: '14pt' }}>Known to Self</div>
+                <div style={{ textAlign: 'center', fontWeight: 'bold', fontSize: '14pt' }}>Not Known to Self</div>
+                
+                {/* Row 1 */}
+                <div style={{ writingMode: 'vertical-rl', transform: 'rotate(180deg)', textAlign: 'center', fontWeight: 'bold', fontSize: '14pt' }}>Known to Others</div>
+                <div style={{ border: '2px solid black', padding: '15px' }}>
+                  <h3 style={{ borderBottom: 'none', margin: '0 0 10px 0' }}>Open Area (Arena)</h3>
+                  <p style={{ fontSize: '10pt', fontStyle: 'italic', color: '#555' }}>Traits both you and others know about you.</p>
+                </div>
+                <div style={{ border: '2px solid black', padding: '15px', backgroundColor: '#f9f9f9' }}>
+                  <h3 style={{ borderBottom: 'none', margin: '0 0 10px 0' }}>Blind Spot</h3>
+                  <p style={{ fontSize: '10pt', fontStyle: 'italic', color: '#555' }}>Traits others see in you, but you don't.</p>
+                </div>
+
+                {/* Row 2 */}
+                <div style={{ writingMode: 'vertical-rl', transform: 'rotate(180deg)', textAlign: 'center', fontWeight: 'bold', fontSize: '14pt' }}>Not Known to Others</div>
+                <div style={{ border: '2px solid black', padding: '15px', backgroundColor: '#f9f9f9' }}>
+                  <h3 style={{ borderBottom: 'none', margin: '0 0 10px 0' }}>Hidden Area (Façade)</h3>
+                  <p style={{ fontSize: '10pt', fontStyle: 'italic', color: '#555' }}>Traits you know about yourself but hide from others.</p>
+                </div>
+                <div style={{ border: '2px solid black', padding: '15px', backgroundColor: '#eaeaea' }}>
+                  <h3 style={{ borderBottom: 'none', margin: '0 0 10px 0' }}>Unknown</h3>
+                  <p style={{ fontSize: '10pt', fontStyle: 'italic', color: '#555' }}>Traits unknown to you and unknown to others.</p>
+                </div>
               </div>
-              <div className="form-section">
-                <h3>2. The Gap Analysis</h3>
-                <p className="form-prompt">Looking at your lowest score above, what is ONE specific thing you can do this semester to improve it?</p>
-                <div className="blank-space medium"></div>
+
+              <div className="form-section" style={{ marginTop: '3rem' }}>
+                <h3>Key Takeaway</h3>
+                <p className="form-prompt">What surprised you the most about your Blind Spot?</p>
+                <div className="blank-space small"></div>
               </div>
             </div>
           </div>
