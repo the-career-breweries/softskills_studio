@@ -243,7 +243,7 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
         {/* Giant Background Watermark */}
         <div 
           style={{ 
-            position: 'absolute', 
+            position: 'fixed', 
             top: '50%', 
             left: '50%', 
             transform: 'translate(-50%, -50%) rotate(-20deg)', 
