@@ -328,9 +328,10 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
                  ⚠️ {error}. Displaying fallback curriculum data.
                </div>
              )}
-             <div className="slide-body">
+             <div className="slide-body" style={{ position: 'relative', backgroundImage: 'radial-gradient(#e5e7eb 1px, transparent 1px)', backgroundSize: '40px 40px' }}>
                 {slides.length > 0 && (
-                  <ReactMarkdown 
+                  <div style={{ position: 'relative', zIndex: 10, width: '100%', height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+                    <ReactMarkdown 
                     remarkPlugins={[remarkGfm]}
                     components={{
                       code({ node, inline, className, children, ...props }: any) {
@@ -392,7 +393,8 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
                       .replace(/<!-- PRINT_SLIDE -->/g, '')
                       .replace(/<!-- TOPIC_GENERATOR -->/g, '')
                       .replace(/<!-- WELCOME_ANIMATIONS -->/g, '')}
-                  </ReactMarkdown>
+                    </ReactMarkdown>
+                  </div>
                 )}
                 
                 {/* Render Custom Components Based on Markdown Markers */}
@@ -441,6 +443,9 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
                       `}
                     </style>
 
+                    {/* Faint Confetti Background Pattern to fill white space */}
+                    <div style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', backgroundImage: 'url(https://cdn-icons-png.flaticon.com/512/3159/3159461.png)', backgroundSize: '150px', opacity: 0.15, zIndex: -1, animation: 'float 10s infinite linear' }}></div>
+
                     {/* Edge Streamers */}
                     <img src="https://cdn-icons-png.flaticon.com/512/5063/5063162.png" style={{ position: 'absolute', top: '0', left: '-5%', height: '100%', opacity: 0.3 }} alt="Streamers Left" />
                     <img src="https://cdn-icons-png.flaticon.com/512/5063/5063162.png" style={{ position: 'absolute', top: '0', right: '-5%', height: '100%', transform: 'scaleX(-1)', opacity: 0.3 }} alt="Streamers Right" />
@@ -468,8 +473,8 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
                     {/* Mid Right: Garfield (AI Orange Cat) */}
                     <img src="/images/orange_party_cat.jpg" className="sketch-meme" style={{ top: '40%', right: '28%', width: '150px', height: '150px', borderRadius: '50%' }} alt="Garfield" />
 
-                    {/* Mid Right (below Garfield): Party Poppers */}
-                    <div className="slang-bubble" style={{ top: '45%', right: '15%', clipPath: 'polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 25% 100%, 0% 60%, 10% 20%)', borderRadius: '0', background: 'yellow', padding: '30px 20px', textAlign: 'center' }}>Party<br/>Poppers</div>
+                    {/* Mid Right (below Garfield): Party Poppers (AI Image) */}
+                    <img src="/images/party_poppers_explosion.jpg" className="sketch-meme" style={{ top: '45%', right: '12%', width: '160px', height: '140px', borderRadius: '15px', animationDelay: '1.5s', zIndex: 5 }} alt="Party Poppers" />
 
                     {/* Bottom Right: Mr Bean (AI Funny Man) */}
                     <img src="/images/funny_suit_man.jpg" className="sketch-meme" style={{ bottom: '25%', right: '8%', width: '180px', height: '140px', borderRadius: '15px' }} alt="Funny Man" />
