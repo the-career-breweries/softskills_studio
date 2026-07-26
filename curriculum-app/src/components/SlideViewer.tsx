@@ -199,12 +199,13 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
 
   // Confetti effect for Orientation
   useEffect(() => {
-    if (weekData?.label === 'Orientation' && currentSlide === 0 && !isLoading) {
-      // Fire continuous fireworks for 3 seconds
-      const duration = 3000;
-      const end = Date.now() + duration;
+    let animationFrameId: number;
+    let isActive = true;
 
+    if (weekData?.label === 'Orientation' && currentSlide === 0 && !isLoading) {
       const frame = () => {
+        if (!isActive) return;
+
         confetti({
           particleCount: 5,
           angle: 60,
@@ -224,12 +225,18 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
           disableForReducedMotion: true
         });
 
-        if (Date.now() < end) {
-          requestAnimationFrame(frame);
-        }
+        animationFrameId = requestAnimationFrame(frame);
       };
+      
       frame();
     }
+
+    return () => {
+      isActive = false;
+      if (animationFrameId) {
+        cancelAnimationFrame(animationFrameId);
+      }
+    };
   }, [weekData, currentSlide, isLoading]);
 
   if (!weekData) return null;
