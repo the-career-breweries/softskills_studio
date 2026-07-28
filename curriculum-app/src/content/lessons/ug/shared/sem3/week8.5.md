@@ -1,7 +1,4 @@
----
-title: "Bridge Module: The 60-Minute Soft Skills Crash Course"
-description: "A high-energy session covering PREP, STAR, Debate, GDs, and Resumes."
----
+
 
 # Welcome to Semester 3!
 ### Let's get the admin out of the way first.
