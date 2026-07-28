@@ -1,63 +1,94 @@
-# Welcome to the Bridge Module
-## Sem 1 & 2 Crash Course
+---
+title: "Bridge Module: The 60-Minute Soft Skills Crash Course"
+description: "A high-energy session covering PREP, STAR, Debate, GDs, and Resumes."
+---
 
-Welcome! Since many of you are joining us for the first time in Semester 3, we are going to do a rapid-fire crash course on the most important concepts from Semester 1 and Semester 2.
+# Welcome to Semester 3!
+### Let's get the admin out of the way first.
 
-**What we will cover today:**
-* **Self-Awareness:** The Johari Window and understanding your baseline.
-* **Core Communication:** Active listening and speaking confidence.
-* **Group Discussions (GD):** The absolute basics of participating in a GD.
+```qrcode
+scan
+```
 
 ---
 
-# Core Concept 1: Self-Awareness
+# The PREP Method 
+### For Crisp, Concise 30-Second Speaking
 
-The foundation of all soft skills is self-awareness. If you don't know your strengths and weaknesses, you cannot improve them.
+When introducing yourself or making a quick point, never ramble. Use **PREP**:
 
-We use a tool called the **Johari Window** to map this out:
+* **P**oint: State your main idea immediately.
+* **R**eason: Why do you believe this?
+* **E**xample: Give one quick example to prove it.
+* **P**oint: Restate your main idea to close strong.
 
-<!-- PRINT: JohariWindow -->
-
-| The Johari Window | Known to Self | Unknown to Self |
-| :--- | :--- | :--- |
-| **Known to Others** | **OPEN AREA**: Traits you and others both see. | **BLIND SPOT**: Traits others see, but you don't. |
-| **Unknown to Others** | **HIDDEN AREA**: Secrets or fears you keep from others. | **UNKNOWN AREA**: Untapped potential. |
-
-Your goal this semester is to expand your **Open Area** by reducing your Blind Spots (through feedback) and reducing your Hidden Area (by building confidence).
+> **Example:** "I am great under pressure. Because I plan ahead. For example, during the college fest, the power went out, and I immediately pivoted the event to the courtyard. Therefore, I can handle crises."
 
 ---
 
-# Core Concept 2: Active Listening
+# The STAR Method
+### For "Volume Speaking" & Storytelling
 
-Communication isn't just about talking; it's about listening.
+When answering interview questions like *"Tell me about a time when..."*, use **STAR**:
 
-**The 3 Levels of Listening:**
-1. **Internal Listening:** You are focused on your own thoughts and what *you* will say next. (Bad for GDs).
-2. **Focused Listening:** You are focused entirely on the speaker's words. (Good).
-3. **Global Listening:** You are reading the room, noticing body language, energy, and what is *not* being said. (Excellent for leadership).
-
----
-
-# Core Concept 3: GD Basics
-
-In Semester 2, we covered the basics of Group Discussions. Here are the golden rules if you have never done a GD before:
-
-* **Quality over Quantity:** Speaking for 5 minutes of nonsense is worse than 30 seconds of high-impact insight.
-* **Don't just disagree, build:** Use phrases like *"Adding to what John said..."* or *"I see your point, however we must also consider..."*
-* **Include others:** If someone is quiet, a great leader will say, *"Sarah, you haven't shared yet. What are your thoughts on this?"*
+* **S**ituation: Set the scene (Where were you? What was the context?)
+* **T**ask: What was the specific challenge or goal?
+* **A**ction: What did **YOU** specifically do to solve it?
+* **R**esult: What was the outcome? (Use numbers if possible!)
 
 ---
 
-# Activity: The Mini GD
+# The Clash: Rapid-Fire Debate
+### 1 vs 1 (1 Minute Each)
 
-We are going to put you straight into the fire to test your baseline skills.
+Let's test your articulation. Two volunteers! You have 60 seconds each to argue FOR or AGAINST the topic below.
 
-Form groups of 6. You have 10 minutes to discuss the following topic:
+*Pro-tip: Use the PREP method to structure your argument so you don't get lost.*
 
-**"Is Artificial Intelligence making humans less intelligent?"**
+```topic-generator
+spin
+```
 
-*   **Observers:** 2 people in your group will NOT speak. They will only observe and take notes on who uses Active Listening, and who builds on others' points.
-*   **Participants:** 4 people will discuss.
-*   We will swap roles after 5 minutes.
+---
 
-Let's begin!
+# The Fishbowl Group Discussion
+### Welcome to the Boardroom
+
+We need **6 Volunteers** to form a circle in the center.
+
+**Your Goal:** Discuss the topic for 5 minutes. 
+**The Rest of the Class:** You are the Recruiters. Watch their body language, how they enter the conversation, and how they build on others' points.
+
+*Pro-tip: Use PREP to quickly jump in and make a point before someone interrupts you.*
+
+```topic-generator
+spin
+```
+
+---
+
+# The Resume Blueprint
+### The 10-Second ATS Scan
+
+Recruiters spend an average of **6 to 10 seconds** looking at your resume. If it's a block of text, it goes in the trash.
+
+* **Formatting:** Clean, simple, ATS-friendly (no crazy columns or graphics).
+* **Action Verbs:** Start every bullet point with an action verb (*Managed, Created, Led, Optimized*).
+* **Quantify:** "Increased sales by 15%" is infinitely better than "Worked in sales".
+
+**Did you bring a draft resume today?**
+If so, upload it to the form you opened at the start of class!
+
+---
+
+# Wrap Up!
+
+Thank you for your energy today! 
+
+Before you leave:
+1. Ensure you have submitted the Google Form from the start of class.
+2. If you didn't finish it, here is the QR code one last time!
+
+```qrcode
+scan
+```
