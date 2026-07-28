@@ -1,11 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import { WeekData } from '@/data/curriculum';
-import { X, ChevronLeft, ChevronRight, Loader2, Printer, ZoomIn, ZoomOut } from 'lucide-react';
+import { X, ChevronLeft, ChevronRight, Loader2, Printer, ZoomIn, ZoomOut, QrCode, Sparkles } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import mermaid from 'mermaid';
 import PrintTemplates from './PrintTemplates';
 import RandomTopicGenerator from './RandomTopicGenerator';
+import QRCodeForm from './QRCodeForm';
 import confetti from 'canvas-confetti';
 
 const Mermaid = ({ chart, theme }: { chart: string, theme: 'light' | 'dark' }) => {
@@ -339,7 +340,13 @@ export default function SlideViewer({ weekData, program, stream, semester, theme
                     remarkPlugins={[remarkGfm]}
                     components={{
                       code({ node, inline, className, children, ...props }: any) {
-                        const match = /language-(\w+)/.exec(className || '');
+                        const match = /language-(.+)/.exec(className || '');
+                        if (!inline && match && match[1] === 'qrcode') {
+                          return <QRCodeForm />;
+                        }
+                        if (!inline && match && match[1] === 'topic-generator') {
+                          return <RandomTopicGenerator />;
+                        }
                         if (!inline && match && match[1] === 'mermaid') {
                           return (
                             <>

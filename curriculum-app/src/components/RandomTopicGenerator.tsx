@@ -1,125 +1,100 @@
 import React, { useState } from 'react';
-import { Sparkles, Dices } from 'lucide-react';
 
 const TOPICS = [
-  "Book Smart vs. Street Smart: Which is actually more important for success today?",
-  "Should college attendance be strictly mandatory, or completely optional?",
-  "Work-from-home vs. Office: Which is better for a fresher's first job?",
-  "Are social media influencers actual 'entrepreneurs'?",
-  "Is Artificial Intelligence going to make us smarter or lazier?",
-  "Should a person's social media profile be checked by employers before hiring?",
-  "Is the 4-day work week a realistic future for India?"
+  "Is AI making students lazier?",
+  "Should college attendance be mandatory?",
+  "Is a B.Com degree enough in 2026?",
+  "Should companies ban remote work for entry-level roles?",
+  "Are traditional resumes dead?",
+  "Is social media a net positive for career growth?",
+  "Should the gig economy replace traditional employment?",
+  "Is the 4-day workweek viable in India?",
+  "Are soft skills more important than technical skills?",
+  "Should practical internships replace the final year of college?"
 ];
 
 export default function RandomTopicGenerator() {
-  const [currentTopic, setCurrentTopic] = useState<string | null>(null);
-  const [isGenerating, setIsGenerating] = useState(false);
+  const [currentTopic, setCurrentTopic] = useState("Click 'Spin' to Generate a Topic");
+  const [isSpinning, setIsSpinning] = useState(false);
 
-  const generateTopic = () => {
-    if (isGenerating) return;
+  const spinTopic = () => {
+    if (isSpinning) return;
+    setIsSpinning(true);
     
-    setIsGenerating(true);
-    
-    // Quick shuffle animation effect
-    let count = 0;
+    let spins = 0;
+    const maxSpins = 15;
     const interval = setInterval(() => {
       const randomIndex = Math.floor(Math.random() * TOPICS.length);
       setCurrentTopic(TOPICS[randomIndex]);
-      count++;
+      spins++;
       
-      if (count > 10) {
+      if (spins >= maxSpins) {
         clearInterval(interval);
-        setIsGenerating(false);
-        // Ensure final topic isn't just a flicker of the last animation frame
-        const finalIndex = Math.floor(Math.random() * TOPICS.length);
-        setCurrentTopic(TOPICS[finalIndex]);
+        setIsSpinning(false);
       }
-    }, 80);
+    }, 100);
   };
 
   return (
     <div style={{
-      marginTop: '2rem',
-      padding: '2rem',
-      borderRadius: '16px',
-      background: 'var(--bg-secondary)',
-      border: '1px solid var(--border-color)',
       display: 'flex',
       flexDirection: 'column',
       alignItems: 'center',
-      gap: '1.5rem',
-      textAlign: 'center'
+      justifyContent: 'center',
+      padding: '3rem',
+      background: 'rgba(30, 41, 59, 0.7)',
+      borderRadius: '24px',
+      border: '2px solid rgba(148, 163, 184, 0.2)',
+      margin: '2rem auto',
+      textAlign: 'center',
+      width: '100%',
+      maxWidth: '800px',
+      boxShadow: '0 20px 25px -5px rgba(0, 0, 0, 0.5), 0 10px 10px -5px rgba(0, 0, 0, 0.2)'
     }}>
       <div style={{
         minHeight: '120px',
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
-        width: '100%'
+        marginBottom: '2rem'
       }}>
-        {currentTopic ? (
-          <h2 style={{
-            fontSize: '1.8rem',
-            color: 'var(--accent-primary)',
-            lineHeight: '1.4',
-            margin: 0,
-            transition: 'all 0.3s ease',
-            opacity: isGenerating ? 0.5 : 1,
-            transform: isGenerating ? 'scale(0.98)' : 'scale(1)'
-          }}>
-            "{currentTopic}"
-          </h2>
-        ) : (
-          <p style={{
-            fontSize: '1.2rem',
-            color: 'var(--text-muted)',
-            margin: 0
-          }}>
-            Click the button below to generate a random topic for the next group.
-          </p>
-        )}
+        <h3 style={{ 
+          fontSize: '2.5rem', 
+          margin: 0, 
+          color: isSpinning ? '#94a3b8' : '#38bdf8',
+          transition: 'color 0.3s ease',
+          textShadow: isSpinning ? 'none' : '0 0 20px rgba(56, 189, 248, 0.5)'
+        }}>
+          {currentTopic}
+        </h3>
       </div>
-
-      <button
-        onClick={generateTopic}
-        disabled={isGenerating}
+      
+      <button 
+        onClick={spinTopic}
+        disabled={isSpinning}
         style={{
-          display: 'flex',
-          alignItems: 'center',
-          gap: '0.75rem',
-          padding: '1rem 2rem',
-          fontSize: '1.2rem',
-          fontWeight: '600',
+          background: isSpinning ? '#475569' : 'linear-gradient(135deg, #3b82f6, #8b5cf6)',
           color: 'white',
-          background: 'var(--accent-primary)',
           border: 'none',
-          borderRadius: '12px',
-          cursor: isGenerating ? 'not-allowed' : 'pointer',
+          padding: '1rem 3rem',
+          fontSize: '1.5rem',
+          fontWeight: 'bold',
+          borderRadius: '50px',
+          cursor: isSpinning ? 'not-allowed' : 'pointer',
+          boxShadow: isSpinning ? 'none' : '0 10px 15px -3px rgba(59, 130, 246, 0.4)',
           transition: 'all 0.2s ease',
-          boxShadow: '0 4px 12px rgba(79, 70, 229, 0.3)',
-          opacity: isGenerating ? 0.8 : 1
+          transform: isSpinning ? 'scale(0.95)' : 'scale(1)'
         }}
-        onMouseOver={(e) => {
-          if (!isGenerating) e.currentTarget.style.transform = 'translateY(-2px)';
-        }}
-        onMouseOut={(e) => {
-          if (!isGenerating) e.currentTarget.style.transform = 'translateY(0)';
-        }}
+        onMouseOver={(e) => { if (!isSpinning) e.currentTarget.style.transform = 'scale(1.05)'; }}
+        onMouseOut={(e) => { if (!isSpinning) e.currentTarget.style.transform = 'scale(1)'; }}
       >
-        <Dices size={24} className={isGenerating ? 'spin-animation' : ''} />
-        {isGenerating ? 'Selecting...' : 'Generate Random Topic'}
+        {isSpinning ? 'Selecting...' : 'Spin the Wheel'}
       </button>
-
-      <style dangerouslySetInnerHTML={{
-        __html: `
-        @keyframes spin {
-          from { transform: rotate(0deg); }
-          to { transform: rotate(360deg); }
-        }
-        .spin-animation {
-          animation: spin 1s linear infinite;
-        }
-      `}} />
+      <div style={{ marginTop: '1.5rem', display: 'flex', gap: '2rem', color: '#94a3b8', fontSize: '1.2rem', fontWeight: 'bold' }}>
+        <span style={{ color: '#ef4444' }}>FOR</span>
+        <span>VS</span>
+        <span style={{ color: '#22c55e' }}>AGAINST</span>
+      </div>
     </div>
   );
 }
