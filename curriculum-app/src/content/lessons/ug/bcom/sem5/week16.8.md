@@ -23,24 +23,28 @@ Start a fresh chat to keep the context clean.
 **2. Name it:** `"YourName_Career Goal"` (e.g., *Rahul_FinancialAnalyst*)
 **3. Set the Context:** Paste the following master prompt to feed the AI your entire profile:
 
-> **Name:** [Your Name]
-> **Contact No:** [Your Number]
-> **Email ID:** [Your Email]
-> **LinkedIn Profile:** [Your URL]
-> **Highest Qualification:** [Your Degree]
-> **Year of Passing:** [e.g., 2027]
-> **Tools Learnt:** [Tool 1], [Tool 2], [Tool 3]
-> **Skills:** [Skill 1], [Skill 2], [Skill 3]
-> 
-> *I have input all the information about my profile above. Assume the role of an expert career guide. As a career guide, I need your help in:*
-> *1. Building a Resume*
-> *2. Optimizing my LinkedIn*
-> *3. Identifying certifications or projects I should be taking up*
-> *4. Identifying ideal job roles, based on my qualification, interests, certifications, etc.*
-> 
-> *Ask me clarifying questions before guiding me further.*
+> **Name:** [Your Name]  
+> **Contact No:** [Your Number]  
+> **Email ID:** [Your Email]  
+> **LinkedIn Profile:** [Your URL]  
+> **Highest Qualification:** [Your Degree]  
+> **Year of Passing:** [e.g., 2027]  
+> **Tools Learnt:** [Tool 1], [Tool 2], [Tool 3]  
+> **Skills:** [Skill 1], [Skill 2], [Skill 3]  
+>   
+> *I have input all the information about my profile above. Assume the role of an expert career guide. As a career guide, I need your help in:*  
+> *1. Building a Resume*  
+> *2. Optimizing my LinkedIn*  
+> *3. Identifying certifications or projects I should be taking up*  
+> *4. Identifying ideal job roles, based on my qualification, interests, certifications, etc.*  
+>   
+> *Ask me clarifying questions before guiding me further.*  
 
-**Important Rules for Using AI:**
+---
+
+# 1. AI Prompting (Continued)
+### Important Rules for Using AI
+
 1. **It is an Intern, Not the Boss:** Treat AI like an intern. It can draft content quickly, but the final output is your responsibility. You must scrutinize and heavily edit what it generates.
 2. **ChatGPT is Just One Example:** There are many other Generative AI tools (like Claude, Gemini, or Copilot) that can be used for these exact same prompting strategies.
 3. **The Danger of Overuse:** If you copy-paste AI responses, your resume will sound robotic, generic, and identical to thousands of other students. Recruiters can easily spot "AI-speak" (e.g., "In today's fast-paced digital landscape..."). Use AI to structure your thoughts, but inject your own human voice into the final draft!
