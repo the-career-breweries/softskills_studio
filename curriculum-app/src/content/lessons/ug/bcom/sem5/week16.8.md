@@ -27,7 +27,10 @@ Once ChatGPT acknowledges, feed it your data with a strict instruction.
 
 > "Here is my resume: [Paste]. Here is the JD: [Paste]. Rewrite my resume bullet points to highlight the skills most relevant to this JD. Ensure every bullet point starts with an action verb and includes metrics where possible. Do not invent experience I don't have."
 
-*Caution:* Always review the output! AI hallucinates. Make sure it sounds like *you*.
+**Important Rules for Using AI:**
+1. **It is an Intern, Not the Boss:** Treat AI like an intern. It can draft content quickly, but the final output is your responsibility. You must scrutinize and heavily edit what it generates.
+2. **ChatGPT is Just One Example:** There are many other Generative AI tools (like Claude, Gemini, or Copilot) that can be used for these exact same prompting strategies.
+3. **The Danger of Overuse:** If you copy-paste AI responses, your resume will sound robotic, generic, and identical to thousands of other students. Recruiters can easily spot "AI-speak" (e.g., "In today's fast-paced digital landscape..."). Use AI to structure your thoughts, but inject your own human voice into the final draft!
 
 ---
 
