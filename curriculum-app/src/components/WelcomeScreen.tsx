@@ -160,9 +160,27 @@ export default function WelcomeScreen({ program, onProgramChange, onNext }: Welc
               Postgraduate (PG)
             </button>
           </div>
-          <button className="welcome-next-btn" onClick={onNext}>
-            Enter Platform <ChevronRight size={24} />
-          </button>
+          <div style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
+            <a href="/workshops/admin" style={{
+              display: 'flex',
+              alignItems: 'center',
+              gap: '0.5rem',
+              padding: '0.8rem 1.5rem',
+              background: '#f0f4f8',
+              color: 'var(--accent-primary)',
+              borderRadius: '30px',
+              fontWeight: 600,
+              textDecoration: 'none',
+              border: '1px solid #cce0ff',
+              transition: 'all 0.2s'
+            }}>
+              <Briefcase size={20} />
+              Paid Workshops
+            </a>
+            <button className="welcome-next-btn" onClick={onNext}>
+              Enter Platform <ChevronRight size={24} />
+            </button>
+          </div>
         </div>
 
       </div>

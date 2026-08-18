@@ -279,6 +279,18 @@ export default function CurriculumApp() {
           <div className="lms-layout">
             {/* Sidebar Navigation */}
             <aside className="lms-sidebar">
+              
+              {/* Workshops Link */}
+              <div className="lms-sidebar-section pb-4 mb-4 border-b border-gray-200 dark:border-gray-700">
+                <a 
+                  href="/workshops/admin" 
+                  className="flex items-center gap-2 p-3 bg-blue-50 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 rounded-lg hover:bg-blue-100 dark:hover:bg-blue-900/50 transition-colors font-medium border border-blue-200 dark:border-blue-800 shadow-sm"
+                >
+                  <Users size={18} />
+                  Paid Workshops Gateway
+                </a>
+              </div>
+
               <div className="lms-sidebar-section">
                 <h3 className="sidebar-heading">Course Selection</h3>
                 <div className="sidebar-select-group">
